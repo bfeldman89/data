@@ -28,7 +28,52 @@ def get_raw_mfs_csvs():
 
 
 def clean_raw_csvs():
-    os.chdir('/Users/blakefeldman/code/data/mdoc/monthly_fact_sheets/raw')
-    for fn in os.listdir('.'):
-        if fn.endswith('page-1-table-1.csv'):
-            print('first table')  # filler code to prevent error/warning
+    os.chdir('/Users/blakefeldman/code/data/mdoc/daily_pop/raw')
+    files = os.listdir('.')
+    for fn in files:
+        try:
+            pd.read_csv(fn, header=None).T.to_csv(f"transposed_{fn}", header=False, index=False)
+        except:
+            print(fn, 'fucked up')
+
+files = os.listdir('.')
+for fn in files:
+    if fn.startswith('transposed_'):
+        print('first table')  # filler code to prevent error/warning
+
+
+
+headers = []
+
+files = os.listdir('.')
+for fn in files:
+    try:
+        with open(fn, 'r') as f:
+            d_reader = csv.DictReader(f)
+            headers.extend(d_reader.fieldnames)
+    except UnicodeDecodeError as err:
+        print(fn, '------->', err)
+    print(fn)
+
+
+x = list(set(headers))
+
+def csv_to_airtab():
+    airtab = Airtable(os.environ['other_scrapers_db'], 'new', os.environ['AIRTABLE_API_KEY'])
+    files = os.listdir('.')
+    for fn in files:
+        if fn.endswith('.csv'):
+            with open(fn, newline='') as csvfile:
+                reader = csv.DictReader(csvfile)
+                for row in reader:
+                    try:
+                        airtab.insert(row, typecast=True)
+                    except:
+                        print(fn, 'fucked up')
+
+
+for fn in files:
+    with open(fn, newline='') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            airtab.insert(row, typecast=True)
