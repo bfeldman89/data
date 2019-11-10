@@ -1,10 +1,7 @@
 "","","MISSISSIPPI DEPARTMENT OF CORRECTIONS","","",""
 "","","MONTHLY FACT SHEET","","",""
 "","","As of April 1, 2002","","",""
-"COMMUNITY CORRECTIONS STATISTICS","","","","",""
-"ACTIVE CASELOADS","","","","",""
-"","NO. OF","% of TOTAL","","",""
-"STATUS","OFFENDERS","OFFENDERS","","",""
+"STATUS","NO. OF OFFENDERS","% OF TOTAL OFFENDERS","","",""
 "Probation","10,552","53.31%","","",""
 "Compact Probation","1,052","5.31%","","",""
 "Nonadjudicated","1,860","9.40%","","",""
@@ -44,11 +41,11 @@ MALE","POPULATION","FEMALE","POPULATION","OFFENDERS","OFFENDERS"
 "NO. OF","% of TOTAL","","","",""
 "OFFENSE
 OFFENDERS","OFFENDERS","","","",""
-"Violent 
+"Violent
 1,985","12.75%","","","",""
-"Property 
+"Property
 8,938","57.40%","","","",""
-"Drug 
+"Drug
 4,649","29.85%","","","",""
 "TOTAL
 15,572","100.00%","","","",""

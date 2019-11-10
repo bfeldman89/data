@@ -1,7 +1,4 @@
-"COMMUNITY CORRECTIONS STATISTICS","","","","",""
-"ACTIVE CASELOADS","","","","",""
-"","NO. OF","% of TOTAL","","",""
-"STATUS","OFFENDERS","OFFENDERS","","",""
+"STATUS","NO. OF OFFENDERS","% OF TOTAL OFFENDERS","","",""
 "Probation","11,148","57.21%","","",""
 "Compact Probation","1,088","5.58%","","",""
 "Nonadjudicated","1,887","9.68%","","",""
@@ -41,11 +38,11 @@ MALE","POPULATION","FEMALE","POPULATION","OFFENDERS","OFFENDERS"
 "NO. OF","% of TOTAL","","","",""
 "OFFENSE
 OFFENDERS","OFFENDERS","","","",""
-"Violent 
+"Violent
 1,960","12.51%","","","",""
-"Property 
+"Property
 9,016","57.53%","","","",""
-"Drug 
+"Drug
 4,696","29.96%","","","",""
 "TOTAL
 15,672","100.00%","","","",""
@@ -71,11 +68,11 @@ MALE","POPULATION","FEMALE","POPULATION","OFFENDERS","OFFENDERS"
 "NO. OF","% of TOTAL","","","",""
 "OFFENSE
 OFFENDERS","OFFENDERS","","","",""
-"Violent 
+"Violent
 741","44.27%","","","",""
-"Property 
+"Property
 412","24.61%","","","",""
-"Drug 
+"Drug
 521","31.12%","","","",""
 "TOTAL
 1,674","100.00%","","","",""

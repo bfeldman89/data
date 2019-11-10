@@ -25,3 +25,10 @@ def get_raw_mfs_csvs():
         url = rec['fields']['url']
         tables = camelot.read_pdf(url, flavor='stream', pages=pages)
         tables.export(fn, f='csv')
+
+
+def clean_raw_csvs():
+    os.chdir('/Users/blakefeldman/code/data/mdoc/monthly_fact_sheets/raw')
+    for fn in os.listdir('.'):
+        if fn.endswith('page-1-table-1.csv'):
+            print('first table')  # filler code to prevent error/warning
