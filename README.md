@@ -20,7 +20,7 @@
 
 | table          | content                                        | link   |
 | :---           | :---                                           | :---:  |
-| `table_1.csv`  | active offender population by type             | [:link:](https://github.com/bfeldman89/data/blob/master/mdoc/monthly_fact_sheets/table-1.csv)|
+| `table_1.csv`  | active offender population by type             | [:link:](https://github.com/bfeldman89/data/blob/master/mdoc/monthly_fact_sheets/table_1.csv)|
 | `table_2.csv`  | inmate statistics by location                  | __TK__ |
 | `table_3.csv`  | inmate statistics by race and sex              | __TK__ |
 | `table_4.csv`  | inmate statistics by race, sex and location    | __TK__ |
