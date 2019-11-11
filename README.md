@@ -9,28 +9,28 @@
 
 ### daily population
 
-| tables | repos |
-| :---         |     :---:      |
-| daily inmate population   | [:link:](https://github.com/bfeldman89/data)     |
+| table | content | link |
+| :---         | :---         |     :---:      |
+`daily_pop_2001-2019.csv`  | daily inmate population   | [:link:](https://github.com/bfeldman89/data/blob/master/mdoc/daily_pop/daily_pop_2001-2019.csv)     |
 
 
 ### monthly fact sheets
 
 
 
-| table | content | link |
-| :--- | :---         |     :---:      |
-| `T 1` | active offender population by type   | [:link:](https://github.com/bfeldman89/data/blob/master/mdoc/monthly_fact_sheets/table-1.csv)     |
-| `T 2` | inmate statistics by location     | [:link:](https://github.com/bfeldman89/data)       |
-| `T 3` | inmate statistics by race and sex   | [:link:](https://github.com/bfeldman89/data)     |
-| `T 4` | inmate statistics by race, sex and location     | [:link:](https://github.com/bfeldman89/data)       |
-| `T 5` | inmate statistics by offense and location   | [:link:](https://github.com/bfeldman89/data)     |
-| `T 6` | specific offense statistic     | [:link:](https://github.com/bfeldman89/data)       |
-| `T 7` | active community corrections caseloads by type   | [:link:](https://github.com/bfeldman89/data)     |
-| `T 8` | probation statistics by race and sex     | [:link:](https://github.com/bfeldman89/data)       |
-| `T 9` | probation statistics by offense   | [:link:](https://github.com/bfeldman89/data)     |
-| `T 10` | parole statistics by race and sex     | [:link:](https://github.com/bfeldman89/data)       |
-| `T 11` | parole statistics by offense     | [:link:](https://github.com/bfeldman89/data)       |
+| table          | content                                        | link   |
+| :---           | :---                                           | :---:  |
+| `table_1.csv`  | active offender population by type             | [:link:](https://github.com/bfeldman89/data/blob/master/mdoc/monthly_fact_sheets/table-1.csv)|
+| `table_2.csv`  | inmate statistics by location                  | __TK__ |
+| `table_3.csv`  | inmate statistics by race and sex              | __TK__ |
+| `table_4.csv`  | inmate statistics by race, sex and location    | __TK__ |
+| `table_5.csv`  | inmate statistics by offense and location      | __TK__ |
+| `table_6.csv`  | specific offense statistic                     | __TK__ |
+| `table_7.csv`  | active community corrections caseloads by type | __TK__ |
+| `table_8.csv`  | probation statistics by race and sex           | __TK__ |
+| `table_9.csv`  | probation statistics by offense                | __TK__ |
+| `table_10.csv` | parole statistics by race and sex              | __TK__ |
+| `table_11.csv` | parole statistics by offense                   | __TK__ |
 
 
 ___
