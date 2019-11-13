@@ -1,6 +1,9 @@
-"BY RACE/SEX AND LOCATION","","","","","","","","","","","","","","","","","","",""
+
+"BY RACE/SEX AND LOCATION","","","","","","","","","","","","","","","","",""
+
+,"",""
 "","","Black","","","White","","","Hispanic","","","Native American","","","Asian","","","Data Unavailable","","TOTAL"
-"LOCATION","Male","","Female","Male","","Female","Male","","Female","Male","","Female","Male","","Female","Male","Female","",""
+"LOCATION","Black Male","Black Female","White Male","White Female","Hispanic Male","Hispanic Female","Native American Male","Native American Female","Asian Male","Asian Female","Data Unavailable Male","Data Unavailable Female","TOTAL"
 "MSP","2,258","","0","1,052","","0","13","","0","5","","0","3","","0","0","0","","3,331"
 "CMCF","1,273","","420","708","","475","15","","2","2","","3","3","","0","0","0","","2,901"
 "SMCI","2,083","","0","1,087","","0","47","","0","5","","0","9","","0","0","0","","3,231"
