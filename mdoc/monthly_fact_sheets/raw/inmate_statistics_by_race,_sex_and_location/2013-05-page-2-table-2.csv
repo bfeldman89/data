@@ -1,12 +1,5 @@
 "BY RACE/SEX AND LOCATION","","","","","","",""
-"","","Black","White","Hispanic","Native American","Asian","Data Unavailable
-TOTAL"
-"LOCATION","Male","Female","Male
-Female","Male
-Female","Male
-Female","Male
-Female","Male
-Female"
+"LOCATION","Black Male","Black Female","White Male","White Female","Hispanic Male","Hispanic Female","Native American Male","Native American Female","Asian Male","Asian Female","Data Unavailable Male","Data Unavailable Female","TOTAL"
 "MSP","2,298","0","1,033
 0","12
 0","2

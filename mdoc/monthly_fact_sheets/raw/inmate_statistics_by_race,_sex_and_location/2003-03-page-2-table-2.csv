@@ -1,6 +1,4 @@
-"BY RACE/SEX AND LOCATION","","","","","","","","","","","","",""
-"","Black","","White","","Hispanic","","Native American","","Asian","","Data Unavailable","","TOTAL"
-"LOCATION","Male","Female","Male","Female","Male","Female","Male","Female","Male","Female","Male","Female",""
+"LOCATION","Black Male","Black Female","White Male","White Female","Hispanic Male","Hispanic Female","Native American Male","Native American Female","Asian Male","Asian Female","Data Unavailable Male","Data Unavailable Female","TOTAL"
 "MSP","4,139","1","1,413","0","31","0","5","0","4","0","0","0","5,593"
 "CMCF","1,056","818","617","512","13","5","8","1","2","2","0","0","3,034"
 "SMCI","1,409","0","722","0","19","0","3","0","6","0","0","0","2,159"

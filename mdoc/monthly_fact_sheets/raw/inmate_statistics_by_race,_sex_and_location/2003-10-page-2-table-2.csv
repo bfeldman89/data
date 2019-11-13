@@ -5,8 +5,7 @@
 "BY RACE AND SEX","","","","","","","","","",""
 "","","","% OF","","% OF","","","% OF","",""
 "","","TOTAL MALE","","","TOTAL FEMALE","","NO. OF","TOTAL","",""
-"RACE
-MALE","","POPULATION","","FEMALE","POPULATION","","OFFENDERS","OFFENDERS","",""
+"RACE","MALE","","POPULATION","","FEMALE","POPULATION","","OFFENDERS","OFFENDERS","",""
 "Black","14,878","","69.85%","1,217","54.82%","","16,095","68.43%","",""
 "White","6,261","","29.39%","983","44.28%","","7,244","30.80%","",""
 "Hispanic","113","","0.53%","9","0.41%","","122","0.52%","",""
