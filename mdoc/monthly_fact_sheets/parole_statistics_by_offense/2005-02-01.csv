@@ -1,18 +1,5 @@
-BY OFFENSE
-OFFENSE
-NO. OF
-% of TOTAL
-OFFENDERS
-OFFENDERS
-Violent
-543
-24.35%
-Property
-853
-38.25%
-Drug
-834
-TOTAL
-2,230
-37.40%
-100.00%
+"OFFENSE","NO. OF OFFENDERS","% of TOTAL OFFENDERS"
+Violent","543","24.35%"
+"Property","853","38.25%"
+"Drug","834","37.40%"
+TOTAL,"2,230","100.00%"
