@@ -1,64 +1,8 @@
-PAROLE STATISTICS
-BY RACE AND SEX
-% OF
-% OF
-TOTAL MALE
-TOTAL FEMALE
-NO. OF
-% OF TOTAL
-MALE
-POPULATION
-FEMALE
-POPULATION
-OFFENDERS
-OFFENDERS
-Black
-3,604
-66.47%
-524
-45.17%
-4,128
-62.72%
-White
-1,781
-32.85%
-627
-54.05%
-2,408
-36.58%
-Hispanic
-27
-.50%
-6
-.52%
-33
-.50%
-Native American
-2
-.04%
-1
-.09%
-3
-.05%
-Asian
-6
-.11%
-1
-.09%
-7
-.11%
-Data Unavailable
-2
-.04%
-1
-.09%
-3
-.05%
-5,422
-100.00%
-1,160
-100.00%
-6,582
-100.00%
-RACE
-TOTAL
+"RACE","MALE","% OF TOTAL MALE POPULATION","FEMALE","% OF TOTAL FEMALE POPULATION","NO. OF OFFENDERS","% OF TOTAL OFFENDERS"
+"Black","3,604","66.47%","524","45.17%","4,128","62.72%"
+"White","1,781","32.85%","627","54.05%","2,408","36.58%"
+"Hispanic","27",".50%","6",".52%","33",".50%"
+"Native American","2",".04%","1",".09%","3",".05%"
+"Asian","6",".11%","1",".09%","7",".11%"
+"Data Unavailable","2",".04%","1",".09%","3",".05%"
+"TOTAL","5,422","100.00%","1,160","100.00%","6,582","100.00%"
