@@ -1,13 +1,7 @@
-NO. OF
-TYPE OF OFFENDER
-Armed Robbers (Mandatory)
-OFFENDERS
-1,723
-"Lifers","1,651
-"Habitual Offenders","1,414
-"Habitual Lifers"
-"Death Row"
-"TOTAL"
-259
-63
-5,110
+"TYPE OF OFFENDER","NO. OF OFFENDERS"
+"Armed Robbers (Mandatory)","1,723"
+"Lifers","1,651"
+"Habitual Offenders","1,414"
+"Habitual Lifers","259"
+"Death Row","63"
+"TOTAL","5,110"
