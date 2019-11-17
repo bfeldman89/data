@@ -85,10 +85,7 @@ for rec in records:
 # camelot -p 3 stream -R 33,324,579,42 https://www.mdoc.ms.gov/Admin-Finance/MonthlyFacts/12-01-2016%20Fact%20Sheet.pdf
 # tables[1].to_csv('2016-12.csv')
 
-
-def csv_linter():
-    path = '/Users/blakefeldman/code/data/mdoc/monthly_fact_sheets'
-    folders = ['specific_offense_stats',
+muh_folders = ['specific_offense_stats',
                'probation_stats_by_race_and_sex',
                'probation_stats_by_offense',
                'parole_stats_by_race_and_sex',
@@ -99,6 +96,10 @@ def csv_linter():
                'active_offender_pop_by_type',
                'active_community_corrections_pop_by_type',
                'inmate_stats_by_offense_and_location']
+
+
+def csv_linter(folders):
+    path = '/Users/blakefeldman/code/data/mdoc/monthly_fact_sheets'
     for folder in folders:
         os.chdir(f"{path}/{folder}")
         files = os.listdir('.')
