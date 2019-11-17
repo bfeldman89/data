@@ -1,12 +1,17 @@
-# data
+# tasks
 
-...
+- [x] clean inmate statistics by location
+- [x] clean inmate statistics by race and sex (2001 - 2005)
+- [ ] clean inmate statistics by race and sex (2006 - 2019)
+- [ ] clean inmate statistics by race, sex and location
+- [ ] clean inmate statistics by offense and location
+- [x] clean specific offense statistic
+- [ ] clean active community corrections caseloads by type
+- [ ] clean probation statistics by race and sex
+- [ ] clean probation statistics by offense
+- [ ] clean parole statistics by race and sex
+- [ ] clean parole statistics by offense
 
-...
-
-...
-
-...
 
 ## mdoc
 
