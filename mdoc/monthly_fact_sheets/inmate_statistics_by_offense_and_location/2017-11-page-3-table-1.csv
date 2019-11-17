@@ -1,5 +1,4 @@
-"LOCATION","DRUG OFFENSES","PROPERTY OFFENSES","AGGREVATED VIOLENTOFFENSES","SEX OFFENSES","TOTAL"
-
+"LOCATION","DRUG OFFENSES","PROPERTY OFFENSES","VIOLENT OFFENSES","SEX OFFENSES","AGGREVATED ASSAULT OFFENSES","TOTAL"
 "MSP","487","458","1,625","570","197","3,337"
 "CMCF","891","949","1,167","327","146","3,480"
 "SMCI","428","475","1,098","468","148","2,617"
@@ -21,11 +20,9 @@
 "Earned Release Supervision","106","34","344","4","123","611"
 "Medical Release","7","3","2","0","0","12"
 "Other Custody","153","185","80","29","9","456"
-"At Large","","16","6","0","0","30"
-"Conditional Release","","0","2","1","0","3"
-"FTR- Monitoring","","3","0","0","0",""
-"Off-Grounds Medical (Hospital)","","3","1","0","0",""
+"At Large","8","16","6","0","0","30"
+"Conditional Release","0","0","2","1","0","3"
+"FTR- Monitoring","3","3","0","0","0","6"
+"Off-Grounds Medical (Hospital)","2","3","1","0","0","6"
 "TOTAL","4,420","4,158","8,182","2,861","1,204","20,825"
-"% OF TOTAL OFFENSES","21.23%","19.97%","39.29%","13.74%","5.78%","8 0 3 2
-66
-100.00%"
+"% OF TOTAL OFFENSES","21.23%","19.97%","39.29%","13.74%","5.78%","100.00%"
