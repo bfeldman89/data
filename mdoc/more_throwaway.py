@@ -144,7 +144,7 @@ def get_coordinates(left, top, width, height):
 
 for mo in months:
     try:
-        
+
 
 a = pd.read_csv("filea.csv")
 b = pd.read_csv("fileb.csv")
@@ -153,4 +153,9 @@ b = pd.read_csv("fileb.csv")
 merged = a.merge(b, on='title')
 merged.to_csv("output.csv", index=False)
 
+
+date	Custody Population	Community Corrections	Other Custody	At Large	Off-Grounds Medical	Parolees	TVC Parole	Probationers	TVC Probation
+2019-08-01
+2019-09-03
+2019-10-01  
 """
