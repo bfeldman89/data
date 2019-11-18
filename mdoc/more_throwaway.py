@@ -107,10 +107,10 @@ def csv_linter(folders):
             if fn.endswith('.csv'):
                 report = validate(fn)
                 if report['valid']:
-                    pass
+                    print(fn)
                 else:
                     print(
-                        f"{report['error-count']} error(s) in {folder}/{report['tables'][0]['source']} ")
+                        f"{report['error-count']} error(s) in {report['tables'][0]['source']} ")
 
 # csv_linter('inmate_statistics_by_location')
 # csv_linter('parole_statistics_by_offense')
