@@ -72,11 +72,10 @@ airtab = Airtable(os.environ['other_scrapers_db'],
 
 records = airtab.get_all(view='dev', fields=['url', 'csv', 'p'])
 len(records)
-os.getcwd()
-os.chdir('/Users/blakefeldman/code/data/mdoc')
+os.chdir('/Users/blakefeldman/code/data/mdoc/x')
 
 for rec in records:
-    tables = camelot.read_pdf(rec['fields']['url'], flavor='stream', pages=rec['fields']['p'], table_regions=['33,324,579,42'])
+    tables = camelot.read_pdf(rec['fields']['url'], flavor='stream', pages=rec['fields']['p'], table_regions=['25,362,595,87'])
     tables.export(rec['fields']['csv'], f='csv')
 
 """
@@ -122,3 +121,21 @@ def csv_linter(folders):
 # csv_linter('probation_statistics_by_race_and_sex')
 # csv_linter('parole_statistics_by_race_and_sex')
 # csv_linter('specific_offense_statistic')
+
+def get_coordinates(left, top, width, height):
+    x1 = left
+    y1 = 792 - top
+    x2 = left + width
+    y2 = y1 - height
+    return f"{x1},{y1},{x2},{y2}"
+
+"""
+
+a = pd.read_csv("filea.csv")
+b = pd.read_csv("fileb.csv")
+
+
+merged = a.merge(b, on='title')
+merged.to_csv("output.csv", index=False)
+
+"""
