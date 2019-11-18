@@ -11,10 +11,10 @@ airtab = Airtable(os.environ['other_scrapers_db'],
 dc = DocumentCloud(
     os.environ['DOCUMENT_CLOUD_USERNAME'], os.environ['DOCUMENT_CLOUD_PW'])
 
-records = airtab.get_all(view='dev', fields=['url', 'csv'])
 
 
 def csv_writer():
+    records = airtab.get_all(view='dev', fields=['dc_id', 'txt_2'])
     for rec in records:
         fn = rec['fields']['csv']
         content = rec['fields']['txt_2']
@@ -22,16 +22,15 @@ def csv_writer():
             f.write(content)
         print(fn)
 
+def get_txt():
+    records = airtab.get_all(view='dev', fields='dc_id')
+    for rec in records:
+        obj = dc.documents.get(rec['fields']['dc_id'])
+        this_dict = {}
+        this_dict['dc_full_text'] = obj.full_text.decode("utf-8")
+        airtab.update(rec['id'], this_dict)
+        time.sleep(.7)
 
-records = airtab.get_all(view='dev', fields='dc_id')
-for rec in records:
-    obj = dc.documents.get(rec['fields']['dc_id'])
-    this_dict = {}
-    this_dict['dc_full_text'] = obj.full_text.decode("utf-8")
-    airtab.update(rec['id'], this_dict)
-    time.sleep(.7)
-
-os.chdir('../parole_statistics_by_race_and_sex')
 
 
 def some_shit():
@@ -85,31 +84,43 @@ for rec in records:
 # tables[1].to_csv('2016-12.csv')
 
 muh_folders = ['specific_offense_stats',
-               'probation_stats_by_race_and_sex',
-               'probation_stats_by_offense',
-               'parole_stats_by_race_and_sex',
-               'parole_stats_by_offense',
-               'inmate_stats_by_race_sex_and_location',
-               'inmate_stats_by_race_and_sex',
-               'inmate_stats_by_location',
-               'active_offender_pop_by_type',
-               'active_community_corrections_pop_by_type',
-               'inmate_stats_by_offense_and_location']
+               'probation_pop_by_race_and_sex',
+               'probation_pop_by_offense',
+               'parole_pop_by_race_and_sex',
+               'parole_pop_by_offense',
+               'inmate_pop_by_race_sex_and_location',
+               'inmate_pop_by_race_and_sex',
+               'inmate_pop_by_location',
+               'corrections_pop_by_type',
+               'community_corrections_pop_by_type',
+               'inmate_pop_by_offense_and_location']
 
+                inmate_pop_by_location
+                inmate_pop_by_offense_and_location
+                inmate_pop_by_race_and_sex
+                inmate_pop_by_race_sex_and_location
+                parole_pop_by_offense
+                parole_pop_by_race_and_sex
+                probation_pop_by_offense
+                probation_pop_by_race_and_sex
+                specific_offense_stats
 
 def csv_linter(folders):
-    path = '/Users/blakefeldman/code/data/mdoc/monthly_fact_sheets'
     for folder in folders:
-        os.chdir(f"{path}/{folder}")
+        os.chdir(f"/Users/blakefeldman/code/data/mdoc/monthly_fact_sheets/{folder}")
         files = os.listdir('.')
         for fn in files:
             if fn.endswith('.csv'):
                 report = validate(fn)
                 if report['valid']:
-                    print(fn)
+                    pass
+                    # print(fn)
                 else:
                     print(
-                        f"{report['error-count']} error(s) in {report['tables'][0]['source']} ")
+                        f"\t{report['error-count']} error(s) in {folder}/{report['tables'][0]['source']}")
+        print(f"done with {folder}!!")
+
+
 
 # csv_linter('inmate_statistics_by_location')
 # csv_linter('parole_statistics_by_offense')
@@ -130,6 +141,10 @@ def get_coordinates(left, top, width, height):
     return f"{x1},{y1},{x2},{y2}"
 
 """
+
+for mo in months:
+    try:
+        
 
 a = pd.read_csv("filea.csv")
 b = pd.read_csv("fileb.csv")
