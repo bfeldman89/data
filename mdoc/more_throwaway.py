@@ -75,7 +75,7 @@ muh_folders = ['specific_offense_stats',
 
 def csv_linter(folders):
     for folder in folders:
-        os.chdir(f"/Users/blakefeldman/code/data/mdoc/daily_pop/{folder}")
+        os.chdir(f"/Users/blakefeldman/code/data/mdoc/monthly_fact_sheets/{folder}")
         files = os.listdir('.')
         files.sort()
         for fn in files:
