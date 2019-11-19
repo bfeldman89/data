@@ -2,6 +2,7 @@ import os
 import time
 from airtable import Airtable
 import camelot
+import pandas as pd
 from documentcloud import DocumentCloud
 from goodtables import validate
 
@@ -52,36 +53,12 @@ def fix_fn():
         if len(fn) > 11:
             os.rename(fn, f"{fn[:7]}.csv")
 
-    records = airtab.get_all(view='dev', fields=['url', 'csv'])
+    records = airtab.get_all(view='dev', fields=['url', 'csv', 'p'])
     for rec in records:
         tables = camelot.read_pdf(
             rec['fields']['url'], flavor='stream', pages='2', table_regions=['50,342,487,160'])
-        tables[0].to_csv(rec['fields']['csv'])
-
-
-"""
-import os
-import time
-from airtable import Airtable
-import camelot
-from documentcloud import DocumentCloud
-
-airtab = Airtable(os.environ['other_scrapers_db'],
-                  'mdoc', os.environ['AIRTABLE_API_KEY'])
-
-records = airtab.get_all(view='dev', fields=['url', 'csv', 'p'])
-len(records)
-os.chdir('/Users/blakefeldman/code/data/mdoc/x')
-
-for rec in records:
-    tables = camelot.read_pdf(rec['fields']['url'], flavor='stream', pages=rec['fields']['p'], table_regions=['25,362,595,87'])
-    tables.export(rec['fields']['csv'], f='csv')
-
-"""
-
-# or via command line
-# camelot -p 3 stream -R 33,324,579,42 https://www.mdoc.ms.gov/Admin-Finance/MonthlyFacts/12-01-2016%20Fact%20Sheet.pdf
-# tables[1].to_csv('2016-12.csv')
+        tables = camelot.read_pdf(rec['fields']['url'], flavor='stream', pages=rec['fields']['p'], table_regions=['25,362,595,87'])
+        tables.export(rec['fields']['csv'], f='csv')
 
 muh_folders = ['specific_offense_stats',
                'probation_pop_by_race_and_sex',
@@ -95,20 +72,12 @@ muh_folders = ['specific_offense_stats',
                'community_corrections_pop_by_type',
                'inmate_pop_by_offense_and_location']
 
-                inmate_pop_by_location
-                inmate_pop_by_offense_and_location
-                inmate_pop_by_race_and_sex
-                inmate_pop_by_race_sex_and_location
-                parole_pop_by_offense
-                parole_pop_by_race_and_sex
-                probation_pop_by_offense
-                probation_pop_by_race_and_sex
-                specific_offense_stats
 
 def csv_linter(folders):
     for folder in folders:
-        os.chdir(f"/Users/blakefeldman/code/data/mdoc/monthly_fact_sheets/{folder}")
+        os.chdir(f"/Users/blakefeldman/code/data/mdoc/daily_pop/{folder}")
         files = os.listdir('.')
+        files.sort()
         for fn in files:
             if fn.endswith('.csv'):
                 report = validate(fn)
@@ -140,22 +109,22 @@ def get_coordinates(left, top, width, height):
     y2 = y1 - height
     return f"{x1},{y1},{x2},{y2}"
 
-"""
 
-for mo in months:
-    try:
-
-
-a = pd.read_csv("filea.csv")
-b = pd.read_csv("fileb.csv")
-
-
-merged = a.merge(b, on='title')
-merged.to_csv("output.csv", index=False)
-
-
-date	Custody Population	Community Corrections	Other Custody	At Large	Off-Grounds Medical	Parolees	TVC Parole	Probationers	TVC Probation
-2019-08-01
-2019-09-03
-2019-10-01  
-"""
+def merge_dp():
+    os.chdir('/Users/blakefeldman/code/data/mdoc/daily_pop/raw')
+    records = airtab.get_all(view='dev', fields=['iso', 'dc_pages'])
+    for rec in records:
+        a = pd.read_csv(f"{rec['fields']['iso']}-p1.csv")
+        b = pd.read_csv(f"{rec['fields']['iso']}-p2.csv")
+        m1 = pd.merge(a, b, on='Location')
+        if rec['fields']['dc_pages'] == 2:
+            merged = m1
+        else:
+            c = pd.read_csv(f"{rec['fields']['iso']}-p3.csv")
+            if rec['fields']['dc_pages'] == 4:
+                d = pd.read_csv(f"{rec['fields']['iso']}-p4.csv")
+                m2 = pd.merge(c, d, on='Location')
+                merged = pd.merge(m1, m2, on='Location')
+            elif rec['fields']['dc_pages'] == 3:
+                merged = pd.merge(m1, c, on='Location')
+        merged.to_csv(f"{rec['fields']['iso']}.csv", index=False)
