@@ -1,4 +1,4 @@
-"INMATES","NO. OF OFFENDERS","% OF TOTALOFFENDERS"
+"type","count","percent_of_total"
 "Custody Population","18,086","48.19%"
 "Community Corrections (ERS, ISP, Medical Release)","2,104","5.61%"
 "Other Custody","200","0.53%"

@@ -1,4 +1,4 @@
-"LOCATION","DRUG OFFENSES","NON-VIOLENT OFFENSES","SEX OFFENSES","VIOLENT OFFENSES","TOTAL"
+"location","drug_offenses","NON-violent_offenses","sex_offenses","violent_offenses","total"
 "MSP","398","353","553","1,928","3,232"
 "CMCF","925","926","356","1,429","3,636"
 "SMCI","464","404","483","1,294","2,645"
@@ -15,7 +15,7 @@
 "RRP","23","33","0","8","64"
 "TVC","54","11","0","16","81"
 "TOTAL CUSTODY POPULATION","3,776","3,082","2,812","9,393","19,063"
-"% OF TOTAL OFFENSES","19.81%","16.17%","14.75%","49.27%","100.00%"
+"% OF TOTAL_offenses","19.81%","16.17%","14.75%","49.27%","100.00%"
 "Intensive Supervison Program","334","384","9","95","822"
 "Earned Release Supervision","42","38","12","496","588"
 "Medical Release","9","2","0","4","15"
@@ -25,5 +25,5 @@
 "FTR- Monitoring","2","3","1","0",""
 "Off-Grounds Medical (Hospital)","4","2","5","8","19"
 "TOTAL","4,327","3,694","2,866","10,131","21,018"
-"% OF TOTAL OFFENSES","20.59%","17.58%","13.64%","48.20%","2 6
+"% OF TOTAL_offenses","20.59%","17.58%","13.64%","48.20%","2 6
 100.00%"

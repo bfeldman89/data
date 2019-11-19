@@ -1,4 +1,4 @@
-"LOCATION","DRUG OFFENSES","PROPERTY OFFENSES","VIOLENT OFFENSES","SEX OFFENSES","TOTAL"
+"location","drug_offenses","property_offenses","violent_offenses","sex_offenses","total"
 "MSP","755","586","1,384","473","3,198"
 "CMCF","927","945","959","329","3,160"
 "SMCI","846","763","1,133","431","3,173"
@@ -18,4 +18,4 @@
 "At Large","9","22","8","0","39"
 "Off-Grounds Medical (Hospital)","29","4","1","1","8"
 "TOTAL","7,158","6,610","8,192","2,653","24,613"
-"% OF TOTAL OFFENSES","29.08%","26.86%","33.28%","10.78%","100.00%"
+"% OF TOTAL_offenses","29.08%","26.86%","33.28%","10.78%","100.00%"

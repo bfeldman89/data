@@ -1,4 +1,4 @@
-"TYPE OF OFFENDER","NO. OF OFFENDERS WITH NO SEX OFFENSE","NO. OF OFFENDERS WITH SEX OFFENSE"
+"type","count_without_sex_offense","count_with_sex_offense"
 "Death Row","55","5"
 "Habitual Lifers","210","22"
 "Habitual","1,432","97"

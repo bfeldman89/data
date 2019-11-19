@@ -1,4 +1,4 @@
-"TYPE","NO. OF OFFENDERS","% OF TOTAL OFFENDERS"
+"type","count","percent_of_total"
 "Custody Population (Inmate and RID status)","19,111","33.14%"
 "Community Corrections (ERS, ISP, Medical Release, Conditional Release, Transitional Housing)","1,550","2.69%"
 "Other Custody","527",".91%"

@@ -1,4 +1,4 @@
-"LOCATION","Black Male","Black Female","White Male","White Female","Hispanic Male","Hispanic Female","Native American Male","Native American Female","Asian Male","Asian Female","Data Unavailable Male","Data Unavailable Female","TOTAL"
+"location","black_male","black_female","white_male","white_female","hispanic_male","hispanic_female","native_american_male","native_american_female","asian_male","asian_female","unknown_male","unknown_female","total"
 "MSP","3,954","1","1,401","0","18","0","4","0","2","0","0","0","5,380"
 "CMCF","1,070","815","622","498","15","5","3","1","2","3","0","0","3,034"
 "SMCI","1,396","0","614","0","14","0","2","0","4","0","0","0","2,030"

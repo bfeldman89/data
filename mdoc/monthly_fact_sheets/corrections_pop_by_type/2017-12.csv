@@ -1,4 +1,4 @@
-"TYPE","NO. OF OFFENDERS","% OF TOTAL OFFENDERS"
+"type","count","percent_of_total"
 "Custody Population (Inmate and RRP status)","19,042","35.08%"
 "Community Corrections (ERS, ISP, Medical Release, Conditional Release, Failure to Report)","1,340","2.47%"
 "Other Custody","450",".83%"

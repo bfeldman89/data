@@ -1,4 +1,4 @@
-"LOCATION","Black Male","Black Female","White Male","White Female","Hispanic Male","Hispanic Female","Native American Male","Native American Female","Asian Male","Asian Female","Data Unavailable Male","Data Unavailable Female","TOTAL"
+"location","black_male","black_female","white_male","white_female","hispanic_male","hispanic_female","native_american_male","native_american_female","asian_male","asian_female","unknown_male","unknown_female","total"
 "MSP","3,278","1","1,184","0","33","0","5","0","5","0","0","0","4,506"
 "CMCF","1,209","753","692","670","11","6","4","1","1","5","1","0","3,353"
 "SMCI","1,450","0","764","0","28","0","2","0","5","0","1","0","2,250"
@@ -18,4 +18,4 @@
 "At Large","74","5","22","4","5","0","0","0","1","0","0","0","111"
 "Off-Grounds Medical (Hospital)","4","2","5","1","0","0","0","0","0","0","0","0","12"
 "TOTAL","15,652","1,213","6,869","1,210","187","15","27","4","37","5","29","3","25,251"
-"% OF TOTAL OFFENSES","61.99%","4.80%","27.20%","4.79%","0.74%","0.06%","0.11%","0.02%","0.15%","0.02%","0.11%","0.01%","100.00%"
+"% OF TOTAL_offenses","61.99%","4.80%","27.20%","4.79%","0.74%","0.06%","0.11%","0.02%","0.15%","0.02%","0.11%","0.01%","100.00%"

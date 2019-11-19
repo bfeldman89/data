@@ -1,4 +1,4 @@
-"RACE","MALE","% OF TOTAL MALE POPULATION","FEMALE","% OF TOTAL FEMALE POPULATION","NO. OF OFFENDERS","% OF TOTAL OFFENDERS"
+"race","male","percent_of_male_pop","female","percent_of_female_pop","count","percent_of_total"
 "Black","1,245","59.54%","159","40.05%","1,404","56.43%"
 "White","826","39.50%","231","58.19%","1,057","42.48%"
 "Hispanic","10","0.48%","5","1.26%","15","0.60%"
