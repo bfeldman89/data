@@ -24,6 +24,14 @@
 
 ### monthly fact sheets
 
+1. corrections_pop_by_type
+2. inmate_pop_by_location
+4. inmate_pop_by_race_sex_and_location
+5. inmate_pop_by_offense_and_location
+3. inmate_pop_by_race_and_sex
+6. specific_offense_stats
+7. community_corrections_pop_by_type
+8. probation_pop_by_race_and_sex9. probation_pop_by_offense10. parole_pop_by_race_and_sex11. parole_pop_by_offense
 
 
 | table          | content                                        | link   |
