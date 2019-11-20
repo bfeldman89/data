@@ -1,18 +1,3 @@
-# tasks
-
-- [x] clean inmate statistics by location
-- [x] clean inmate statistics by race and sex (2001 - 2005)
-- [ ] clean inmate statistics by race and sex (2006 - 2019)
-- [ ] clean inmate statistics by race, sex and location
-- [ ] clean inmate statistics by offense and location
-- [x] clean specific offense statistic
-- [ ] clean active community corrections caseloads by type
-- [ ] clean probation statistics by race and sex
-- [ ] clean probation statistics by offense
-- [ ] clean parole statistics by race and sex
-- [ ] clean parole statistics by offense
-
-
 ## mdoc
 
 ### daily population
@@ -31,7 +16,10 @@
 3. inmate_pop_by_race_and_sex
 6. specific_offense_stats
 7. community_corrections_pop_by_type
-8. probation_pop_by_race_and_sex9. probation_pop_by_offense10. parole_pop_by_race_and_sex11. parole_pop_by_offense
+8. probation_pop_by_race_and_sex
+9. probation_pop_by_offense
+10. parole_pop_by_race_and_sex
+11. parole_pop_by_offense
 
 
 | table          | content                                        | link   |
@@ -49,6 +37,14 @@
 | `table_11.csv` | parole statistics by offense                   | __TK__ |
 
 
+
+## msleg
+
+The [first file](MSToday-20180222.csv) added in this folder, was the data MS Today shared from its analysis of the issue in late 2017. The data shared is limited. open-data/felony disenfranchisement/MSToday 20180222.csv
+
+The [second file](suffrage-bills.csv) is my first open data contribution on Github. Moving forward, I will do a better job of currating how I scraped the bills for certain datapoints (like county of conviction, county of residence, and year of conviction). The code wasn't perfect, but the data was checked before it was uploaded here. With that said, **please comment here if you find an error.**
+
+If you think adding another column of other data would make sense, let's talk about it. Ideally, the offense for which each petitioner was convicted would also be included. If anyone who is better at scraping documents than I am does that, I'll gladly merge the updated csv. 
 ___
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 ![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
