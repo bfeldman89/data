@@ -1,5 +1,7 @@
 import os
+import csv
 import glob
+import shutil
 import time
 from airtable import Airtable
 import camelot
@@ -14,6 +16,69 @@ dc = DocumentCloud(
     os.environ['DOCUMENT_CLOUD_USERNAME'], os.environ['DOCUMENT_CLOUD_PW'])
 
 
+def get_raw_dp_csvs():
+    os.chdir('/Users/blakefeldman/code/data/mdoc/daily_pop/raw')
+    records = airtab.get_all(view='dp', fields=['url', 'iso', 'dc_pages'])
+    for rec in records:
+        fn = f"{rec['fields']['iso']}.csv"
+        pages = f"1-{rec['fields']['dc_pages']}"
+        url = rec['fields']['url']
+        tables = camelot.read_pdf(url, pages=pages)
+        tables.export(fn, f='csv')
+
+
+def get_raw_mfs_csvs():
+    os.chdir('/Users/blakefeldman/code/data/mdoc/monthly_fact_sheets/raw')
+    records = airtab.get_all(view='mfs', fields=['url', 'iso', 'dc_pages'])
+    for rec in records:
+        fn = f"{rec['fields']['iso']}.csv"
+        pages = f"1-{rec['fields']['dc_pages']}"
+        url = rec['fields']['url']
+        tables = camelot.read_pdf(url, flavor='stream', pages=pages)
+        tables.export(fn, f='csv')
+
+
+def transpose_raw_csvs():
+    os.chdir('/Users/blakefeldman/code/data/mdoc/daily_pop')
+    files = os.listdir('per_page')
+    for fn in files:
+        try:
+            new = pd.read_csv(f"raw/{fn}", header=None).T
+            new.to_csv(f"transposed/{fn}", header=False, index=False)
+        except:
+            print(fn, 'fucked up')
+
+
+def csv_to_airtab():
+    files = os.listdir('.')
+    for fn in files:
+        if fn.endswith('.csv'):
+            with open(fn, newline='') as csvfile:
+                reader = csv.DictReader(csvfile)
+                for row in reader:
+                    try:
+                        airtab.insert(row, typecast=True)
+                    except:
+                        print(fn, 'fucked up')
+
+
+def reorganize_files():
+    os.chdir('/Users/blakefeldman/code/data/mdoc/monthly_fact_sheets/raw')
+    files = os.listdir('.')
+    for fn in files:
+        if fn.endswith('page-1-table-2.csv'):
+            shutil.move(fn, 'p1t2')
+        elif fn.endswith('page-2-table-2.csv'):
+            shutil.move(fn, 'p2t2')
+        elif fn.endswith('page-3-table-2.csv'):
+            shutil.move(fn, 'p3t2')
+        elif fn.endswith('page-4-table-2.csv'):
+            shutil.move(fn, 'p4t2')
+        elif fn.endswith('page-5-table-2.csv'):
+            shutil.move(fn, 'p5t2')
+        elif fn.endswith('page-6-table-2.csv'):
+            shutil.move(fn, 'p6t2')
+
 
 def csv_writer():
     records = airtab.get_all(view='dev', fields=['dc_id', 'txt_2'])
@@ -24,6 +89,7 @@ def csv_writer():
             f.write(content)
         print(fn)
 
+
 def get_txt():
     records = airtab.get_all(view='dev', fields='dc_id')
     for rec in records:
@@ -32,7 +98,6 @@ def get_txt():
         this_dict['dc_full_text'] = obj.full_text.decode("utf-8")
         airtab.update(rec['id'], this_dict)
         time.sleep(.7)
-
 
 
 def some_shit():
@@ -58,8 +123,10 @@ def fix_fn():
     for rec in records:
         tables = camelot.read_pdf(
             rec['fields']['url'], flavor='stream', pages='2', table_regions=['50,342,487,160'])
-        tables = camelot.read_pdf(rec['fields']['url'], flavor='stream', pages=rec['fields']['p'], table_regions=['25,362,595,87'])
+        tables = camelot.read_pdf(rec['fields']['url'], flavor='stream',
+                                  pages=rec['fields']['p'], table_regions=['25,362,595,87'])
         tables.export(rec['fields']['csv'], f='csv')
+
 
 muh_folders = ['specific_offense_stats',
                'probation_pop_by_race_and_sex',
@@ -90,18 +157,6 @@ def csv_linter(folders):
         print(f"done with {folder}!!")
 
 
-
-# csv_linter('inmate_statistics_by_location')
-# csv_linter('parole_statistics_by_offense')
-# csv_linter('probation_statistics_by_offense')
-# csv_linter('inmate_statistics_by_race_sex_and_location')
-# csv_linter('active_community_corrections_caseloads_by_type')
-# csv_linter('inmate_statistics_by_race_and_sex')
-# csv_linter('active_offender_population_by_type')
-# csv_linter('probation_statistics_by_race_and_sex')
-# csv_linter('parole_statistics_by_race_and_sex')
-# csv_linter('specific_offense_statistic')
-
 def get_coordinates(left, top, width, height):
     x1 = left
     y1 = 792 - top
@@ -128,4 +183,3 @@ def merge_dp():
             elif rec['fields']['dc_pages'] == 3:
                 merged = pd.merge(m1, c, on='Location')
         merged.to_csv(f"{rec['fields']['iso']}.csv", index=False)
-
