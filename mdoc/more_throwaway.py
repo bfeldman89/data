@@ -1,4 +1,5 @@
 import os
+import glob
 import time
 from airtable import Airtable
 import camelot
@@ -75,18 +76,17 @@ muh_folders = ['specific_offense_stats',
 
 def csv_linter(folders):
     for folder in folders:
-        os.chdir(f"/Users/blakefeldman/code/data/mdoc/monthly_fact_sheets/{folder}")
-        files = os.listdir('.')
+        os.chdir(f"/Users/blakefeldman/code/data/mdoc/daily_pop/{folder}")
+        # os.chdir(f"/Users/blakefeldman/code/data/mdoc/monthly_fact_sheets/{folder}")
+        files = glob.glob('*.csv')
         files.sort()
         for fn in files:
-            if fn.endswith('.csv'):
-                report = validate(fn)
-                if report['valid']:
-                    pass
-                    # print(fn)
-                else:
-                    print(
-                        f"\t{report['error-count']} error(s) in {folder}/{report['tables'][0]['source']}")
+            report = validate(fn)
+            if report['valid']:
+                pass
+            else:
+                print(
+                    f"\t{report['error-count']} error(s) in {folder}/{report['tables'][0]['source']}")
         print(f"done with {folder}!!")
 
 
@@ -128,3 +128,4 @@ def merge_dp():
             elif rec['fields']['dc_pages'] == 3:
                 merged = pd.merge(m1, c, on='Location')
         merged.to_csv(f"{rec['fields']['iso']}.csv", index=False)
+
