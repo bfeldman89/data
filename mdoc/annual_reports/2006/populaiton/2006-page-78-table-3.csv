@@ -1,0 +1,14 @@
+"TYPE OF OFFENSE","","","",""
+"OFFENSE","NUMBER OF 
+OFFENSES","PERCENT","AVERAGE SENTENCE 
+LENGTH IN YEARS","AVERAGE AGE 
+AT OFFENSE"
+"Burglary","3,239","13.31%","8.52","28.16"
+"Homicide/Manslaughter","2,468","10.14%","38.52","27.91"
+"Drug Possession","4,068","16.72%","7.21","32.29"
+"Drug Sale","4,229","17.38%","10.54","31.27"
+"Robbery","2,750","11.30%","16.21","25.12"
+"Sex Offense","1,919","7.89%","20.49","33.12"
+"Violent","1,600","6.58%","12.86","30.45"
+"Property","4,029","16.56%","5.56","34.52"
+"Unknown Offense","29",".12%","",""
