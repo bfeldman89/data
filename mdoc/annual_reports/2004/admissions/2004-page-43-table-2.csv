@@ -1,18 +1,4 @@
-"MALES
-FEMALES
-Data
-Total
-Percent
-Offenses
-Black
-White
-Hispanic
-Other
-Unavailable
-Black
-White
-Hispanic
-Other","","","","","","","","","","",""
+"Major Offense Categories","Black Males","White Males","Hispanic Males","Other Males","Data Unavailable","Black Females","White Females","Hispanic Females","Other Females","Total","Percent"
 "BURGLARY","","","","","","","","","","",""
 "Burglary - General","3","1","0","0","0","0","0","0","0","4","10.53%"
 "Burglary - Non-Residential","5","0","0","0","0","0","0","0","0","5","13.16%"

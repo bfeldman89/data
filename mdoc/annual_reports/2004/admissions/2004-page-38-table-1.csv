@@ -1,6 +1,7 @@
-"White","150","3"
-"Black","138","1"
-"Hispanic","1","0"
-"Native American","0","0"
-"Asian","1","0"
-"Verification Pending","0","1"
+race,male,female
+White,150,3
+Black,138,1
+Hispanic,1,0
+Native American,0,0
+Asian,1,0
+Verification Pending,0,1

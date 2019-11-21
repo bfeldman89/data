@@ -1,6 +1,6 @@
-"type","count_without_sex_offense","count_with_sex_offense"
-"Death Row","41","6"
-"Habitual Lifers","284","57"
-"Habitual","1812","144"
-"Life","1558","237"
-"Armed Robbery (Mandatory)","2142","13"
+type,count_without_sex_offense,count_with_sex_offense,count
+death_row,41,6,47
+habitual_lifers,284,57,341
+habitual_offenders,1812,144,1956
+lifers,1558,237,1795
+armed_robbery_mandatory,2142,13,2155

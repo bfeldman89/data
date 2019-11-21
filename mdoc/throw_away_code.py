@@ -181,57 +181,74 @@ def merge_dp():
 
 def get_mdoc_tables(year, latice_pages, stream_pages=None):
     os.chdir(f"/Users/blakefeldman/code/data/mdoc/annual_reports/{year}")
-    tables = camelot.read_pdf(f"{year} MDOC Annual Report.pdf", pages=latice_pages)
+    tables = camelot.read_pdf(
+        f"{year} MDOC Annual Report.pdf", pages=latice_pages)
     tables.export(f"{year}.csv", f='csv')
     if stream_pages:
-        tables2 = camelot.read_pdf(f"{year} MDOC Annual Report.pdf", flavor='stream', pages=stream_pages)
+        tables2 = camelot.read_pdf(
+            f"{year} MDOC Annual Report.pdf", flavor='stream', pages=stream_pages)
         tables2.export(f"{year}.csv", f='csv')
+
+
+def merge_data():
+    files = glob.glob('*.csv')
+    files.sort()
+    these_rows = []
+    for fn in files:
+        this_dict = {'month': fn.replace('.csv', '')}
+        csv_file = open(fn, 'r')
+        csv_reader = csv.DictReader(csv_file)
+        for row in csv_reader:
+            this_dict[row['type']] = row['count']
+        these_rows.append(this_dict)
+    with open('specific_offense_stats.csv', mode='w', newline='') as csv_file:
+        fieldnames = ['month', 'armed_robbery_mandatory', 'lifers',
+                      'habitual_offenders', 'habitual_lifers', 'death_row', 'total']
+        writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+        writer.writeheader()
+        for row in these_rows:
+            writer.writerow(row)
+
+
+def add_columns_for_specific_offenses(files):
+    for fn in files:
+        df = pd.read_csv(fn, index_col='type')
+        df['count'] = df['count_without_sex_offense'] + \
+            df['count_with_sex_offense']
+        df.to_csv(f'new_{fn}')
+
 
 get_mdoc_tables('2004',
                 '15-25,27-49,90-97,100-101')
-
 get_mdoc_tables('2005',
                 '21-25,29-46,49,50,64,65,67,70-93,96-98,100-112,114-118,120-124,126-132,134-142,146-150,152-164,166-170,172-176,178-184,186-196',
                 '17-20')
-
 get_mdoc_tables('2006',
                 '23-26,31-48,51,52,65-67,69-74,78-101,104-106,108-120,122-126,128-132,134-140,142-152,156-160,162-174,176-180,182-186,188-194,196-206')
-
 get_mdoc_tables('2007',
                 '24-27,32-48,50,63,64,66-73,76,77,80-87,90,91,94,95,99,102,105-107,110,112,113,116,118,119,122,124,125,128-131',
                 '20-23,78,79,92,93,100,101,108,109,114,115,120,121,126,127')
-
 get_mdoc_tables('2008',
                 '23-26,31-46,48,61,62,64-71,74,75,78-85,88,89,92,93,97,100,103-105,108,110,111,114,116,117,120,122,123,126,129',
                 '20-22,90,91,98,99,106,107,112,113,118,119,124,125')
-
 get_mdoc_tables('2009',
                 '21-27,31-47,49,62,63,65-72,75,76,79-86,89,90,93,94,98,101,104-106,109,111,112,115,117,118,121,123,124,127-130,134,135,137,140-142,145,148,151,153,154,157',
                 '77,78,91,92,99,100,107,108,113,114,119,120,125,126,135,136,143,144,149,150,155,156')
-
 get_mdoc_tables('2010',
                 '32-48,50,63,64,66-73,76-77,80-87,90-91,94-95,99,102,105-107,110,112,113,116,118,119,122,124,125,128-131',
                 '78,79,92,93,100,101,108,109,114,115,120,121,126,127')
-
 get_mdoc_tables('2011',
                 '32-48,50,63,64,66-73,76-77,80-87,90-91,94-95,99,102,105-107,110,112,113,116,118,119,122,124,125,128-131',
                 '78,79,92,93,100,101,108,109,114,115,120,121,126,127')
-
 get_mdoc_tables('2012',
                 '32-48,50,63,64,66-73,76-77,80-87,90-91,94-95,99,102,105-107,110,112,113,116,118,119,122,124,125,128-131',
                 '78,79,92,93,100,101,108,109,114,115,120,121,126,127')
-
 get_mdoc_tables('2013',
                 '14-16,18-20,22-24,32-39,45,46,53-59,68-78,80,81,84-109,112-139')
-
 get_mdoc_tables('2014',
                 '12-16,18,20,21,28-35,43,44,46,48-53,62-72,74,75,78-103,106-110,112-133')
-
 get_mdoc_tables('2015',
                 '14-21,27-32,40,41,43,45-52,61-71,73,76-101,104-108,110-131')
-
 get_mdoc_tables('2016', '3-22,24-30,32-50')
-
 get_mdoc_tables('2017', '3-22,24-30,32-50')
-
 get_mdoc_tables('2018', '3-22,24-30,32-50')

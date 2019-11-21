@@ -1,6 +1,6 @@
-"type","count"
-"Armed Robbery (Mandatory)","1777"
-"Lifers","1648"
-"Habitual Offenders","996"
-"Habitual Lifers","156"
-"Death Row","69"
+type,count
+armed_robbery_mandatory,1777
+lifers,1648
+habitual_offenders,996
+habitual_lifers,156
+death_row,69

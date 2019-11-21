@@ -1,13 +1,5 @@
-"MALES
-Offenses","","","","","Data","FEMALES
-Total","","","","","Percent"
-"Black
-White
-Hispanic
-Other","","","","","Unavailable","Black
-White
-Hispanic
-Other","","","","",""
+
+"Offenses","Black Males","White Males","Hispanic Males","Other Males","Data Unavailable","Black Females","White Females","Hispanic Females","Other Females","Total","Percent"
 "SEX OFFENSES","","","","","","","","","","",""
 "Capital Rape","0","2","0","0","0","0","0","0","0","2","0.68%"
 "Child Molesting","4","9","0","0","0","0","1","0","0","14","4.75%"

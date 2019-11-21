@@ -1,6 +1,4 @@
-"Major Offense Categories","MALES","","","","Data
-Unavailable","FEMALES","","","","Total","Percent"
-"","Black","White","Hispanic","Other","","Black","White","Hispanic","Other","",""
+"Major Offense Categories","Black Males","White Males","Hispanic Males","Other Males","Data Unavailable","Black Females","White Females","Hispanic Females","Other Females","Total","Percent"
 "BURGLARY","27","11","0","0","0","0","0","0","0","38","30.65%"
 "HOMICIDE/MANSLAUGHTER","3","1","0","0","0","1","0","0","0","5","4.03%"
 "OTHER PROPERTY","9","5","0","1","0","2","0","0","0","17","13.71%"
