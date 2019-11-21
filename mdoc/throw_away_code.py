@@ -42,11 +42,8 @@ def transpose_raw_csvs():
     os.chdir('/Users/blakefeldman/code/data/mdoc/daily_pop')
     files = os.listdir('per_page')
     for fn in files:
-        try:
-            new = pd.read_csv(f"raw/{fn}", header=None).T
-            new.to_csv(f"transposed/{fn}", header=False, index=False)
-        except:
-            print(fn, 'fucked up')
+        new = pd.read_csv(f"raw/{fn}", header=None).T
+        new.to_csv(f"transposed/{fn}", header=False, index=False)
 
 
 def csv_to_airtab():
@@ -56,10 +53,7 @@ def csv_to_airtab():
             with open(fn, newline='') as csvfile:
                 reader = csv.DictReader(csvfile)
                 for row in reader:
-                    try:
-                        airtab.insert(row, typecast=True)
-                    except:
-                        print(fn, 'fucked up')
+                    airtab.insert(row, typecast=True)
 
 
 def reorganize_files():
