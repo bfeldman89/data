@@ -1,9 +1,4 @@
-"MALE","","","","",""
-"OFFENSES 
-BLACK 
-WHITE  HISPANIC 
-OTHER 
-TOTAL","","","","",""
+"OFFENSES","BLACK","WHITE","HISPANIC","OTHER","TOTAL"
 "Aggravated Assault","304","99","3","3","409"
 "Burglary","1,178","688","5","6","1,877"
 "Homicide","38","19","1","0","58"
