@@ -190,7 +190,9 @@ def get_mdoc_tables(year, latice_pages, stream_pages=None):
         tables2.export(f"{year}.csv", f='csv')
 
 
-def merge_data():
+def merge_specific_offense_stats():
+    os.chdir(
+        '/Users/blakefeldman/code/data/mdoc/monthly_fact_sheets/specific_offense_stats')
     files = glob.glob('*.csv')
     files.sort()
     these_rows = []
@@ -204,6 +206,30 @@ def merge_data():
     with open('specific_offense_stats.csv', mode='w', newline='') as csv_file:
         fieldnames = ['month', 'armed_robbery_mandatory', 'lifers',
                       'habitual_offenders', 'habitual_lifers', 'death_row', 'total']
+        writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+        writer.writeheader()
+        for row in these_rows:
+            writer.writerow(row)
+
+
+def merge_community_corrections_pop_by_type():
+    os.chdir(
+        '/Users/blakefeldman/code/data/mdoc/monthly_fact_sheets/community_corrections_pop_by_type')
+    files = glob.glob('*.csv')
+    files.sort()
+    these_rows = []
+    for fn in files:
+        this_dict = {'month': fn.replace('.csv', '')}
+        csv_file = open(fn, 'r')
+        csv_reader = csv.DictReader(csv_file)
+        for row in csv_reader:
+            this_dict[row['status']] = row['count']
+        these_rows.append(this_dict)
+    with open('community_corrections_pop_by_type.csv', mode='w', newline='') as csv_file:
+        fieldnames = ['month', 'probation', 'compact_probation', 'nonadjudicated', 'post_release', 'TVC_probation', 'probation_total',
+                      'parole', 'compact_parole', 'suspension', 'TVC_parole', 'parole_total',
+                      'ISP_court', 'ISP_prison', 'ISP', 'earned_release_supervision', 'medical_release', 'FTR_monitoring',
+                      'conditional_release', 'TVC', 'RRP', 'transitional_housing', 'community_inmate_total', 'total']
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
         writer.writeheader()
         for row in these_rows:

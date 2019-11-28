@@ -1,16 +1,16 @@
-"status","count","percent_of_total"
-"Probation","9523","23.90%"
-"Probation - Compact","1125","2.82%"
-"Probation - Nonadjudicated","4243","10.65%"
-"Probation - Post Release","15216","38.19%"
-"PROBATION TOTAL","30107","75.57%"
-"Parole","6241","15.67%"
-"Parole - Compact","274","0.69%"
-"Parole - Suspension","0",".00%"
-"PAROLE TOTAL","6515","16.35%"
-"Intensive Supervision Program - Court","1096","2.75%"
-"Intensive Supervision Program - Prison","470","1.18%"
-"Earned Release Supervision","1624","4.08%"
-"Medical Release","27",".07%"
-"COMMUNITY INMATE TOTAL","3217","8.08%"
-"TOTAL","39839","100.00%"
+status,count,percent_of_total
+probation,9523,23.90%
+compact_probation,1125,2.82%
+nonadjudicated,4243,10.65%
+post_release,15216,38.19%
+probation_total,30107,75.57%
+parole,6241,15.67%
+compact_parole,274,0.69%
+suspension,0,.00%
+parole_total,6515,16.35%
+ISP_court,1096,2.75%
+ISP_prison,470,1.18%
+earned_release_supervision,1624,4.08%
+medical_release,27,.07%
+community_inmate_total,3217,8.08%
+total,39839,100.00%

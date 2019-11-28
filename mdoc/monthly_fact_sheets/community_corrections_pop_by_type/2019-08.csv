@@ -1,20 +1,20 @@
-"status","count","percent_of_total"
-"Probation","5634","15.64%"
-"Probation - Compact","1321","3.67%"
-"Probation - Nonadjudicated","3582","9.94%"
-"Probation - Post Release","13864","38.49%"
-"TVC Probation","141","0.39%"
-"PROBATION TOTAL","24542","68.13%"
-"Parole","8439","23.43%"
-"Parole - Compact","1321","3.67%"
-"Parole - Suspension","0","0.00%"
-"TVC Parole","289","0.80%"
-"PAROLE TOTAL","10049","27.90%"
-"Intensive Supervision Program - Court","769","2.13%"
-"Intensive Supervision Program - Prison","53","0.15%"
-"Earned Release Supervision","588","1.63%"
-"Medical Release","15","0.04%"
-"FTR- Monitoring","6","0.02%"
-"Conditional Release","2","0.006%"
-"COMMUNITY INMATE TOTAL","1433","3.98%"
-"TOTAL","36024","100.00%"
+status,count,percent_of_total
+probation,5634,15.64%
+compact_probation,1321,3.67%
+nonadjudicated,3582,9.94%
+post_release,13864,38.49%
+TVC_probation,141,0.39%
+probation_total,24542,68.13%
+parole,8439,23.43%
+compact_parole,1321,3.67%
+suspension,0,0.00%
+TVC_parole,289,0.80%
+parole_total,10049,27.90%
+ISP_court,769,2.13%
+ISP_prison,53,0.15%
+earned_release_supervision,588,1.63%
+medical_release,15,0.04%
+FTR_monitoring,6,0.02%
+conditional_release,2,0.006%
+community_inmate_total,1433,3.98%
+total,36024,100.00%

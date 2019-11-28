@@ -1,22 +1,22 @@
-STATUS,NO. OF OFFENDERS,% OF TOTAL OFFENDERS
-Probation,5457,15.90%
-Probation - Compact,1237,3.60%
-Probation - Nonadjudicated,3356,9.78%
-Probation - Post Release,14404,41.96%
-TVC Probation,170,0.50%
-PROBATION TOTAL,24624,71.74%
-Parole,7525,21.92%
-Parole - Compact,575,1.68%
-Parole - Suspension,0,0.00%
-TVC Parole,113,0.33%
-PAROLE TOTAL,8213,23.93%
-Intensive Supervision Program - Court,741,2.16%
-Intensive Supervision Program - Prison,18,0.05%
-Earned Release Supervision,601,1.75%
-Medical Release,10,0.03%
-FTR- Monitoring,6,0.02%
-Transitional Housing,23,0.07%
+status,count,percent_of_total
+probation,5457,15.90%
+compact_probation,1237,3.60%
+nonadjudicated,3356,9.78%
+post_release,14404,41.96%
+TVC_probation,170,0.50%
+probation_total,24624,71.74%
+parole,7525,21.92%
+compact_parole,575,1.68%
+suspension,0,0.00%
+TVC_parole,113,0.33%
+parole_total,8213,23.93%
+ISP_court,741,2.16%
+ISP_prison,18,0.05%
+earned_release_supervision,601,1.75%
+medical_release,10,0.03%
+FTR_monitoring,6,0.02%
+transitional_housing,23,0.07%
 RRP,85,0.25%
-Conditional Release,3,0.01%
-COMMUNITY INMATE TOTAL,1487,6.69%
-TOTAL,34324,100.00%
+conditional_release,3,0.01%
+community_inmate_total,1487,6.69%
+total,34324,100.00%
