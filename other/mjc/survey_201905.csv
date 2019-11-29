@@ -1,10 +1,10 @@
 LAST NAME,FIRST NAME/ MIDDLE NAME,MI,DOB,COUNTY,ARRESTING AGENCY,CHARGE(S),INDICTED Y/N,DATE OF INDICTMENT,BOND AMOUNT,DATE TAKEN INTO CUSTODY (ARREST DATE),DATE OF LIST SHOWING CUSTODY,NO. OF DAYS BETWEEN ARREST & DATE OF LIST,ADDITIONAL INFO PROVIDED,MORE ADDITIONAL INFO PROVIDED,auid,SURVEY
 Alridge,Jessica,Renee,,Adams,,"97-31-9-Murder, First and Second Degree",,,,3/1/19,3/20/19,19,,,1,May-19
-Atkins,Tempestt,Iesha,,Adams,,97-3-7(1)C-Simple Assault; Attempt by physical mena,,,$500.00 ,3/1/19,3/20/19,19,,,2,May-19
-Bailey,Robert,Luther,,Adams,,43-19-37-Contempt of court for failure to comply,,,$0.00 ,3/5/19,3/20/19,15,,,3,May-19
-Beach,Jonathan,Butler,,Adams,,"97-31-9-Murder, First and Second Degree  x2",,,$0.00 ,3/2/19,3/20/19,18,,,4,May-19
-Blackmore,Tyler,Coleman,,Adams,,97-17-41(1)(A)-Grand Larceny; Personal Property ANOT,,,$500.00 ,3/14/19,3/20/19,6,,,5,May-19
-Bradley,Jessica,Ann,,Adams,,43-19-37-Contempt of Court for Failure to comply,,,$0.00 ,2/5/19,3/20/19,43,,,6,May-19
+Atkins,Tempestt,Iesha,,Adams,,97-3-7(1)C-Simple Assault; Attempt by physical mena,,,$500.00,3/1/19,3/20/19,19,,,2,May-19
+Bailey,Robert,Luther,,Adams,,43-19-37-Contempt of court for failure to comply,,,$0.00,3/5/19,3/20/19,15,,,3,May-19
+Beach,Jonathan,Butler,,Adams,,"97-31-9-Murder, First and Second Degree  x2",,,$0.00,3/2/19,3/20/19,18,,,4,May-19
+Blackmore,Tyler,Coleman,,Adams,,97-17-41(1)(A)-Grand Larceny; Personal Property ANOT,,,$500.00,3/14/19,3/20/19,6,,,5,May-19
+Bradley,Jessica,Ann,,Adams,,43-19-37-Contempt of Court for Failure to comply,,,$0.00,2/5/19,3/20/19,43,,,6,May-19
 Carter,Derrick,Montrell,,Adams,,43-19-37-Contempt of court for failure to comply,,,,3/5/19,3/20/19,15,,,7,May-19
 Coleman,Derrick,Lamont,,Adams,,47-7-37-Probation Violation,,,,2/19/19,3/20/19,29,,,8,May-19
 Conner,Jake,Earl,,Adams,,Intel-Intel only report,,,,3/18/19,3/20/19,2,,,9,May-19
@@ -34,10 +34,10 @@ Swazy,Jamari,,,Adams,,"97-9-79-False Information or identification to L; 97-17-2
 Thomas,Stephen,Edward,,Adams,,13-5-34-Contempt of Court for failure to appear,,,,3/3/19,3/20/19,17,Court Order,,33,May-19
 Thomas,Walter,Lee,,Adams,,99-21-1-Foreign Warrant; Fugitive;Holding,,,,3/17/19,3/20/19,3,,,34,May-19
 Thompson,Kelvin,Traverne,,Adams,,99-21-1-Foreign Warrant; Fugitive;Holding,,,,3/14/19,3/20/19,6,,,35,May-19
-Tillman,Crystal,Crisean,,Adams,,97-3-7(1)© -Simple Assault; Attempt by physical mena,,,$500.00 ,3/1/19,3/20/19,19,,,36,May-19
+Tillman,Crystal,Crisean,,Adams,,97-3-7(1)© -Simple Assault; Attempt by physical mena,,,$500.00,3/1/19,3/20/19,19,,,36,May-19
 Tyms,Herbert,,,Adams,,99-21-1-Foreign Warrant; Fugitive;Holding,,,,3/10/19,3/20/19,10,,,37,May-19
 Walton,Caleb,Ray,,Adams,,99-21-1-Foreign Warrant; Fugitive;Holding,,,,3/13/19,3/20/19,7,Department Transfer,,38,May-19
-Ward,Bartholomew,,,Adams,,97-35-15-Distrubing the Peace (Public or peace or),,,$500.00 ,3/3/19,3/20/19,7,,,39,May-19
+Ward,Bartholomew,,,Adams,,97-35-15-Distrubing the Peace (Public or peace or),,,$500.00,3/3/19,3/20/19,7,,,39,May-19
 Ward,Boris,Demar,,Adams,,99-21-1-Foreign Warrant; Fugitive;Holding,,,,12/13/18,3/20/19,97,,,40,May-19
 Ware,Monique,Nicole,,Adams,,41-30-27-Writ to take custody,,,,3/6/19,3/20/19,16,,,41,May-19
 Washington,Zachery,,,Adams,,63-11-30(2)(A)-DUI-First Offense DUI; 41-29-139©(2)(B)-Motor Vechicle: Possession of marijuana; 97-9-72(1)-Fleeing or eludnig a law enforcement officer,,,,3/9/19,3/20/19,11,,,42,May-19
@@ -51,22 +51,22 @@ Woods,Derrick,Pierre,,Adams,,99-21-1-Foreign Warrant; Fugitive;Holding,,,,3/7/19
 Agnew,Brian,K,,Alcorn,Alcorn SO,Open container in veh; Unlawful for convicted felon to possess any firearms; Possession of controlled substance felony,,,$0; $0; $0,2/17/18,1/28/19,345,,,50,May-19
 Alexander,Latoya,,,Alcorn,Alcorn SO,"Controlled Substance: conterfeit substance- sell, transfer, distribute, possess with intent to sell; Controlled substance: possession of schedule I or II- 10-30 grams or 20-40 dosage units",,,$0; $3000,9/2/18,1/28/19,148,,,51,May-19
 Allen,Jamar,,,Alcorn,Alcorn SO,Aggravated Assault- Use of deadly weapon or othe; Aggravated assault - use of deadlyw eapon or othe,,,$0; $0,10/4/18,1/28/19,116,,,52,May-19
-Austin,Jim,H,,Alcorn,Alcorn SO,Disordely conduct- disturbance of family,,,$0.00 ,1/19/19,1/28/19,9,,,53,May-19
+Austin,Jim,H,,Alcorn,Alcorn SO,Disordely conduct- disturbance of family,,,$0.00,1/19/19,1/28/19,9,,,53,May-19
 Baker,Jay,D,,Alcorn,Alcorn SO,"Credit crads; Credit card numbers, use with intent to defraud [$100 or more]",,,"$5,000.00 ",1/15/19,1/28/19,13,,,54,May-19
 Baldini,Christopher,G,,Alcorn,Alcorn SO,"Possession of controlled substance felony; Possession of controlled substance; Failure to signal/improper lane change; possession of marijuana in motor vehicle; Possession of drug paraphernalia or selling, manufacturing or delivering paraphernalia",,,"$5,000; $0; $0; $0; $0",7/15/18,1/28/19,197,,,55,May-19
 Barnes,David,L,,Alcorn,Corinth PD,Burglary- breaking and entering dwelling house;,,,"$10,000.00 ",8/20/18,1/28/19,161,,,56,May-19
-Barnes,Tommie,L,,Alcorn,Corinth PD,Domestic violence,,,$0.00 ,1/25/19,1/28/19,3,,,57,May-19
-Baswell,John,T,,Alcorn,Alcorn SO,Possession of controlled substance,,,$0.00 ,1/26/19,1/28/19,2,,,58,May-19
+Barnes,Tommie,L,,Alcorn,Corinth PD,Domestic violence,,,$0.00,1/25/19,1/28/19,3,,,57,May-19
+Baswell,John,T,,Alcorn,Alcorn SO,Possession of controlled substance,,,$0.00,1/26/19,1/28/19,2,,,58,May-19
 Belue,Amanda,L,,Alcorn,Alcorn SO,Introducing contraband into a correctional facility,,,"$10,000.00 ",7/16/18,1/28/19,196,,,59,May-19
-Bidstrup,Kenneth,D,,Alcorn,Corinth PD,false identifying information,,,$800.00 ,1/27/19,1/28/19,1,,,60,May-19
+Bidstrup,Kenneth,D,,Alcorn,Corinth PD,false identifying information,,,$800.00,1/27/19,1/28/19,1,,,60,May-19
 Bingham,Roger,N,,Alcorn,Alcorn SO,Receiving stolen property- felony [value $1000 or more but less than $5000]; Trespass: going upon enclosed land of another,,,"$10,000; $0",8/29/18,1/28/19,152,,,61,May-19
-Black,Chelsi,C,,Alcorn,Alcorn SO,Warrant- fail to appear,,,$0.00 ,1/26/19,1/28/19,2,,,62,May-19
+Black,Chelsi,C,,Alcorn,Alcorn SO,Warrant- fail to appear,,,$0.00,1/26/19,1/28/19,2,,,62,May-19
 Boyd,Alize,J,,Alcorn,Alcorn SO,Murder-Capital Murder; Murder- Capital murder; Attempted murder,,,$0; $0; $0,4/17/18,1/28/19,286,,,63,May-19
-Brooks,Anthony,N,,Alcorn,Alcorn SO,Domestic violence,,,$0.00 ,1/23/19,1/28/19,5,,,64,May-19
+Brooks,Anthony,N,,Alcorn,Alcorn SO,Domestic violence,,,$0.00,1/23/19,1/28/19,5,,,64,May-19
 Brown,Blaze,D,,Alcorn,Alcorn SO,"Burglary- Commercial buildings, cars, etc.",,,"$20,000.00 ",10/13/18,1/28/19,107,,,65,May-19
 Brown,Johnny,B,,Alcorn,Alcorn SO,Domestic violence- simple assault- [1st or 2nd offense]; Domestic violence,,,"$1,000; $1,000",12/3/18,1/28/19,56,,,66,May-19
 Burcham,Bradley,,,Alcorn,Alcorn SO,"Burglary- Commercial buildings, cars, etc. ; Burglary- commercial buildings, cars, etc.; Burglary of automobile",,,"$10,000; $10,000; $10,000",8/2/18,1/28/19,179,,,67,May-19
-Burleson,Charles,D,,Alcorn,Prentiss So,,,,$0.00 ,1/7/19,1/28/19,21,,,68,May-19
+Burleson,Charles,D,,Alcorn,Prentiss So,,,,$0.00,1/7/19,1/28/19,21,,,68,May-19
 Calton,Luke,G,,Alcorn,Corinth PD,"Bench warrant- circuit court; warrant- fail to appear; motor vehicle theft- value over $1,000",,,"$5,000; $0; $0",1/4/19,1/28/19,24,,,69,May-19
 Carroll,Samantha,,,Alcorn,Farmington PD,Controlled substance- controlled/ conterfeit substance- falsely respresentation,,,"$3,000.00 ",8/15/18,1/28/19,166,,,70,May-19
 Clark,Jerry,L,,Alcorn,Alcorn SO,Aggravated assault; Kidnapping,,,"$100,000; $0",1/24/19,1/28/19,4,,,71,May-19
@@ -75,21 +75,21 @@ Creason,David,B,,Alcorn,Corinth PD,Possession of controlled substance; Warrant- 
 Credille,Jeffrey,S,,Alcorn,Alcorn SO,"Civil contempt: failure to appear or complete jury service; threats, intimidation by letter, etc; Hold detainer for agency",,,"$1,107.50; $2,500; $0",9/10/18,1/28/19,140,,,74,May-19
 Crum,Andrew,C,,Alcorn,Alcorn SO,Burglary: breaking and entering dwelling house,,,"$10,000.00 ",1/3/19,1/28/19,25,,,75,May-19
 Davidson,Blake,A,,Alcorn,Alcorn SO,Explosives- false report of placing; Rape: assault with intent to ravish,,,"$0; $30,000",6/17/17,1/28/19,590,,,76,May-19
-Deen,Darius,J,,Alcorn,Corinth PD,Murder- Capital,,,$0.00 ,5/25/18,1/28/19,248,,,77,May-19
-Dixon,Adrian,A,,Alcorn,Alcorn SO,,,,$0.00 ,1/9/19,1/28/19,19,,,78,May-19
-Edwards,David,C,,Alcorn,Alcorn SO,Violation of probation- MDOC,,,$0.00 ,10/5/18,1/28/19,115,,,79,May-19
-Embrey,Audrey,D,,Alcorn,Corinth PD,,,,$0.00 ,1/24/19,1/28/19,4,,,80,May-19
+Deen,Darius,J,,Alcorn,Corinth PD,Murder- Capital,,,$0.00,5/25/18,1/28/19,248,,,77,May-19
+Dixon,Adrian,A,,Alcorn,Alcorn SO,,,,$0.00,1/9/19,1/28/19,19,,,78,May-19
+Edwards,David,C,,Alcorn,Alcorn SO,Violation of probation- MDOC,,,$0.00,10/5/18,1/28/19,115,,,79,May-19
+Embrey,Audrey,D,,Alcorn,Corinth PD,,,,$0.00,1/24/19,1/28/19,4,,,80,May-19
 Essary,Marty,R,,Alcorn,MDOC,Violation of probation- MDOC; Robbery,,,$0; $0,8/10/18,1/28/19,171,,,81,May-19
-Flake,Stephen,L,,Alcorn,Alcorn SO,Aggravated assault- use of deadly weaponor othe,,,$0.00 ,4/20/18,1/28/19,283,,,82,May-19
+Flake,Stephen,L,,Alcorn,Alcorn SO,Aggravated assault- use of deadly weaponor othe,,,$0.00,4/20/18,1/28/19,283,,,82,May-19
 Forman,Danny,W,,Alcorn,Alcorn SO,"False identifying informjation; license, driving while revoked or suspended",,,"$1,000; $500",1/4/19,1/28/19,24,,,83,May-19
 Garrett,Adam,E,,Alcorn,Alcorn SO,burglary of automobile,,,"$10,000.00 ",10/19/18,1/28/19,101,,,84,May-19
 Gates,Tyler,J,,Alcorn,Corinth PD,Robbery- use of deadly weapon; Robbery- use of deadly weapon; Hold for investigation; Weapons- possession of stolen firearm,,,"$25,000; $25,000; $0; $15,000",7/29/18,1/28/19,183,,,85,May-19
 Gibens,Joshua,N,,Alcorn,Corinth PD,Embezzlement- [value $5000 or more but less than $25000],,,"$2,500.00 ",12/9/18,1/28/19,50,,,86,May-19
 Gregory,David,L,,Alcorn,Alcorn SO,Possession of methamphetamine; Controlled substance: possession of schedule I or II- 1/10th gram 2 grams or 2-10 dosage units; MV- No insurance; MV- Drivers license- none; motor vehicle: expired tag,,,"$5,000; $0; $0; $0; $0",1/15/19,1/28/19,13,,,87,May-19
 Guffey,John,W,,Alcorn,Alcorn SO,"False pretenses; False pretense; Larceny, petit [value under $1000]",,,"$3000; $2,973; $500",10/4/18,1/28/19,116,,,88,May-19
-Gunn,Shaquavia,L,,Alcorn,Corinth PD,Murder- Capital Murder,,,$0.00 ,5/24/18,1/28/19,249,,,89,May-19
+Gunn,Shaquavia,L,,Alcorn,Corinth PD,Murder- Capital Murder,,,$0.00,5/24/18,1/28/19,249,,,89,May-19
 Hall,Kimberly,J,,Alcorn,Alcorn SO,Bench warrant- justice court; Bench warrant- justice court; false pretense,,,$570.75; $949.50; $347.39,1/21/19,1/28/19,7,,,90,May-19
-Hamer,Nakero,L,,Alcorn,Tippah SO,Hold: Detainer for other agency,,,$0.00 ,9/14/18,1/28/19,136,,,91,May-19
+Hamer,Nakero,L,,Alcorn,Tippah SO,Hold: Detainer for other agency,,,$0.00,9/14/18,1/28/19,136,,,91,May-19
 Haynie,Russell,W,,Alcorn,Alcorn SO,Counterfeiting: selling or offering to sell counterfeit notes or other evidence of debt; felon in possession of weapon; Fraud- defraud person person providing telephone / telegrapgh,,,$0; $0; $0,12/16/18,1/28/19,43,,,92,May-19
 Hayslett,Timothy,,,Alcorn,Corinth PD,Failure to register sex offender; holding for another agency,,,$5000; $0,8/7/18,1/28/19,174,,,93,May-19
 Heger,Beatrice,C,,Alcorn,Corinth PD,Bench warrant- circuit court,,,"$1,000.00 ",1/12/19,1/28/19,16,,,94,May-19
@@ -101,12 +101,12 @@ Huffman,Justin,E,,Alcorn,Alcorn SO,Warrant- fail to appear; sexual battery,,,"$1
 Huggins,Johnny,A,,Alcorn,MDOC,"Violation of probation- MDOC; Burglary- commercial buildings, cars, etc.",,,"$0; $15,000",12/13/18,1/28/19,46,,,100,May-19
 Hurd,Tairus,J,,Alcorn,Alcorn SO,"Controlled substance: sell, transfer, distribute; possess with intent to sell; Possesion of controlled substance felony; Obstruction: tampering with physical evidence; Possession of methamphetamine",,,"$0; $2,500; $2,500; $5,000;",4/29/18,1/28/19,274,,,101,May-19
 Jackson,Desmen,D,,Alcorn,Corinth PD,Domestic violence,,,"$1,000.00 ",1/19/19,1/28/19,9,,,102,May-19
-Johnson,Edward,A,,Alcorn,MDOC,Violation of probation- MDOC,,,$0.00 ,1/11/19,1/28/19,17,,,103,May-19
+Johnson,Edward,A,,Alcorn,MDOC,Violation of probation- MDOC,,,$0.00,1/11/19,1/28/19,17,,,103,May-19
 Jones,Catrichia,R,,Alcorn,Corinth PD,Controlled substance: possession of paraphernalia; Possession of controlled substance; Bench warrant: justice court,,,"$800; $1,400; $1,748.19",10/2/18,1/28/19,118,,,104,May-19
 Jourdan,Adam,H,,Alcorn,Corinth PD,"Larceny, Petit [value under $1000]; Burglary of automobile",,,"$1,200; $10,000;",12/23/18,1/28/19,36,,,105,May-19
 Keith,Cortez,T,,Alcorn,Corinth PD,Controlled substance: possession of paraphernalia; Disorderly conduct- disturbance in public place; contempt of court: Justice court,,,"$800; $800; $1,4116.50",11/7/18,1/28/19,82,,,106,May-19
 Keller,Charles,K,,Alcorn,Alcorn SO,Burglary- breaking and entering dwelling house; Grand larceny; Grand larceny [ value $1000 or more but less than $5000]; Robbery-us of deadly weapon; Grand larceny,,,"$20,000; $10,000; $10,000; $0; $10,000",5/21/18,1/28/19,252,,,107,May-19
-Kiestler,Steven,R,,Alcorn,Alcorn SO,Controlled substance: possession of paraphernalia,,,$500.00 ,1/5/19,1/28/19,23,,,108,May-19
+Kiestler,Steven,R,,Alcorn,Alcorn SO,Controlled substance: possession of paraphernalia,,,$500.00,1/5/19,1/28/19,23,,,108,May-19
 King,Dylan,G,,Alcorn,MDOC,"Burglary- Commercial buildings, cars, etc. ; Violation of parole- MDOC",,,"$30,000; $0",6/5/18,1/28/19,237,,,109,May-19
 King,Matthew,E,,Alcorn,Alcorn SO,Burglary- breaking and entering dwelling house; Felon in possession of weapon; Felon in possession of weapon; Felon inpossession of weapon,,,"$20,000; $5,000; $5,000; $5,000",8/16/18,1/28/19,165,,,110,May-19
 Krosp,Everett,R,,Alcorn,Baldwyn PD,Contempt of court: municipal court,,,"$1,000.00 ",12/24/18,1/28/19,35,,,111,May-19
@@ -119,57 +119,57 @@ Martin,Bishop,W,,Alcorn,Alcorn SO,Grand larceny; Grand larceny,,,"$15,000; $5,00
 Martinez,Antonio,C,,Alcorn,Corinth PD,Disorderly conduct- failure to comply with request or command of law enforcement officers; Possession of methamphetamine; possession of methamphetamine,,,"$800; $0; $5,000",1/22/19,1/28/19,6,,,118,May-19
 Mayes,Demerious,Q,,Alcorn,Alcorn SO,Fleeing or eluding a law enforcement officer in a motor vehicle; Possession of controlled substance,,,"$0; $3,000",1/2/19,1/28/19,26,,,119,May-19
 McCracken,Hailey,,,Alcorn,Corinth PD,Warrant- fail to appear,,,"$2,000.00 ",11/21/18,1/28/19,68,,,120,May-19
-McDonald,Nicholas,C,,Alcorn,MDOC,Violation of probation- MDOC,,,$0.00 ,12/19/18,1/28/19,40,,,121,May-19
+McDonald,Nicholas,C,,Alcorn,MDOC,Violation of probation- MDOC,,,$0.00,12/19/18,1/28/19,40,,,121,May-19
 McGaha,Marcus,A,,Alcorn,Alcorn SO,Murder-Capital; Conspiracy to commit murder or capital murder,,,$0;$0,9/7/16,1/28/19,873,,,122,May-19
-McGee,Shawnzell,L,,Alcorn,Alcorn SO,,,,$0.00 ,1/25/19,1/28/19,3,,,123,May-19
+McGee,Shawnzell,L,,Alcorn,Alcorn SO,,,,$0.00,1/25/19,1/28/19,3,,,123,May-19
 Meeks,James,M,,Alcorn,Alcorn SO,"Possession of controlled substance; MV- Improper equiptment; License, driving while revoked or suspended; no insurance; MV- switched tag/ altered tag; warrant- fail to appear",,,"$1,000; $500; $500; $500; $500; $0",1/4/19,1/28/19,24,,,124,May-19
-Meeks,Michael,L,,Alcorn,Alcorn SO,"Murder- Deliberate design, first dwegree",,,$0.00 ,5/31/18,1/28/19,242,,,125,May-19
+Meeks,Michael,L,,Alcorn,Alcorn SO,"Murder- Deliberate design, first dwegree",,,$0.00,5/31/18,1/28/19,242,,,125,May-19
 Milam,Mickey,A,,Alcorn,Corinth PD,Hold for investigation; Failure to register as sex offender,,,$0; $5000,8/10/18,1/28/19,171,,,126,May-19
 Mills,Weslee,M,,Alcorn,Alcorn SO,Burglary- breaking and entering dwelling house; Hold: Detainer for MDOC,,,$0; $0,10/5/18,1/28/19,115,,,127,May-19
 Moss,Nevarree,D,,Alcorn,Alcorn SO,Domestic violence; Domestic violence- Simple assault- [1st or 2nd offense,,,"$1,000;$0",1/25/19,1/28/19,3,,,128,May-19
 Parrott,April,K,,Alcorn,Alcorn SO,"MV- expired tag/ no tag; License, driving while revoked or suspended; possession of methamphetamine",,,"$1,000; $500; $7,500",1/11/19,1/28/19,17,,,129,May-19
 Patterson,Jeremy,,,Alcorn,Alcorn SO,Hold for investigation; Burglary of dwelling or inner door of dwelling; Possession of controlled substance felony; Possession of firearm by convicted felon,,,"$0; $0; $30,000; $0; $0",3/16/18,1/28/19,318,,,130,May-19
 Patterson,Jerry,L,,Alcorn,Alcorn SO,Attempt to commit felony,,,"$10,000.00 ",7/24/18,1/28/19,188,,,131,May-19
-Perry,MacArthur,N,,Alcorn,MDOC,Violation of probation- MDOC,,,$0.00 ,12/6/18,1/28/19,53,,,132,May-19
+Perry,MacArthur,N,,Alcorn,MDOC,Violation of probation- MDOC,,,$0.00,12/6/18,1/28/19,53,,,132,May-19
 Peters,Katie,J,,Alcorn,Corinth PD,Controlled substance: possession of paraphernalia; Bench warrant: circuit court,,,$800; $0,1/9/19,1/28/19,19,,,133,May-19
 Petty,Brandon,T,,Alcorn,Corinth PD,Disorderly conduct- failure to comply with request or command of law enforcement officers; felon in possession of weapon; controlled substance: possession of marijuana- 1 kilogram or more but less than 5 kilograms; controlled substance: controlled/ counterfeit substance- Falsely representation; felon in possession of weapon,,,"$0; $5,000; $0; $0; $5,000",12/4/18,1/28/19,55,,,134,May-19
-Porterfield,Brandon,K,,Alcorn,Alcorn SO,Warrant- fail to appear,,,$0.00 ,1/26/19,1/28/19,2,,,135,May-19
+Porterfield,Brandon,K,,Alcorn,Alcorn SO,Warrant- fail to appear,,,$0.00,1/26/19,1/28/19,2,,,135,May-19
 Quillen,Williams,S,,Alcorn,Alcorn SO,MV- Improper equiptment; Possession of controlled substance,,,"$3,500; $0",12/6/18,1/28/19,53,,,136,May-19
 Ramsey,Harold,J,,Alcorn,Alcorn SO,"Aggravated assault; Burglary- commercial buildings, cars, etc.",,,$0; $0,12/2/18,1/28/19,57,,,137,May-19
 Ratliff,Justin,T,,Alcorn,Corinth PD,Disorderly conduct- failure to comply with request or command of law enforcement officers; resisting arrest; Robbery- threat to injure person or relative at a,,,"$0; $0; $5,000",12/10/18,1/28/19,49,,,138,May-19
 Rogers,Christopher,S,,Alcorn,Corinth PD,Bench warrant- circuit court;Bench warrant- circuit court;Bench warrant- circuit court;Bench warrant- circuit court,,,"$10,000; $0; $0; $10,000",1/23/19,1/28/19,5,,,139,May-19
-Rollins,Jerry,D,,Alcorn,Baldwyn PD,,,,$0.00 ,1/26/19,1/28/19,2,,,140,May-19
+Rollins,Jerry,D,,Alcorn,Baldwyn PD,,,,$0.00,1/26/19,1/28/19,2,,,140,May-19
 Ross,Benny,R,,Alcorn,Alcorn SO,"Possession of methamphetamine; possession of methamphetamine; Burglary: breaking and entering dwelling house; Burglary: breaking and entering dwelling house; Disorderly conduct- failure to comply with request or command of law enforcement officers; Resisting arrest; Burglary- commercial buildings, cars, etc.",,,"$5,000; $5,000; $0; $0; $1,000; $500; $0",6/28/17,1/28/19,579,,,141,May-19
 Ross,Jeffery,N,,Alcorn,Alcorn SO,"Warrant- old fines, part pay, part failure to pay; Possession of controlled substance felony; Burglary- breaking and entering dwelling house",,,"$4,055; $5,000; $30,000",5/30/18,1/28/19,243,,,142,May-19
-Smith,Jesse,D,,Alcorn,Corinth PD,Accident- giving false information,,,$800.00 ,1/3/19,1/28/19,25,,,143,May-19
+Smith,Jesse,D,,Alcorn,Corinth PD,Accident- giving false information,,,$800.00,1/3/19,1/28/19,25,,,143,May-19
 Smith,Brandon,L,,Alcorn,Alcorn SO,Robbery,,,"$20,000.00 ",11/13/18,1/28/19,76,,,144,May-19
 Staton,Lionel,J,,Alcorn,Alcorn SO,"Felony fleeing; failure to yield to emergency veh; reckless driving; disregarding fo traffic device; MV- no insurance; Failure to signal/improper lane change; resisting or obstructing arrest; Disorderly conduct: failure to comply with commands of law enforcement officers; possession of drug paraphernalia or selling, manufacturing or delivering paraphernalia",,,"$5,000; $305; $285; $245; $700; $245; $420; $420",6/5/17,1/28/19,602,,,145,May-19
-Suggs,Nigel,W,,Alcorn,Alcorn SO,Burglary of vehicle; credit card fraud; Burglary of dwelling,,,$0.00 ,11/13/18,1/28/19,76,,,146,May-19
-Switcher,Luke,K,,Alcorn,Alcorn SO,,,,$0.00 ,1/27/19,1/28/19,1,,,147,May-19
+Suggs,Nigel,W,,Alcorn,Alcorn SO,Burglary of vehicle; credit card fraud; Burglary of dwelling,,,$0.00,11/13/18,1/28/19,76,,,146,May-19
+Switcher,Luke,K,,Alcorn,Alcorn SO,,,,$0.00,1/27/19,1/28/19,1,,,147,May-19
 Teague,Curtis,L,,Alcorn,Alcorn SO,Hold: Detainer for MDOC; MV- Improper equiptment; MV- Drivers license- none; Possession of methamphetamine,,,$0; $1000; $500; $5000,9/17/18,1/28/19,133,,,148,May-19
-Thomas,Effie,D,,Alcorn,Alcorn SO,,,,$0.00 ,1/21/19,1/28/19,7,,,149,May-19
-Thompson,Dominick,L,,Alcorn,MDOC,Poss of crack cocaine,,,$0.00 ,11/13/18,1/28/19,76,,,150,May-19
+Thomas,Effie,D,,Alcorn,Alcorn SO,,,,$0.00,1/21/19,1/28/19,7,,,149,May-19
+Thompson,Dominick,L,,Alcorn,MDOC,Poss of crack cocaine,,,$0.00,11/13/18,1/28/19,76,,,150,May-19
 Turnage,Sammie,L,,Alcorn,Corinth PD,Aggravated assault; Possession of firearm by convicted felon,,,"$25,000; $10,000",11/2/18,1/28/19,87,,,151,May-19
-Turner,Brian,R,,Alcorn,Alcorn SO,,,,$0.00 ,5/5/18,1/28/19,268,No case found,,152,May-19
+Turner,Brian,R,,Alcorn,Alcorn SO,,,,$0.00,5/5/18,1/28/19,268,No case found,,152,May-19
 Vanderford,Jackie,B,,Alcorn,Alcorn SO,Controlled substance: possession of schedule I or II- 1/10th gram- 2 grams or 2-10 dosage units; Possession of methamphetamine,,,"$5,000; $5,000",1/15/19,1/28/19,13,,,153,May-19
 Voyles,Joshua,M,,Alcorn,Alcorn SO,Aggravated assault-use of deadly weapon or othe; forgery,,,$0; $0,5/30/18,1/28/19,243,,,154,May-19
 Voyles,Justin,C,,Alcorn,Alcorn SO,Possession of controlled substance,,,"$5,000.00 ",1/12/19,1/28/19,16,,,155,May-19
-Walker,Shakoa,D,,Alcorn,Corinth PD,Murder- Capital Murder,,,$0.00 ,5/29/18,1/28/19,244,,,156,May-19
+Walker,Shakoa,D,,Alcorn,Corinth PD,Murder- Capital Murder,,,$0.00,5/29/18,1/28/19,244,,,156,May-19
 Walker,Terrance,,,Alcorn,Alcorn SO,Burglary- breaking and entering dwelling house; Receiving stolen property- felony [value $1000 or more but less than $5000]; Possession of marijuana in motor vehicle; no drivers license; Improper equiptment,,,$0; $0; $0; $0; $0,1/21/18,1/28/19,372,,,157,May-19
 Weber,Joshua,M,,Alcorn,Corinth PD,"Contolled substance: possession of schedule I or II- less than 1/10 th gram- orless than 2 dosage units; Abandoned motor vehicle; Burglary-possession of burglary tools; Burglary- commercial buildings, cars, etc,",,,"$1,400 $800; $10,000; $0",8/20/18,1/28/19,161,,,158,May-19
 Wilbanks,William,,,Alcorn,Corinth PD,warrant- fail to appear,,,$815.50;,1/26/19,1/28/19,2,,,159,May-19
 Wilkins,Richard,A,,Alcorn,Alcorn SO,Possession of methamphetamine; Possession of methamphetamine,,,"$0; $3,000",12/15/18,1/28/19,44,,,160,May-19
 Williams,Brion,A,,Alcorn,MS Highway Patrol,"MV- Seatbelt violation; License, driving whilerevoked or suspended; warrant- fail to appear",,,"$1,000; $500; $0",1/23/19,1/28/19,5,,,161,May-19
-Williams,Justin,J,,Alcorn,Alcorn SO,Felon in possession of weapon,,,$0.00 ,10/4/18,1/28/19,116,,,162,May-19
+Williams,Justin,J,,Alcorn,Alcorn SO,Felon in possession of weapon,,,$0.00,10/4/18,1/28/19,116,,,162,May-19
 Williams,Luther,D,,Alcorn,Alcorn SO,Controlled substance: aggravated traficking in controlled substances,,,"$5,000.00 ",8/16/18,1/28/19,165,,,163,May-19
 Willis,Ginger,M,,Alcorn,Corinth PD,Contempt of court: municipal court; violation of probation- MDOC; Shoplifiting,,,"$859; $0; $1,200",10/22/18,1/28/19,98,,,164,May-19
-Wimsatt,James,W,,Alcorn,Alcorn SO,Controlled substance: possession of schedule I or II- 10-30 grams or 20-40 dosage units,,,$0.00 ,1/9/19,1/28/19,19,,,165,May-19
+Wimsatt,James,W,,Alcorn,Alcorn SO,Controlled substance: possession of schedule I or II- 10-30 grams or 20-40 dosage units,,,$0.00,1/9/19,1/28/19,19,,,165,May-19
 Brooks,Jarred Wesley,,,Amite,AMCO,resisting arrest; simple assault on law officer; abusive calls to emergency telephone ser; disturbance of family,,,$ 347.25 x2,12/10/18,4/10/19,121,,,166,May-19
 Cameron,Marquall Jakobie,,,Amite,FCSO,aggravated assault,,,"$20,000.00 ",3/27/19,4/10/19,14,,,167,May-19
 Cook,Victor Lamar,,,Amite,AMCO,poss of meth; child endangerment; felony carrying concealed weapon,,,,2/16/19,4/10/19,53,,,168,May-19
 Feather,Thomas M,,,Amite,AMCO,burglary-all but dwelling x2,,,150000 x2,7/1/18,4/10/19,283,,,169,May-19
 Hales,Christopher Wayne,,,Amite,AMCO,poss of meth,,,"$60,000.00 ",4/4/19,4/10/19,6,,,170,May-19
-Hamilton,Joshua Davis,,,Amite,AMCO,probation violation; driving with suspended/revoked driver's,,,$512.50 ,11/3/18,4/10/19,158,,,171,May-19
+Hamilton,Joshua Davis,,,Amite,AMCO,probation violation; driving with suspended/revoked driver's,,,$512.50,11/3/18,4/10/19,158,,,171,May-19
 Hart,Rardon Shamar,,,Amite,FCSO,aggravated assault,,,"$2,500.00 ",3/27/19,4/10/19,14,,,172,May-19
 May,Dalton Evans,,,Amite,AMCO,felony poss of controlled substance; possession of marj in motor vehicle,,,,3/24/19,4/10/19,17,,,173,May-19
 McCauley,Russell James,,,Amite,AMCO,child abuse-condoning,,,"$40,000.00 ",10/16/18,4/10/19,176,,,174,May-19
@@ -289,7 +289,7 @@ GILLESPIE,CODY,,,Chickasaw,,POSS OF METH,,,ALIAS CAPIAS,2/27/19,3/18/19,19,,,287
 JAMES,CHRISTOPHER,,,Chickasaw,,"MURDER, POSS OF A FIRE ARM BY FELON",,,"$500,000.00 ",11/27/18,3/18/19,111,,,288,May-19
 KELLY,WILLIAM,,,Chickasaw,,"POSS OF METH, POSS OF MARIJUANA-MISD, POSS OF PARAPHERNALIA-MISD",,,"$15,000.00 ",2/16/19,3/18/19,30,,,289,May-19
 MILLER,MARIO,,,Chickasaw,,GRAND LARC,,,"$5,000.00 ",1/4/19,3/18/19,73,,,290,May-19
-NICHOLS,PATRICK,,,Chickasaw,,"BURGLARY , ARSON OF A SCHOOL, MALICIOUS MISCHIEF OVER A $1,000.00",,,BOND REVOKED,3/16/18,3/18/19,367,,,291,May-19
+NICHOLS,PATRICK,,,Chickasaw,,"BURGLARY, ARSON OF A SCHOOL, MALICIOUS MISCHIEF OVER A $1,000.00",,,BOND REVOKED,3/16/18,3/18/19,367,,,291,May-19
 PENSON,JAMES,,,Chickasaw,,POSS OF A FIREARM BY A FELON,,,"$10,000.00 ",12/25/18,3/18/19,83,,,292,May-19
 SIMTH,JOHN,E,,Chickasaw,,"AGG. ASSAULT, BURGLARY",,,"$200,000.00 ",1/8/19,3/18/19,69,,,293,May-19
 SMITH,DENNIS,,,Chickasaw,,SIMPLE ASSAULT ON A POLICE OFFICER,,,BOND REVOKED,8/17/18,3/18/19,213,,,294,May-19
@@ -334,7 +334,7 @@ Thomas,Joshua,,,Clarke,,Impersonating Officer; poss. Of controlled substance,Y,,
 Thompson,Hattie,,,Clarke,,DUI 2nd Conviction,,,"$2,500.00 ",3/19/19,3/21/19,2,Serving 10 days,W/F,333,May-19
 Watkins,Verbie,,,Clarke,,Murder,Y,,"1.000,000",10/27/15,3/21/19,1241,,B/M,334,May-19
 Watsm,Ryan,,,Clarke,,Agg. Dom. Violence; Assult on police x3,N,,"$850,000.00 ",2/12/19,3/21/19,37,,B/M,335,May-19
-Avant,Kontara Chardae,,,Clay,WPPD,"Bench warrant ""failure to appear"" x2",,,$518.25 ,1/28/19,4/10/19,72,,,336,May-19
+Avant,Kontara Chardae,,,Clay,WPPD,"Bench warrant ""failure to appear"" x2",,,$518.25,1/28/19,4/10/19,72,,,336,May-19
 Bazzell,Shane Allen,,,Clay,CCSO,inmate work program,,,,1/2/19,4/10/19,98,,,337,May-19
 Bell,Travis,,,Clay,WPPD,inmate work program,,,,5/19/18,4/10/19,326,,,338,May-19
 Boggs,Brian W,,,Clay,CCSO,burg. Of dwelling-house occupied,,,"$20,000.00 ",1/14/19,4/10/19,86,,,339,May-19
@@ -344,7 +344,7 @@ Brownlee,Latoria Jennae,,,Clay,WPPD,murder-capital,,,"$250,000.00 ",12/20/17,4/1
 Buchanan,Emmett Walter,,,Clay,CCSO,burglary-dwelling; robbery-armed; kidnapping x5,,,"$25,000; 200,000 x6",12/1/17,4/10/19,495,,,343,May-19
 Bullard,Nathan J,,,Clay,MDOC,inmate work program,,,,6/29/18,4/10/19,285,,,344,May-19
 Burnett,Eric Lendel,,,Clay,WPPD,disorderly conduct; resisting arrest; circuit court bench warrant,,,$245.25; 307.25; denied,4/6/19,4/10/19,4,,,345,May-19
-Burns,Dennis Wayne,,,Clay,CCSO,shoplifting 2nd offense,,,$858.25 ,4/3/19,4/10/19,7,,,346,May-19
+Burns,Dennis Wayne,,,Clay,CCSO,shoplifting 2nd offense,,,$858.25,4/3/19,4/10/19,7,,,346,May-19
 Carpenter,Stephen Dale,,,Clay,CCSO,sentence to MDOC,,,,3/27/19,4/10/19,14,,,347,May-19
 Carter,Cedric,,,Clay,CCSO,inmate wrok program; introduction of contraband in a correctional facil x2,,,"$5,000 x2",1/2/19,4/10/19,98,,,348,May-19
 Chandler,Lorenzo,,,Clay,CCSO,"burglary-dwelling-house; agg. Assault on police, fire, school off. With weapon",,,"15,000 x2",7/1/18,4/10/19,283,,,349,May-19
@@ -364,7 +364,7 @@ Gandy,Tommy,,,Clay,CCSO,kidnapping; agg. Assault w/weapon or other means to prod
 Gill,George Mario,,,Clay,WPPD,felony fleeing in a motor vehicle; failure to yield to blue light/siren x2; careless driving; possession of a firearm by a convicted felon; attempt to committ a murder,,,"$500,000; 247.50; 179.50; 225.25; 750,000 x2",10/24/17,4/10/19,533,,,363,May-19
 Hall,Orlando,,,Clay,CCSO,inmate work program,,,,1/2/19,4/10/19,98,,,364,May-19
 Hamilton,Fredrick Earl,,,Clay,CCSO,parole violation-felony,,,,7/2/18,4/10/19,282,,,365,May-19
-Hamilton,James,,,Clay,WPPD,public drunk,,,$258.25 ,12/21/18,4/10/19,110,,,366,May-19
+Hamilton,James,,,Clay,WPPD,public drunk,,,$258.25,12/21/18,4/10/19,110,,,366,May-19
 Hamilton,Rafeal Antwone,,,Clay,WPPD,sentence to MDOC,,,"$15,000.00 ",12/7/14,4/10/19,1585,,,367,May-19
 Harris,Rodney R,,,Clay,MDOC,probation violation - felony,,,denied,4/24/18,4/10/19,351,,,368,May-19
 Henderson,Cameron Adam,,,Clay,WPPD,shoplifting -less than $500; disturbing the peace; murder,,,$639.25; 348.25; denied,3/13/19,4/10/19,28,,,369,May-19
@@ -485,7 +485,7 @@ Smith Jr.,Gerald Wayne,W,,Copiah,CCSD,Controlled or counterfeit substance,,,,1/1
 Smitherman,Amber Michelle,,,Copiah,CCSD,Capias Indictment; Capias Indictment; Capias Indictment,,,,1/24/19,2/6/19,13,,,484,May-19
 Stewart,Jessica,,,Copiah,CSPD,Disorderly Conduct,,,,1/31/19,2/6/19,6,,,485,May-19
 Sutton,Dajour,,,Copiah,CCSD,"Murder, Capital; Conspiracy to commit a crime; Kidnapping; Tampering ith physical evidence; Robbery, armed",,,,11/20/18,2/6/19,78,,,486,May-19
-Tobias,Nahaniel Jr.,,,Copiah,CCSD,"Larceny, Petit; Identity theft x 4; Forgery , uttering x 2; Bad checks (felony); Cyber stalking",,,,12/28/18,2/6/19,40,,,487,May-19
+Tobias,Nahaniel Jr.,,,Copiah,CCSD,"Larceny, Petit; Identity theft x 4; Forgery, uttering x 2; Bad checks (felony); Cyber stalking",,,,12/28/18,2/6/19,40,,,487,May-19
 Williams,Nickethia,,,Copiah,CSPD,"Paraphernalia, possession; Larceny, grand",,,,12/12/18,2/6/19,56,,,488,May-19
 Williams,Shan,,,Copiah,CCSD,"Receiving stolen property; Weapon, possession or by a convicted felon",,,,10/25/18,2/6/19,104,,,489,May-19
 Winters,Sammy Lee,L,,Copiah,CCSD,"Possession of paraphernalia; Robbery, armed; Assault, aggravated; Weapon, ossession of by a convicted felon; Capias Indictment",,,,8/18/18,2/6/19,172,,,490,May-19
@@ -953,26 +953,26 @@ Bethley,Lee,,,Franklin,,contempt of court,,,,11/8/18,1/22/19,75,,,951,May-19
 Cupit,Austin,,,Franklin,,contributing to the delinquency of a minor x 3,,,no bond,2/20/18,1/22/19,336,,,952,May-19
 Frazer,William,,,Franklin,,Burglary,,,,4/10/17,1/22/19,652,,,953,May-19
 Marcum,Justin,,,Franklin,,burglary,,,no bond,9/22/18,1/22/19,122,,,954,May-19
-Angel,Michael,A,,George,,explotation/ child,,,$0.00 ,2/1/19,2/4/19,3,,,955,May-19
+Angel,Michael,A,,George,,explotation/ child,,,$0.00,2/1/19,2/4/19,3,,,955,May-19
 Baxter,Kassie,M,,George,,Bench warrant; bond surrender; bond surrender; hold; hold,,,"$0; $20,000; $0; $1,000; $0",12/20/18,2/4/19,46,,,956,May-19
-Blackston,Abraham,,,George,,DUI- 3rd offense,,,$0.00 ,2/2/19,2/4/19,2,,,957,May-19
+Blackston,Abraham,,,George,,DUI- 3rd offense,,,$0.00,2/2/19,2/4/19,2,,,957,May-19
 Blankinchip,Brandon,L,,George,,Controlled substance- possession of schedule I or II  2-10 grams or 10-20 dosage units,,,"$2,500.00 ",1/26/19,2/4/19,9,,,958,May-19
 Bohanon,Teresa,R,,George,,aggravated assault- use of deadly weapon or othe,,,"$10,000.00 ",1/7/18,2/4/19,393,,,959,May-19
 Bosarge,James,L,,George,,"receivinhg stolen property - Felony [ value $1,000 or more but less than $5,000]; fleeing or eluding law enforcement officer in a motor vehicle - reckless or willful disregard for the safety of other persons ; DUI 3rd offense; Motor vehicle theft- value over $1,000",,,"$0; $10,000;$10,000; $10,000",8/20/17,2/4/19,533,,,960,May-19
 Boulton,Brittany,,,George,,bench warrant; bond surrender,,,"$0; $5,000",1/24/19,2/4/19,11,,,961,May-19
 Brewer,Charles,P,,George,,"Burglary- breaking and entering inner door of dwelling; contemot of court- municipal court; Hold- detainer for Greene co; Hold- detainer for MDOC; motor vehicle theft over $1,000",,,"$25,000; $0; $0; $0; $0",11/16/18,2/4/19,80,,,962,May-19
 Brooks,Christopher,M,,George,,Sexual Battery; Child Molesting- touching of a child for lustful purposes,,,"$100,000; $100,000",3/22/18,2/4/19,319,,,963,May-19
-Brown,Jason,M,,George,,Hold- detainer for other agency,,,$0.00 ,1/17/19,2/4/19,18,,,964,May-19
+Brown,Jason,M,,George,,Hold- detainer for other agency,,,$0.00,1/17/19,2/4/19,18,,,964,May-19
 Camp,Steven,F,,George,,capias- Indictment,,,"$25,000.00 ",11/19/18,2/4/19,77,,,965,May-19
 Cauley,Heather,D,,George,,Controlled substance- possession of schedule I or II  1/10th gram - 2 grams - 10 dosage unites,,,"$5,000.00 ",2/2/19,2/4/19,2,,,966,May-19
 Cochran,Kennth,D,,George,,MV-Tag switched; No Insurance; Child molesting [ touching of child for lustful purposes]; sexual battery,,,"$0; $0; $50,000; $50,000",8/11/15,2/4/19,1273,,,967,May-19
 Cooley,Travis,L,,George,,capias- Indictment,,,"$20,000.00 ",10/12/18,2/4/19,115,,,968,May-19
 Cooley,Benton,A,,George,,"contempt of court; Burglary - breaking and entering inner door dwelling; Moto vehicle theft - value over $1,000; controlled ubstance : possession of schedule I or II - 1/10th grams- 2 grams- 10 dosage units; Hold- detainer for other agency",,,"$0; $5,000; $5,000; $5,000; $0",10/10/17,2/4/19,482,,,969,May-19
 Crocker,Shawn,R,,George,,"Grand larceny [ value $1,000 or more but less than $5,000]",,,"$5,000.00 ",6/17/18,2/4/19,232,,,970,May-19
-Cuevas,Scottie,L,,George,,Court Order- drug court,,,$0.00 ,2/1/19,2/4/19,3,,,971,May-19
+Cuevas,Scottie,L,,George,,Court Order- drug court,,,$0.00,2/1/19,2/4/19,3,,,971,May-19
 Deckard,Catherine,C,,George,,Bench Warrant- Circuit court; Hold- detainer for Lucedale PD; ond surrender; bond surrender,,,"$0; $2,000; $0; $0",11/16/18,2/4/19,80,,,972,May-19
-Dennis,Jeantte,L,,George,,Serving sentence- awaiting transfer to MDOC,,,$0.00 ,1/22/19,2/4/19,13,,,973,May-19
-Deyarmett,Shelby,L,,George,,Bench Warrant- Justice Court,,,$0.00 ,1/30/19,2/4/19,5,,,974,May-19
+Dennis,Jeantte,L,,George,,Serving sentence- awaiting transfer to MDOC,,,$0.00,1/22/19,2/4/19,13,,,973,May-19
+Deyarmett,Shelby,L,,George,,Bench Warrant- Justice Court,,,$0.00,1/30/19,2/4/19,5,,,974,May-19
 Ellis,Andre,,,George,,resisting arrest; bench warrant,,,$0; $0,1/28/19,2/4/19,7,,,975,May-19
 Erkhart,Justin,N,,George,,Bench warrant; contemot of court; hold,,,$0; $0; $0,1/19/19,2/4/19,16,,,976,May-19
 Fairley,Larry,E,,George,,"Controlled Substance: sell, transfer, distribute, poss with intent to sell within 1500 feet of school building, church, public park, youth gym or movie theater ; bond forfeited",,,"$20,000; $0",4/23/18,2/4/19,287,,,977,May-19
@@ -983,50 +983,50 @@ Harper,Erskin,J,,George,,counterfeiting- possession of counterfeit bank notes or
 Hawkins,Jaquan,,,George,,contempt of court- justice court; bemnch warrant- Lucedale court; Bench warrant- justice court; MV- failure to yield to blue lights/ or stop in P; Hold- detainer for Lucedale PD; Hold; Detainer for greene co,,,"$1,000; $0; $0; $1,000; $0; $0",1/20/19,2/4/19,15,,,982,May-19
 Hembree,Kelsey,D,,George,,"Controlled Substance: sell, transfer, distribute, poss with intent to sell ; bond surrender;  hold- detainer for greene co",,,"$7,500.00 ",1/30/19,2/4/19,5,,,983,May-19
 Hembree,Matthew,,,George,,Contempt of court- justice court,,,"$1,000.00 ",2/3/19,2/4/19,1,,,984,May-19
-High,Donald,R,,George,,violation of probation-mdoc,,,$0.00 ,1/24/19,2/4/19,11,,,985,May-19
+High,Donald,R,,George,,violation of probation-mdoc,,,$0.00,1/24/19,2/4/19,11,,,985,May-19
 Holland,Anthony,,,George,,child molesting [ touching of a child for lustful purposes],,,"$50,000.00 ",12/16/18,2/4/19,50,,,986,May-19
 Howard,Chris,A,,George,,"Controlled Substance: sell, transfer, distribute, poss with intent to sell ; controlled Substance: sell, transfer, distribute, poss with intent to sell ; simple assault- attempt by physical menace to create fear",,,$2500; $2500; $1000,11/13/17,2/4/19,448,,,987,May-19
 Howell,Jennifer,M,,George,,"Burglary - commercial buildings, cars, etc",,,"$10,000.00 ",1/7/19,2/4/19,28,,,988,May-19
-Johnson,Gayland,,,George,,violation of probation-mdoc,,,$0.00 ,1/24/19,2/4/19,11,,,989,May-19
+Johnson,Gayland,,,George,,violation of probation-mdoc,,,$0.00,1/24/19,2/4/19,11,,,989,May-19
 Jones,Byron,H,,George,,Bench warrant- circuit court; Hold- detainer for ther agency,,,$0; $0,8/13/18,2/4/19,175,,,990,May-19
-Jordan,Deandre,M,,George,,Robbery,,,$0.00 ,2/1/19,2/4/19,3,,,991,May-19
+Jordan,Deandre,M,,George,,Robbery,,,$0.00,2/1/19,2/4/19,3,,,991,May-19
 Jordan,Jefferson,L,,George,,sexual battery- ; child is under 14 years of age; offeder is 24 or more months older than the child] ; child- molesting [ touching of a child for lustful purposes],,,"$300,000; $150,000",4/11/18,2/4/19,299,,,992,May-19
 Kennedy,Temple,F,,George,,Bond surrender; bench warrant - circuit court; hold- detainer for Greene co,,,"$10,000; $0; $0",11/10/18,2/4/19,86,,,993,May-19
-Lnu,Fnu,W,,George,,"Writ to take custody - chancery court - emergency involuntary commitment - alcoholics, drug adicts",,,$0.00 ,12/20/18,2/4/19,46,,,994,May-19
-Loper,Clara,D,,George,,Hold- detainer for MDOC,,,$0.00 ,1/29/19,2/4/19,6,,,995,May-19
+Lnu,Fnu,W,,George,,"Writ to take custody - chancery court - emergency involuntary commitment - alcoholics, drug adicts",,,$0.00,12/20/18,2/4/19,46,,,994,May-19
+Loper,Clara,D,,George,,Hold- detainer for MDOC,,,$0.00,1/29/19,2/4/19,6,,,995,May-19
 Ludgood,Gregory,,,George,,"Controlled Substance: sell, transfer, distribute, poss with intent to sell ; bond surrender;  hold- detainer for greene co",,,"$15,000; $10,000; $0",2/23/18,2/4/19,346,,,996,May-19
 McKenzie,Christian,S,,George,,Aggravated assault; armed robbery; weapons- possession of firearm or other weapons by convicted felon,,,"$50,000; $50,000; $A50,000",1/3/19,2/4/19,32,,,997,May-19
 Menefee,Aston,L,,George,,Burglary- breaking and entering inner door of dwelling; Hold- detainer for other agency,,,"$20,000; $0",9/18/18,2/4/19,139,,,998,May-19
 Miller,Tiffany,M,,George,,Bench warrant - lucedale municipal court ; bench warrant- justice court,,,"$1,000; $0",1/22/19,2/4/19,13,,,999,May-19
 Mills,Joseph,L,,George,,"Fleeing or eluding law enforcement officer in a motor vehicle- willful or reckless disregar for safety of persons or property; receiving stolen property - felony [ value $1,000 or more but less than $5,000] ; Hold- detainer for jackson co; fleeing or eluding law enforcement officer in a motor vehicle- reckless or willful disregar for the safety of persons or property",,,"$5,000; $5,000; $0; $2,500",9/12/18,2/4/19,145,,,1000,May-19
-Miniard,Jerry,D,,George,,violation of probation-mdoc,,,$0.00 ,12/14/18,2/4/19,52,,,1001,May-19
+Miniard,Jerry,D,,George,,violation of probation-mdoc,,,$0.00,12/14/18,2/4/19,52,,,1001,May-19
 Nolan,David,A,,George,,Contempt of court- justice court; benchw arrant- justice court,,,"$1,000; $0",2/3/19,2/4/19,1,,,1002,May-19
 Paul,Robbie,J,,George,,contempt of court- justice court,,,"$1,000.00 ",2/3/19,2/4/19,1,,,1003,May-19
 Pierce,Clinton,H,,George,,"receivinhg stolen property - Felony [ value $5,000 or more but less than $25,000]; bench warrant; violation of parole - mdoc",,,"$10,000; $0; $0",1/11/18,2/4/19,389,,,1004,May-19
 Pipkins,Daniel,J,,George,,Burglary- possession of burglary tools ; bench warrant ; Hold - detainer for greene county; bond surrender; bond surrender,,,"$6,000; $A0; $0; $2,000; $5,000",12/17/18,2/4/19,49,,,1005,May-19
-Pitts,Wendy,E,,George,,Court order,,,$0.00 ,2/2/19,2/4/19,2,,,1006,May-19
-Rankin,Robert,E,,George,,"Grand larceny [ value $1,000 or more but less than $5,000] ; robbery- use of deadly weapon; Burglary- breaking and entering dwelling house; Burglary- commercial buldings , cars, etc. ; burglary- breaking and entering inner door of dwelling",,,"$0; $100,000; $0; $0; $100,000",12/15/17,2/4/19,416,,,1007,May-19
+Pitts,Wendy,E,,George,,Court order,,,$0.00,2/2/19,2/4/19,2,,,1006,May-19
+Rankin,Robert,E,,George,,"Grand larceny [ value $1,000 or more but less than $5,000] ; robbery- use of deadly weapon; Burglary- breaking and entering dwelling house; Burglary- commercial buldings, cars, etc. ; burglary- breaking and entering inner door of dwelling",,,"$0; $100,000; $0; $0; $100,000",12/15/17,2/4/19,416,,,1007,May-19
 Rigby,Michael,L,,George,,Bench warrant; car jacking; weapons- possession of stolen firearm; hold- detainer for greene co; bench warrant- circuit court; disorderly conduct- failure to comply with request or command of law officers,,,"$0; $15,000; $10,000; $0; $0; $1,000",4/5/18,2/4/19,305,,,1008,May-19
 Shepheard,Adam,H,,George,,robbery- use of deadly weapon,,,"$150,000.00 ",9/26/18,2/4/19,131,,,1009,May-19
 Slay,Ashley,N,,George,,fraud- by mail or other means of communication; identity theft- obatin personal identity information,,,"$15,000; $15,000",10/24/18,2/4/19,103,,,1010,May-19
 Smith,Heather,M,,George,,Contempt of court- justice court,,,"$1,000.00 ",2/3/19,2/4/19,1,,,1011,May-19
 Teague,Tony,D,,George,,"receivinhg stolen property - Felony [ value $1,000 or more but less than $5,000]; fleeing or eluding law enforcement officer in a motor vehicle - reckless or willful disregard for the safety of other persons ; DUI 3rd offense; Motor vehicle theft- value o",,,"$30,000.00 ",1/31/19,2/4/19,4,,,1012,May-19
 Valleroy,John,P,,George,,Burglary- breaking and entering inner door of dwelling;,,,"$10,000.00 ",8/20/18,2/4/19,168,,,1013,May-19
-Vaughn,Cleveland,E,,George,,DUI- 4th and subsequent offense,,,$0.00 ,2/2/19,2/4/19,2,,,1014,May-19
+Vaughn,Cleveland,E,,George,,DUI- 4th and subsequent offense,,,$0.00,2/2/19,2/4/19,2,,,1014,May-19
 Walton,Kimberly,D,,George,,failure to appear,,,"$1,000.00 ",1/30/19,2/4/19,5,,,1015,May-19
 Ward,Breanna,V,,George,,disorderly conduct- failure to comply with request or command of law enforcement officers; hold- detainer for Lucedale PD,,,"$1,000; $0",2/2/19,2/4/19,2,,,1016,May-19
 Weaver,Joseph,B,,George,,"Grand larceny [ value $1,000 or more but less than $5,000] ; Burglary- breaking and entering inner door of welling; burglary- inhabited dwelling or unarmed; robbery- use of deadly weapon; burglary- general; motor vehicle theft - calue over $1,000; hold- detainer for other agency",,,"$150,000; $200,000; $100,000; $100,000; $50,000; $50,000; $0",2/20/18,2/4/19,349,,,1017,May-19
-Welford,Bobbie,S,,George,,court order- drug court,,,$0.00 ,2/1/19,2/4/19,3,,,1018,May-19
+Welford,Bobbie,S,,George,,court order- drug court,,,$0.00,2/1/19,2/4/19,3,,,1018,May-19
 Wilcox,Kody,M,,George,,"DUI- 1st offense ; motor vehicle theft- calue over $1,000",,,"$1,500; $5,000",12/16/18,2/4/19,50,,,1019,May-19
 Young,Tad,M,,George,,"Controlled Substance: sell, transfer, distribute, poss with intent to sell ; controlled Substance: sell, transfer, distribute, poss with intent to sell ; Controlled Substance: sell, transfer, distribute, poss with intent to sell ; bond forfeited",,,"$20,000; $20,000; $20,000; $0",10/12/18,2/4/19,115,,,1020,May-19
 Zehner,Lauren,P,,George,,violation of probation-mdoc; hold- detainer for ucedale PD,,,$0;$0,1/18/19,2/4/19,17,,,1021,May-19
-Zilo,Matthew,N,,George,,bench warrant; justice court,,,$0.00 ,1/24/19,2/4/19,11,,,1022,May-19
+Zilo,Matthew,N,,George,,bench warrant; justice court,,,$0.00,1/24/19,2/4/19,11,,,1022,May-19
 Barron,Kerry,C,,Greene,,Failure to Appear,,,"$1,003.76 ",1/22/19,2/1/19,10,No Housing Assigned,,1023,May-19
 Brewer,Melissa,L,,Greene,,Probation Violation,,,"$2,446.00 ",1/29/19,2/1/19,3,No Housing Assigned,,1024,May-19
 Burhorn,Charles,J,,Greene,,Burglary-Occupied Dwelling,,,"$40,000.00 ",10/2/18,2/1/19,122,,,1025,May-19
 Burke,Gloria,M,,Greene,,No Charges,,,,1/29/19,2/1/19,3,No Housing Assigned,,1026,May-19
 Conner,Isham,D,,Greene,,"Smuggle Contraband, Conspiracy",,,"$10,000.00 ",1/7/19,2/1/19,25,,,1027,May-19
-Daniels,Amy,M,,Greene,,"Failure to Appear, Probation Violation",,,$966.00 ,1/16/19,2/1/19,16,,,1028,May-19
+Daniels,Amy,M,,Greene,,"Failure to Appear, Probation Violation",,,$966.00,1/16/19,2/1/19,16,,,1028,May-19
 Davis,Freddie,C,,Greene,,"Domestic Violence Order, Abuse Vulnerable Adult, Disorderly Conduct/Creating Turmoil",,,"$5,000.00 ",8/26/18,2/1/19,159,,,1029,May-19
 Ezell,Kerry,E,,Greene,,"Trespassing, Burglary-Vehicle",,,,11/28/18,2/1/19,65,,,1030,May-19
 Ezell,Wilbert,B,,Greene,,Failure to Appear,,,"$1,107.00 ",1/24/19,2/1/19,8,,,1031,May-19
@@ -1042,7 +1042,7 @@ Lambert,William,C,,Greene,,Grand Larceny,,,"$15,000.00 ",10/10/18,2/1/19,114,,,1
 Lambert,Zachary,W,,Greene,,Probation Violation,,,,1/9/19,2/1/19,23,,,1041,May-19
 Lnu,Fnu,,,Greene,,No Charges,,,,1/17/19,2/1/19,15,Temporary Release,,1042,May-19
 Ludgood,Cornelius,M,,Greene,,Numerous Felony Charges/Convicted,,,,1/18/19,2/1/19,14,,,1043,May-19
-Morris,Jonathon,L,,Greene,,Failure to Appear X2,,,$606.00 ,1/25/19,2/1/19,7,,,1044,May-19
+Morris,Jonathon,L,,Greene,,Failure to Appear X2,,,$606.00,1/25/19,2/1/19,7,,,1044,May-19
 Nicholson,Daniel,B,,Greene,,"Probation Violation, Speeding, No Insurance",,,"$5,263.00 ",1/11/19,2/1/19,21,,,1045,May-19
 Pierce,Robert,A,,Greene,,Aggravated Assault,,,"$20,000.00 ",1/3/19,2/1/19,29,,,1046,May-19
 Pipkins,Daniel,J,,Greene,,Contempt of Court - Failure to Appear,,,,12/13/18,2/1/19,50,Temporary Release,,1047,May-19
@@ -1053,7 +1053,7 @@ Walley,Calla,M,,Greene,,Delivery of Controlled Substance,,,"$10,000.00 ",12/19/1
 Wilder,Jessica,L,,Greene,,Possession of Controlled Substance,,,"$5,000.00 ",12/19/18,2/1/19,44,,,1052,May-19
 Williford,Joseph,A,,Greene,,"Burglary-Nonresid., Housing",,,"$11,237.00 ",1/12/19,2/1/19,20,,,1053,May-19
 Anderson,Javarrious Malik,M,,Grenada,MCSO,Robbery- Armed (pending),,,"$50,000.00 ",9/13/18,2/25/19,165,,,1054,May-19
-Anthony,Akeem Derez,D,,Grenada,MDOC,Sex Offender- Failure to Register (convicted); Violation of Probation (open),,,$0.00 ,12/18/18,2/25/19,69,,,1055,May-19
+Anthony,Akeem Derez,D,,Grenada,MDOC,Sex Offender- Failure to Register (convicted); Violation of Probation (open),,,$0.00,12/18/18,2/25/19,69,,,1055,May-19
 Anthony,Shamond,C,,Grenada,GCSO,DHS Incarceration For Child Support (open) Domestic Violence- Aggravated (open),,,"$0; $10,000",12/27/18,2/25/19,60,,,1056,May-19
 Atkins,Chaz,D,,Grenada,MDOC,Malicous Mischief (felony) (convicted),,,,8/23/18,2/25/19,186,,,1057,May-19
 Bankston,Khrystofer Joseph,J,,Grenada,MDOC,Contraband in jail (convicted); Robbery (convicted),,,,1/22/19,2/25/19,34,,,1058,May-19
@@ -1066,11 +1066,11 @@ Buckley,Tyler Demond,D,,Grenada,MDOC,CS- Sale of Cocaine (convicted),,,,1/22/19,
 Burney,Rodney keith,K,,Grenada,GCSO,Poss of Cocaine (violation); Poss of Controlled Substance (violation); Poss of marijuana (violation),,,,2/21/19,2/25/19,4,,,1065,May-19
 Busby,Ritchie Dale,D,,Grenada,GCSO,Domestic Violence- Simple (dropped);  Sex Offender- Failure to Register (pending),,,"$0; $10,000",12/14/18,2/25/19,73,,,1066,May-19
 Caffey,Christoper,,,Grenada,GCSO,Trafficking (Meth) (convicted),,,,8/17/18,2/25/19,192,,,1067,May-19
-Cain,Demarcus Deangelo,D,,Grenada,GPD,Assault on a Law Enforcement Officer (pending); Burglary/ Dwelling House/ Breaking and Entering (pending),,,$0.00 ,10/18/17,2/25/19,495,,,1068,May-19
+Cain,Demarcus Deangelo,D,,Grenada,GPD,Assault on a Law Enforcement Officer (pending); Burglary/ Dwelling House/ Breaking and Entering (pending),,,$0.00,10/18/17,2/25/19,495,,,1068,May-19
 Chavez,Manuel Galen,G,,Grenada,GPD,Molesting (pending),,,"$100,000.00 ",12/4/18,2/25/19,83,,,1069,May-19
 Clay,Shuntez,L,,Grenada,GPD,Incarceration Order/ Child Support/ Chancery Court (open),,,,2/17/18,2/25/19,373,,,1070,May-19
 Coffman,Stephen Dale,D,,Grenada,GCSO,"mred Robbery/ Strong (pending); Domestic Violence (dropped); Kidnapping (pending); Vulnerable Person, Felonious Infliction of Physical (pending)",,,"$100,000.00 ",6/21/18,2/25/19,249,,,1071,May-19
-Collins,Anthony Arveastor,A,,Grenada,GPD,Sale of Controlled Substance (convicted),,,$0.00 ,5/10/18,2/25/19,291,,,1072,May-19
+Collins,Anthony Arveastor,A,,Grenada,GPD,Sale of Controlled Substance (convicted),,,$0.00,5/10/18,2/25/19,291,,,1072,May-19
 Cook,Jamoine Demarkuz,D,,Grenada,MDOC,Burglary (violation); Child- Explotation of Children (violation),,,,1/24/19,2/25/19,32,,,1073,May-19
 Cook,Tyler Shane,S,,Grenada,MDOC,Burglary (violation),,,,12/7/18,2/25/19,80,,,1074,May-19
 Cooper,Michael Anthony,A,,Grenada,City C,DUS/SR 1st Offense (violation),,,,2/12/19,2/25/19,13,,,1075,May-19
@@ -1093,7 +1093,7 @@ Harris,Jonathan Adual,A,,Grenada,GCSO,Contempt of Court- Cash Only (Violation); 
 Harris,Channing Cornelius,C,,Grenada,GPD,Malicous Mischief,,,"$5,000.00 ",8/24/18,2/25/19,185,,,1092,May-19
 Harvey,Joshua Lee,L,,Grenada,GPD,"Burglary/ Commercial Buildings, Cars, Etc. (pending); Contempt of Court- Fail to Appear or Complete Jur (Dropped)",,,"$5,000.00 ",11/2/18,2/25/19,115,,,1093,May-19
 Hayes,Jamarkus Lenard,L,,Grenada,MDOC,CS- Poss W/ Intent to Distribute Cocaine (violation); CS-Poss W/Intent to Distribute Methamphetamine (Convicted);,,,,2/4/19,2/25/19,21,,,1094,May-19
-Henderson,Dana Leigh,L,,Grenada,GCSO,Escape or Attemt to Escape Felony Charge (Pending) ; Obstructing of Justice (dropped); Simple Assault Police Officer (Convicted),,,$0.00 ,8/31/18,2/25/19,178,,,1095,May-19
+Henderson,Dana Leigh,L,,Grenada,GCSO,Escape or Attemt to Escape Felony Charge (Pending) ; Obstructing of Justice (dropped); Simple Assault Police Officer (Convicted),,,$0.00,8/31/18,2/25/19,178,,,1095,May-19
 Hogan,Zelma Lakeisha,,,Grenada,GPD,Contempt of Court- Municipal Court (Open),,,"$1,000.00 ",2/24/19,2/25/19,1,,,1096,May-19
 Hollingsworth,Jeffrey Jerome,J,,Grenada,MDOC,CS-Sale of Controlled Substances (convicted),,,,1/3/19,2/25/19,53,,,1097,May-19
 Howard,James Earl,E,,Grenada,MDOC,(),,,,2/7/19,2/25/19,18,,,1098,May-19
@@ -1146,7 +1146,7 @@ Rinehart,Toby Lynn,L,,Grenada,MDOC,Possession of Meth,,,,9/20/18,2/25/19,158,,,1
 Roberts,Giovanni,,,Grenada,GPD,Motor vehicle theft- Taking away of a motor vehicle (pending); Petit larceny (dropped),,,,9/24/18,2/25/19,154,,,1145,May-19
 Robertson,Joseph Wayne,W,,Grenada,MDOC,Weapons poss of weapon by convicted Felon (Convicted),,,,1/22/19,2/25/19,34,,,1146,May-19
 Robinson,Jasmond Kewon,K,,Grenada,MDOC,Burglary (convicted),,,,2/4/19,2/25/19,21,,,1147,May-19
-Robinson,Madrena,,,Grenada,GPD,Disorderly Conduct- Disturbance of Family (Open),,,$459.00 ,2/22/19,2/25/19,3,,,1148,May-19
+Robinson,Madrena,,,Grenada,GPD,Disorderly Conduct- Disturbance of Family (Open),,,$459.00,2/22/19,2/25/19,3,,,1148,May-19
 Robinson,Thomas,,,Grenada,GCSO,Escape Felony Charge (Pending); Failure to register sex offender (pending); NCIC Warrant (violation); Poss of Stolen Property (Pending); Total bond for charges (pending);,,,"$0; $0; $15,000",12/26/18,2/25/19,61,,,1149,May-19
 Robinson,Cordarrius Demon,D,,Grenada,MCSO,Burglary/ Dwelling House/ Breaking and Entering (Open),,,,2/23/19,2/25/19,2,,,1150,May-19
 Robinson,Ethan Lamar,L,,Grenada,MDOC,Burglary (convicted),,,,10/10/18,2/25/19,138,,,1151,May-19
@@ -1163,7 +1163,7 @@ Spruill,Michael,,,Grenada,MDOC,Burglary (convicted),,,,10/10/18,2/25/19,138,,,11
 Stiltner,Timothy,J,,Grenada,MDOC,CS-Poss of controlled substance (convicted),,,,9/20/18,2/25/19,158,,,1162,May-19
 Tatum,Jimmy Mulnorn,M,,Grenada,MDOC,Poss of crack cocaine,,,,8/17/16,2/25/19,922,,,1163,May-19
 Taylor,Forrest Scott,S,,Grenada,GCSO,Shooting into dwelling (violation),,,,2/21/19,2/25/19,4,,,1164,May-19
-Tedford,Jatarious,,,Grenada,GPD,Disorderly Conduct- Disturbing the peace (open),,,$459.00 ,2/24/19,2/25/19,1,,,1165,May-19
+Tedford,Jatarious,,,Grenada,GPD,Disorderly Conduct- Disturbing the peace (open),,,$459.00,2/24/19,2/25/19,1,,,1165,May-19
 Thomas,Bobby Quardell,Q,,Grenada,GPD,Rape- Statutory Rape (pending); Sex offender- failure to register (pending); Sex offender- failure to register (pending); Total bond for both charges are ------> (pending),,,"$0; $0; $200,000;",12/20/17,2/25/19,432,,,1166,May-19
 Thompson,Chivan Marquison,M,,Grenada,MCSO,Burglary- Auto (open),,,"$30,000.00 ",12/13/18,2/25/19,74,,,1167,May-19
 Thornburg,Raymond Walter,W,,Grenada,GCSO,Driving under the influence (pending),,,,2/15/19,2/25/19,10,,,1168,May-19
@@ -1172,7 +1172,7 @@ Tillman,Ethan Ross,R,,Grenada,GPD,Possesion of controlled substance (meth) (pend
 Tillman,Marquize Jadarion,J,,Grenada,GCSO,Assault Aggravated (pending); Capital Murder (pending); Hold for MDOC; Poss of C/S in correctional facilty (pending); Tampering with physical evidence (pending),,,"$10,000;$25,000;$3,000",11/28/18,2/25/19,89,,,1171,May-19
 Towery,David,,,Grenada,MDOC,"Burglary- Commercial Buildings, Cars, Etc. (Convicted)",,,,3/1/18,2/25/19,361,,,1172,May-19
 Townes,Anthony Tyrone,T,,Grenada,GPD,Bond jumping (violation); Chancery court order of incarceration (open); Contempt of court(open); Contempt of court-fail to appear or complete jur (open),,,"$1,000;0;$500",2/11/19,2/25/19,14,,,1173,May-19
-Vance,Jason Clinton,C,,Grenada,GPD,"Contempt of court- failed to appear on bond (dropped); Grand Larceny (convicted); Personal Identity information, obtaining for unlaw (convicted)",,,$0.00 ,4/4/18,2/25/19,327,,,1174,May-19
+Vance,Jason Clinton,C,,Grenada,GPD,"Contempt of court- failed to appear on bond (dropped); Grand Larceny (convicted); Personal Identity information, obtaining for unlaw (convicted)",,,$0.00,4/4/18,2/25/19,327,,,1174,May-19
 Ward,Jonathan,,,Grenada,GPD,Contempt of court failure to appear (open),,,"$1,000.00 ",2/23/19,2/25/19,2,,,1175,May-19
 Weaver,Shawn Christopher,C,,Grenada,GCSO,CS- Poss of methamphetamine (pending); Fraud- Credit Card (convicted); Possession of stolen property,,,"$5,000; $0",9/27/18,2/25/19,151,,,1176,May-19
 White,Jessie Ambers,A,,Grenada,MDOC,CS- Poss of methamphetamine (pending);,,,,10/31/18,2/25/19,117,,,1177,May-19
@@ -1198,7 +1198,7 @@ Marquar,Taylor,Joseph,,Hancock,,"Receiving Stolen Property; receiving stolen pro
 Mauffray,Joshua,Matthew,,Hancock,,"Contempt of court-failure to appear; disturbance of family: abusive language; motor vechicle: resisting/obstructing arrest; disorderly conduct: failure to comply w/command of law enforcement; motor vechicle: resisiting/obstructing arrest; disorderly conduct: failure to comply with command of law enforcement; disturbance of family: indecent exposure, abusive language; probation violation",,,,1/23/19,3/25/19,61,,,1197,May-19
 Maxwell,Rain,Colrich,,Hancock,,Hold MDOC,,,,3/12/19,3/25/19,13,,,1198,May-19
 May,Christopher,Neeley,,Hancock,,Capital murder; robbery: armed; impersonating an officer or employee,,,,6/7/17,3/25/19,656,,,1199,May-19
-Mayfield,Yancey,Sones,,Hancock,,"Burglary: Commerical , Buidlings, cars, etc.; contempt  of court-failure to appear",,,,3/1/18,3/25/19,389,,,1200,May-19
+Mayfield,Yancey,Sones,,Hancock,,"Burglary: Commerical, Buidlings, cars, etc.; contempt  of court-failure to appear",,,,3/1/18,3/25/19,389,,,1200,May-19
 Mckee,Antonio,Terrell,,Hancock,,Hold MDOC,,,,12/13/18,3/25/19,102,,,1201,May-19
 McWilliams,Aaron,Nathaniel,,Hancock,,Hold MDOC,,,,12/13/18,3/25/19,102,,,1202,May-19
 Medlin,David,Edward,,Hancock,,Parole violation; controlled substance: illegal felony possession of c/s,,,,3/12/19,3/25/19,13,,,1203,May-19
@@ -1229,7 +1229,7 @@ Raybourn,Hunter,Allen,,Hancock,,Hold MDOC,,,,12/13/18,3/25/19,102,,,1227,May-19
 Ready,Rodney,Deon,,Hancock,,A & D Program,,,,3/12/19,3/25/19,13,,,1228,May-19
 Rhodes,Thomas,Alexander,,Hancock,,"Controlled Substance: to sell, barter, transfer, manfacture, distribute, dispense or possess with intent to sell, barter, transfer, manufacture, distribute or dispense a controlled substance; motor vechicle: eluding law officer; Controlled substance: illegal felony possession of c/s; Controlled Substance: to sell, barter, transfer, manfacture, distribute, dispense or possess with intent to sell, barter, transfer, manufacture, distribute or dispense a controlled substance; Probation violation",,,,11/22/18,3/25/19,123,,,1229,May-19
 Rodrigue,Adams,,,Hancock,,"Controlled Substance: to sell, barter, transfer, manfacture, distribute, dispense or possess with intent to sell, barter, transfer, manufacture, distribute or dispense a controlled substance; Controlled Substance: to sell, barter, transfer, manfacture, distribute, dispense or possess with intent to sell, barter, transfer, manufacture, distribute or dispense a controlled substance; Controlled substance: possession of para.",,,,2/27/19,3/25/19,26,,,1230,May-19
-"Rogers, Jr.",Johnny,Wayne,,Hancock,,"Burglary: Commerical , Buidlings, cars, etc.; Disorderly conduct: failure to comply w/command of law enforcement; false indentifying information; motor vechicle: resisting/onstructing arrest; disorderly conduct: failure to comply w/command of law enforcement; recieving stolen property; tag-None, expired, improperly mounted, covering or mouted, motor vehicle: reckless driving; motor vehicle: eluding law officer; motor vehicle: no insurance",,,,10/6/18,3/25/19,170,,,1231,May-19
+"Rogers, Jr.",Johnny,Wayne,,Hancock,,"Burglary: Commerical, Buidlings, cars, etc.; Disorderly conduct: failure to comply w/command of law enforcement; false indentifying information; motor vechicle: resisting/onstructing arrest; disorderly conduct: failure to comply w/command of law enforcement; recieving stolen property; tag-None, expired, improperly mounted, covering or mouted, motor vehicle: reckless driving; motor vehicle: eluding law officer; motor vehicle: no insurance",,,,10/6/18,3/25/19,170,,,1231,May-19
 Ross,Steve,,,Hancock,,Hold MDOC,,,,2/12/19,3/25/19,41,,,1232,May-19
 Rutledge,Mark,,,Hancock,,Hold for MDOC,,,,2/12/19,3/25/19,41,,,1233,May-19
 Santiago,Juan,Diego,,Hancock,,Hold MDOC,,,,12/13/18,3/25/19,102,,,1234,May-19
@@ -1288,7 +1288,7 @@ Bernos,Dakota,Sean,,Hancock,,Contempt of court-Failure to appear; Contempt of co
 Bilbo,Chancey,Ashton,,Hancock,,"Contempt of court-Failure to appear; Controlled substance: to sell, barter, transfer, manufacture, distribute, dispense or possess with intent to sell, barter, transfer, manufacture, distribute or dispense a controlled substance; Controlled substance: to sell, barter, transfer, manufacture, distribute, dispense or possess with intent to sell, barter, transfer, manufacture, distribute or dispense a controlled substance; Controlled substance: to sell, barter, transfer, manufacture, distribute, dispense or possess with intent to sell, barter, transfer, manufacture, distribute or dispense a controlled substance; Controlled substance: to sell, barter, transfer, manufacture, distribute, dispense or possess with intent to sell, barter, transfer, manufacture, distribute or dispense a controlled substance; Controlled substance: possession of para; contempt of court-Failure to appear; controlled substance: Possession/transfer of controlled substance in a correctional facility",,,,8/24/18,3/25/19,213,,,1287,May-19
 Black,Octavius,Montego-Roadas,,Hancock,,Hold MDOC,,,,3/12/19,3/25/19,13,,,1288,May-19
 Black,Valerie,D,,Hancock,,Controlled Substance: Illegal Felony possession of c/s; Controlled Substance: Illegal Felony possession of c/s; Controlled Substance: Illegal Felony possession of c/s,,,,3/20/19,3/25/19,5,,,1289,May-19
-"Blount, Jr.",James,Thomas,,Hancock,,"Burglary: Commerical , Buidlings, cars, etc.",,,,3/15/19,3/25/19,10,,,1290,May-19
+"Blount, Jr.",James,Thomas,,Hancock,,"Burglary: Commerical, Buidlings, cars, etc.",,,,3/15/19,3/25/19,10,,,1290,May-19
 Booth,Trevor,Jamal,,Hancock,,Shoplifting; Contempt of Court-Failure to Comply; Shoplifting; Trespassing,,,,2/18/19,3/25/19,35,,,1291,May-19
 "Bourda, Sr.",Christopher,Allen,,Hancock,,"Controlled substance: to sell, barter, transfer, manfacture, distribute, dispense or possess with intent to sell, barter, transfer, manufacture, distribute or dispense a controlled substance; controlled substance: possession of para; hold for other agency",,,,6/15/18,3/25/19,283,,,1292,May-19
 Bourgeious,Nikolas,Scott,,Hancock,,"Parole Violation; Larceny: petit; Burglary: Inhabited dwelling house, whether armed or not, whether occupied or not; Burglary: Inhabited dwelling house, whether armed or not, whether occupied or not;",,,,2/25/19,3/25/19,28,,,1293,May-19
@@ -1371,13 +1371,13 @@ Holmes,Jeremy,Le'Andrew,,Hancock,,Public Property: Destory/Deface Cemetery/Schoo
 Huffman,Marquis,Lenell,,Hancock,,A & D Program,,,,3/12/19,3/25/19,13,,,1370,May-19
 Hughes,Terry,Lee,,Hancock,,Receiving Stolen Property,,,,8/21/18,3/25/19,216,,,1371,May-19
 Humphries,Kelly,Wayne,,Hancock,,A & D Program,,,,3/12/19,3/25/19,13,,,1372,May-19
-Hunt,Jonathan,Drew,,Hancock,,"Controlled Substance: illegal felony possession of c/s; tampering with physical evidence; controlled substance: possession of marijuana (1-30 grams); motor vechicle: eluding law officer; motor vechicle: resisting/obstructing arrest; motor vechicle: reckless driving; contempt of court-Failure to appear; assault: Simple domestic violence; simple assault; disturbance of family: indecent exposure , abusive language",,,,3/19/19,3/25/19,6,,,1373,May-19
+Hunt,Jonathan,Drew,,Hancock,,"Controlled Substance: illegal felony possession of c/s; tampering with physical evidence; controlled substance: possession of marijuana (1-30 grams); motor vechicle: eluding law officer; motor vechicle: resisting/obstructing arrest; motor vechicle: reckless driving; contempt of court-Failure to appear; assault: Simple domestic violence; simple assault; disturbance of family: indecent exposure, abusive language",,,,3/19/19,3/25/19,6,,,1373,May-19
 Hux,Joshua,Sky,,Hancock,,Hold for other agency; probation violation; controlled substance: illegal felony possession of c/s,,,,3/8/19,3/25/19,17,,,1374,May-19
 Huynh,Hanh,Van,,Hancock,,"Controlled Substance: to sell, barter, transfer, manfacture, distribute, dispense or possess with intent to sell, barter, transfer, manufacture, distribute or dispense a controlled substance; conspiracy",,,,2/19/19,3/25/19,34,,,1375,May-19
 Jackson,Juzteen,Chanta,,Hancock,,Probation Violation,,,,3/11/19,3/25/19,14,,,1376,May-19
 Jackson,Larry,Darnal,,Hancock,,Hold for other agency,,,,3/11/19,3/25/19,14,,,1377,May-19
 Johnson,Colby,,,Hancock,,Exploitation of children; possession of child pornography; Exploitation of children: possession of child pornography,,,,10/22/18,3/25/19,154,,,1378,May-19
-Johnson,Grant,Edward,,Hancock,,"Burglary: Commerical , Buidlings, cars, etc; Burglary: Commerical , Buidlings, cars, etc.; Burglary: Commerical , Buidlings, cars, etc.; Burglary: Commerical , Buidlings, cars, etc.; Burglary: Commerical , Buidlings, cars, etc.;Burglary: Commerical , Buidlings, cars, etc.; Back for court/court order",,,,11/26/18,3/25/19,119,,,1379,May-19
+Johnson,Grant,Edward,,Hancock,,"Burglary: Commerical, Buidlings, cars, etc; Burglary: Commerical, Buidlings, cars, etc.; Burglary: Commerical, Buidlings, cars, etc.; Burglary: Commerical, Buidlings, cars, etc.; Burglary: Commerical, Buidlings, cars, etc.;Burglary: Commerical, Buidlings, cars, etc.; Back for court/court order",,,,11/26/18,3/25/19,119,,,1379,May-19
 Johnson,Marcus,Lester,,Hancock,,"Burglary: Inhabited dwelling house, whether armed or not, whether occupied or not",,,,2/22/19,3/25/19,31,,,1380,May-19
 Johnson,Robert,A & D Program,,Hancock,,A & D Program,,,,3/12/19,3/25/19,13,,,1381,May-19
 Jones,Michael,Ray,,Hancock,,Hold MDOC,,,,2/12/19,3/25/19,41,,,1382,May-19
@@ -1467,7 +1467,7 @@ Mcgill,Stephen Lamar,,,Harrison,,"poss of contr.substance w/intent, receiving st
 Mcgowan,Deeric Lakendric,,,Harrison,,"armed robbery, poss of contr. substance w/intent to deliver meth, contributing to neglect or delinquency of a child, shoplifting,",,,,6/27/18,4/1/19,278,,,1466,May-19
 Mcintosh,Willie Donyell,,,Harrison,,"disturbance of family peace-dv, attempted robbery, probation violation, contempt of court/arbritration-fta x2",,,,12/18/17,4/1/19,469,,,1467,May-19
 Mckinney,Nygele,,,Harrison,,poss of meth w/intent,,,,1/2/19,4/1/19,89,,,1468,May-19
-Mclaurin Jr.,Charles I,,,Harrison,,"violation of probation , contr. substance-poss of paraphernalia",,,,2/22/19,4/1/19,38,,,1469,May-19
+Mclaurin Jr.,Charles I,,,Harrison,,"violation of probation, contr. substance-poss of paraphernalia",,,,2/22/19,4/1/19,38,,,1469,May-19
 Mclean,Raige Lynn,,,Harrison,,violation of probation,,,,2/18/19,4/1/19,42,,,1470,May-19
 Mcmillian,Jospeh Leonard,,,Harrison,,"trafficking of contr.subtance to wit cocaine, poss of contr. substance w/intent to distribute marijuana, poss of contr. substance w/intent, unlawful poss of firearm or weapon by convicted felon",,,,2/1/19,4/1/19,59,,,1471,May-19
 Mcnair,Jeremy Jermaine,,,Harrison,,shoplifting,,,,2/15/19,4/1/19,45,,,1472,May-19
@@ -3362,7 +3362,7 @@ Collins,Robert,,,Lincoln,BPD,Armed robbery,Y,,"$100,000.00 ",10/2/17,2/20/19,506
 Crump,Michael,,,Lincoln,TRUST,,,,TRUSTEE,9/6/18,2/20/19,167,Trustee,,3361,May-19
 Dehart,Scott,,,Lincoln,BPD,Poss of contolled sub,N,,"$10,000.00 ",10/22/18,2/20/19,121,,,3362,May-19
 Deleon-Silva,Jose,,,Lincoln,TRUST,,,,Trustee,8/10/18,2/20/19,194,TRUSTEE,,3363,May-19
-Elkins,Lawson,,,Lincoln,BPD,Public drunk,,,$250.00 ,2/4/19,2/20/19,16,,,3364,May-19
+Elkins,Lawson,,,Lincoln,BPD,Public drunk,,,$250.00,2/4/19,2/20/19,16,,,3364,May-19
 Evans,James,,,Lincoln,LCSO,Circuit bench warrant,Y,,None,2/13/19,2/20/19,7,,,3365,May-19
 Fillingame,Jordan,,,Lincoln,LCSO,indictment,Y,,None,2/19/19,2/20/19,1,,,3366,May-19
 Flowers,Frederick,,,Lincoln,BPD,Burglary of business,Yes/hold,,"$25,000.00 ",6/8/18,2/20/19,257,,,3367,May-19
@@ -3423,7 +3423,7 @@ Beasley,James Damonte,,,Lowndes,LCSO,stolen property- receiving,,,"$5,000.00 ",8
 Beck,Robert William,,,Lowndes,LCSO,"attempt to commit an offense; weapon, possession of by felon",,,denied,6/28/18,2/19/19,236,arraigned,,3422,May-19
 Berry,David Adam,,,Lowndes,LCSO,"robbery, contempt of court, stolen property-possession-misdemeanor; suspended drivers license; running a stop sign",,,"$20,000.00 ",1/31/18,2/19/19,384,arraigned,,3423,May-19
 Besimi,Jerry Alexzander,,,Lowndes,LCSO,possession of methamphetamine; failure to appear x4,,,"$5,000.00 ",10/17/18,2/19/19,125,arraigned,,3424,May-19
-Best,James Fortune,,,Lowndes,LCSO,contempt of court,,,$412.00 ,2/12/19,2/19/19,7,,,3425,May-19
+Best,James Fortune,,,Lowndes,LCSO,contempt of court,,,$412.00,2/12/19,2/19/19,7,,,3425,May-19
 Billups,Billy Ray II,,,Lowndes,LCSO,possession of marijuana more than 1 ounce,,,"$10,000.00 ",2/13/19,2/19/19,6,,,3426,May-19
 Bishop,Dillon Dean,,,Lowndes,LCSO,possession of methamphetamine; failure to appear x5,,,must appear,2/15/19,2/19/19,4,,,3427,May-19
 Bogan,Steven Lemond,,,Lowndes,LCSO,"sale of cocaine x2; weapon, possession of by felon; possession, sale, transfer of stolen firearm",,,"10,000; 10,000; 5,000; 5,000",11/2/18,2/19/19,109,arraigned,,3428,May-19
@@ -3459,7 +3459,7 @@ Deloach,John Drake Jr.,,,Lowndes,LCSO,"agg.assault on police,fire,school off. Wi
 Deloach,Tommie Lee Jr.,,,Lowndes,LCSO,robbery-armed x4; agg.assault w/weapon or other means to prod. D x3,,,"$42,857.14 x7",8/23/17,2/19/19,545,arraigned,,3458,May-19
 Dickerson,Jason Monte,,,Lowndes,MDOC,violation of probation,,,denied,2/15/19,2/19/19,4,,,3459,May-19
 Dison,Steven Austin,,,Lowndes,LCSO,felony taking of a motor vehicle,,,,1/29/19,2/19/19,21,returned on court o,,3460,May-19
-Dooley,Aldoques Jerome,,,Lowndes,CPD,"weapon, possession of by felon; failure to appear x5; drive-by shooting",,,$562.00 ,1/6/19,2/19/19,44,continued; plead guilty x4,,3461,May-19
+Dooley,Aldoques Jerome,,,Lowndes,CPD,"weapon, possession of by felon; failure to appear x5; drive-by shooting",,,$562.00,1/6/19,2/19/19,44,continued; plead guilty x4,,3461,May-19
 Doss,Hiraschio Terontae,,,Lowndes,CPD,"failure to appear x2; child restraint law; false information; weapon, possession of by felon",,,$562; 636; 178; 662; denied,2/5/19,2/19/19,14,,,3462,May-19
 Drake,Randy Lamar Jr.,,,Lowndes,LCSO,grand larceny-more $500; burglary-dwelling house; petit larceny-less $500; contempt of court,,,"$5,000; 5,000",8/20/18,2/19/19,183,arraigned x2; guilty-time served x2,,3463,May-19
 Dumas,Aaron Shantez,,,Lowndes,LCSO,trafficking of controlled substances; conspiracy to commit a crime-felony x2,y,,must appear,10/29/18,2/19/19,113,,,3464,May-19
@@ -3530,15 +3530,15 @@ Mayfield,Deborah Adams,,,Lowndes,LCSO,false pretense- felony,,,denied,1/23/19,2/
 Mcclinton,Quontarious Devail,,,Lowndes,CPD,driving on wrong side of road; resisting arrest; violation of probation,,,$244; $412; must appear,1/20/19,2/19/19,30,,,3529,May-19
 Mccoy,Arlando Deaundra,,,Lowndes,MDOC,possession of methamphetamine,,,must appear,1/31/19,2/19/19,19,returned on court o,,3530,May-19
 Mcgee,Dustin Clay,,,Lowndes,LCSO,burglary-dwelling house; contempt of court,,,denied,4/16/18,2/19/19,309,plead guilty; found guilty,,3531,May-19
-Minor,Kevin Richard,,,Lowndes,CPD,failure to appear,,,$862.00 ,2/12/19,2/19/19,7,,,3532,May-19
+Minor,Kevin Richard,,,Lowndes,CPD,failure to appear,,,$862.00,2/12/19,2/19/19,7,,,3532,May-19
 Moore,Kenneth Dewayne,,,Lowndes,CPD,"burglary-commercial blg., cars, ETC…",,,"$10,000.00 ",10/4/18,2/19/19,138,arraigned,,3533,May-19
 Moore,Leperis Deonta,,,Lowndes,LCSO,attempted burglary-breaking and entering dwel,,,must appear,8/22/18,2/19/19,181,,,3534,May-19
-Morgan,Carlos,,,Lowndes,CPD,shoplifting-less than $250,,,$862.00 ,2/11/19,2/19/19,8,,,3535,May-19
+Morgan,Carlos,,,Lowndes,CPD,shoplifting-less than $250,,,$862.00,2/11/19,2/19/19,8,,,3535,May-19
 Morgan,Richard Earl III,,,Lowndes,CPD,possession of methamphetamine,,,"$1,500.00 ",9/6/18,2/19/19,166,bound over,,3536,May-19
 Morrison,Dylon Lee,,,Lowndes,LCSO,"possession of methamphetamine; poss. Of marijuana, vehicle",,,"$7,500.00 ",10/9/18,2/19/19,133,plead guilty,,3537,May-19
 Murphy,John Allan,,,Lowndes,LCSO,possession of methamphetamine; tampering with physical evidence,,,,1/25/19,2/19/19,25,returned on court o,,3538,May-19
 Murray,David Solomon II,,,Lowndes,CPD,murder-capital,,,denied,5/24/17,2/19/19,636,arraigned,,3539,May-19
-Nance,Jimmy Lee Jr,,,Lowndes,CPD,trespassing,,,$412.00 ,1/31/19,2/19/19,19,,,3540,May-19
+Nance,Jimmy Lee Jr,,,Lowndes,CPD,trespassing,,,$412.00,1/31/19,2/19/19,19,,,3540,May-19
 Noland,Tyran Montrez,,,Lowndes,LCSO,burglary-dwelling house,,,,8/21/18,2/19/19,182,,,3541,May-19
 Nunn,Shoshoney Lyn,,,Lowndes,LCSO,possession of methamphetamine,,,must appear,2/15/19,2/19/19,4,,,3542,May-19
 Oliver,Michael Duane,,,Lowndes,LCSO,uttering forgery,,,,1/29/19,2/19/19,21,returned on court o,,3543,May-19
@@ -3551,11 +3551,11 @@ Peeks,Gary Scott,,,Lowndes,LCSO,domestic violence/ aggravated assault,,,must app
 Petty,Karsean Rendell,,,Lowndes,LCSO,"burglary-commercial blg., cars, ETC…",,,,2/15/19,2/19/19,4,,,3550,May-19
 Phillips,Scott Lee,,,Lowndes,LCSO,resisting arrest; burglary-dwelling house,,,"$500; 10,000",12/21/18,2/19/19,60,,,3551,May-19
 Pittman,Austin Joey,,,Lowndes,LCSO,burglary-dwelling house; failure to appear x2,,,denied; $254; 636,11/30/18,2/19/19,81,,,3552,May-19
-Pratt,Cortez Demario,,,Lowndes,CPD,abusive calls/emergency phone,,,$412.00 ,2/14/19,2/19/19,5,,,3553,May-19
+Pratt,Cortez Demario,,,Lowndes,CPD,abusive calls/emergency phone,,,$412.00,2/14/19,2/19/19,5,,,3553,May-19
 Pugh,Jared Jay,,,Lowndes,LCSO,false pretense-misdemeanor x10; violation of probation,,,denied x10,12/11/18,2/19/19,70,continued x10; plead guilty,,3554,May-19
 Pullin,Natalie Smith,,,Lowndes,CPD,public drunkenness; violation of probation,,,denied,11/6/18,2/19/19,105,guilty-time served; plead guilty,,3555,May-19
 Putt,Jimmie Joe,,,Lowndes,LCSO,"burglary-commercial blg., cars, ETC…",,,"$7,500.00 ",1/22/19,2/19/19,28,,,3556,May-19
-Ray,Jestin Cruz,,,Lowndes,CPD,"disorderly conduct, business",,,$412.00 ,2/18/19,2/19/19,1,,,3557,May-19
+Ray,Jestin Cruz,,,Lowndes,CPD,"disorderly conduct, business",,,$412.00,2/18/19,2/19/19,1,,,3557,May-19
 Reed,Christie Denise,,,Lowndes,BOND,possession of cocaine x2; contempt of court; failure to appear x3,,,"$2,000; 412 x2; 244; 712",5/30/18,2/19/19,265,arraigned; continued x4,,3558,May-19
 Rice,Frank Jr,,,Lowndes,LCSO,"burglary-commercial blg., cars, ETC… x3; grand larceny-more than $500",,,,7/30/18,2/19/19,204,plead guilty x4,,3559,May-19
 Robinson,Marco Danelle,,,Lowndes,MDOC,violation of probation,,,must appear,2/1/19,2/19/19,18,,,3560,May-19
@@ -3563,14 +3563,14 @@ Roby,Javonte Antwan,,,Lowndes,LCSO,possession of cocaine; possession with intent
 Rogers,Jerry Michael,,,Lowndes,LCSO,manufacture of marijuana; violation of parole,,,,10/3/18,2/19/19,139,,,3562,May-19
 Roland,Antonio Cortez,,,Lowndes,LCSO,robbery-armed x2,,,,1/29/19,2/19/19,21,returned on court o x2,,3563,May-19
 Ross,Jamory Laquan,,,Lowndes,CPD,burglary-dwelling house-occupied; sexual battery; robbery-armed; possession of marijuana,,,"$33,333.33; 33,333.33; 33,333.34",5/9/18,2/19/19,286,arraigned x3; found guilty,,3564,May-19
-Saddler,Kentrail Marquett,,,Lowndes,MHP,disorderly conduct,,,$320.00 ,2/8/19,2/19/19,11,,,3565,May-19
+Saddler,Kentrail Marquett,,,Lowndes,MHP,disorderly conduct,,,$320.00,2/8/19,2/19/19,11,,,3565,May-19
 Savage,Jerry Mac,,,Lowndes,MDOC,violation of parole,,,,2/7/19,2/19/19,12,,,3566,May-19
 Scarbrough,Lymon Lucas,,,Lowndes,MDOC,violation of probation,,,,9/13/18,2/19/19,159,,,3567,May-19
 Skelton,Angela Maxine,,,Lowndes,LCSO,possessin of marijuana; public drunkenness; contributing to the neglect of a child,,,$750; 350; 400,11/17/18,2/19/19,94,continued x3,,3568,May-19
 Skipper,Alvin Fitzgerald,,,Lowndes,LCSO,arson; burglary-breaking and entering dwelling; simple assault by threat,,,denied x2,9/9/18,2/19/19,163,,,3569,May-19
 Smith,Anthony Jr,,,Lowndes,LCSO,burglary,,,"$5,000.00 ",9/5/18,2/19/19,167,,,3570,May-19
 Smith,Cheyterian Tashawn,,,Lowndes,CPD,shooting into dwelling house; failure to signal lane change; agg.assault w/weapon or other means to prod. D; failure to appear; domestic violence/agrravated assault,,,denied x2; $412,5/17/18,2/19/19,278,arraigned x2; found guilty,,3571,May-19
-Stone,Nicholas Darnell,,,Lowndes,CPD,possession of marijuana,,,$437.00 ,2/4/19,2/19/19,15,,,3572,May-19
+Stone,Nicholas Darnell,,,Lowndes,CPD,possession of marijuana,,,$437.00,2/4/19,2/19/19,15,,,3572,May-19
 Sullivan,Jamison Dean,,,Lowndes,MDOC,violation of probation,,,,2/15/19,2/19/19,4,,,3573,May-19
 Sutton,Angela Denise,,,Lowndes,LCSO,contempt of court; failure to appear,,,"$412; 1,500",1/27/19,2/19/19,23,,,3574,May-19
 Swisher,Veronica Marie,,,Lowndes,LCSO,possession of meth with intent to distribute; possession of methamphetamine,,,denied,12/21/18,2/19/19,60,plead guilty,,3575,May-19
@@ -3586,7 +3586,7 @@ Thompson,Devin Ledarrell,,,Lowndes,LCSO,manufacture of marijuana; child endanger
 Thompson,Lonnel Jr,,,Lowndes,LCSO,agg.assault w/weapon or other means to prod. D x3; failure to appear x9; robbery-armed x4,,,"$14,285.71 x7",1/18/18,2/19/19,397,arraigned x7; guilty-time served x9,,3585,May-19
 Thorn,Eric Brian,,,Lowndes,LCSO,domestic violence/aggravated assault; failure to appear,,,must appear; $412,1/29/19,2/19/19,21,returned to court o,,3586,May-19
 Toney,Eric Mitchell,,,Lowndes,LCSO,sale of controlled substance x5,,,"$4,000 x5",8/13/18,2/19/19,190,arraigned x5,,3587,May-19
-Turner,Undrea Lashaun,,,Lowndes,CPD,contempt of court,,,$412.00 ,2/4/19,2/19/19,15,,,3588,May-19
+Turner,Undrea Lashaun,,,Lowndes,CPD,contempt of court,,,$412.00,2/4/19,2/19/19,15,,,3588,May-19
 Tyler,Johnny Wayne,,,Lowndes,LCSO,sale of controlled substance x3; possession of methamphetamine,,,must appear x4,1/25/19,2/19/19,25,retired to files x3; plead guilty,,3589,May-19
 Vail,Ashley Renee,,,Lowndes,LCSO,"weapon,possession of by felon x5; possession of methamphetamine",,,denied x4,8/24/18,2/19/19,179,plead guilty; retired to files x3; no billed,,3590,May-19
 Van Haaften,Jennifer Nicole,,,Lowndes,LCSO,possession of methamphetamine,,,,2/12/19,2/19/19,7,plead guilty,,3591,May-19
@@ -3946,7 +3946,7 @@ Williams,Justin Andrew,A,,Noxubee,,capital murder,,,,9/30/16,5/3/19,945,,,3944,M
 Anderson,Curtis Dashon,D,,Oktibbeha,,Credit card fraud;credit card fraud; credit card fraud; credit card fraud,,,"$5,000;$ $5,000; $5,000; $5,000",10/4/18,1/14/19,102,,,3945,May-19
 Arnold Jr.,John Bruce,B,,Oktibbeha,,Kidnapping; Assist. Other; Assist. Other; kidnapping,,,"***,***.**; $1,000; $1,000; $0.00",2/23/18,1/14/19,325,,,3946,May-19
 Barker,Jaylen Malik,M,,Oktibbeha,,Murder Capital; Poss of STLN Firearm; Poss of Marij w/ Intent,,,$0.00; $0.00; $0.00,11/8/16,1/14/19,797,,,3947,May-19
-Bell,Raymond Lamar,L,,Oktibbeha,,30 days,,,$0.00 ,12/27/18,1/14/19,18,,,3948,May-19
+Bell,Raymond Lamar,L,,Oktibbeha,,30 days,,,$0.00,12/27/18,1/14/19,18,,,3948,May-19
 Bishop,Steven Cantrell,C,,Oktibbeha,,"Roberry, Armed",,,"$50,000.00 ",6/19/18,1/14/19,209,,,3949,May-19
 Blackwell,Christopher Shannon,S,,Oktibbeha,,Trespassing; Poss of Para; Poss Controlled sub; Stalking,,,$433.00; $458.00; $0.00; $0.00,11/19/18,1/14/19,56,,,3950,May-19
 Blue,Robert Lee,L,,Oktibbeha,,"Assault, Aggravated; Assault, Aggravated;Assault, Aggravated;Assault, Aggravated; Assault- Simple",,,"$50,000;$50,000;$50,000; $50,000; $1,000",11/26/18,1/14/19,49,,,3951,May-19
@@ -3960,19 +3960,19 @@ Butler,Jeremy,T,,Oktibbeha,,Poss of marij > 30gms; Hold other agency; hold other
 Campbell,Marcus Lashaun,L,,Oktibbeha,,Sexual Battery,,,"$25,000.00 ",6/5/18,1/14/19,223,,,3959,May-19
 Chisholm,William,T,,Oktibbeha,,"Murder Capital; Assault, aggravated;malicous mischief",,,$0; $0;$0,1/13/18,1/14/19,366,,,3960,May-19
 Clement,Carson Todd,T,,Oktibbeha,,Murder,,,"$250,000.00 ",8/22/18,1/14/19,145,,,3961,May-19
-Criddle,Kenneth Wayne,W,,Oktibbeha,,Parole Violation,,,$0.00 ,12/4/18,1/14/19,41,,,3962,May-19
+Criddle,Kenneth Wayne,W,,Oktibbeha,,Parole Violation,,,$0.00,12/4/18,1/14/19,41,,,3962,May-19
 Davis,Douglas Wayne,W,,Oktibbeha,,Statutory rape; bond surrender,,,$0; $0,4/27/18,1/14/19,262,,,3963,May-19
 Decker,Zachery,B,,Oktibbeha,,Burglary- Residental; Burglary- Residental; Burglary- Residental; Burglary- Residental;,,,"$20,000;$20,000;$20,000;$20,000",6/3/18,1/14/19,225,,,3964,May-19
 Devaughn,Michael Wayne,W,,Oktibbeha,,Murder capital; sexual battery; bond revocation,,,"***,***,**; ***,***,**; $0",10/6/18,1/14/19,100,,,3965,May-19
 Dobbins,Macklwayne,,,Oktibbeha,,Careless driving; No DL; DUI 4th,,,$0; $0; $0,8/21/18,1/14/19,146,,,3966,May-19
-Duke,James Harmon,H,,Oktibbeha,,Indecent Exposure,,,$0.00 ,9/20/18,1/14/19,116,,,3967,May-19
-Edmondson,Charles Thomas,T,,Oktibbeha,,Cir court order,,,$0.00 ,5/11/18,1/14/19,248,,,3968,May-19
+Duke,James Harmon,H,,Oktibbeha,,Indecent Exposure,,,$0.00,9/20/18,1/14/19,116,,,3967,May-19
+Edmondson,Charles Thomas,T,,Oktibbeha,,Cir court order,,,$0.00,5/11/18,1/14/19,248,,,3968,May-19
 Ellis,Leevester,,,Oktibbeha,,Burglary- Residental; Assault- Simple,,,$0; $500.00,7/11/18,1/14/19,187,,,3969,May-19
 Evans,Christopher Lamar,L,,Oktibbeha,,Conspiracy,,,"$50,000.00 ",1/10/19,1/14/19,4,,,3970,May-19
-Fairley,Shonquell,M,,Oktibbeha,,Bench Warrant,,,$0.00 ,11/20/18,1/14/19,55,,,3971,May-19
+Fairley,Shonquell,M,,Oktibbeha,,Bench Warrant,,,$0.00,11/20/18,1/14/19,55,,,3971,May-19
 Fleming,Keith Lavell,L,,Oktibbeha,,Burglary- Residental,,,"$20,000.00 ",11/12/18,1/14/19,63,,,3972,May-19
-Forrester,Anna Marie,M,,Oktibbeha,,Probation violation,,,$0.00 ,12/7/18,1/14/19,38,,,3973,May-19
-Frierson,Stevenk Bernard,B,,Oktibbeha,,Bench Warrant,,,$0.00 ,7/16/18,1/14/19,182,,,3974,May-19
+Forrester,Anna Marie,M,,Oktibbeha,,Probation violation,,,$0.00,12/7/18,1/14/19,38,,,3973,May-19
+Frierson,Stevenk Bernard,B,,Oktibbeha,,Bench Warrant,,,$0.00,7/16/18,1/14/19,182,,,3974,May-19
 Fulgham,Bryan Parker,p,,Oktibbeha,,Poss controled sub; Poss of para; poss of marij; poss sch IV; poss of schedule II; probation violation; DUI 4th,,,"$500; $500; $500; $500; $5,000; $0; $10,000",6/19/18,1/14/19,209,,,3975,May-19
 Gandy,Zyterrious Leraze,L,,Oktibbeha,,"Malicous mis felony; Larceny, grand; Assault on officer",,,$0; $0,4/25/18,1/14/19,264,,,3976,May-19
 Gay,Dianndra Lula,L,,Oktibbeha,,Probation violation; MDOC Hold,,,"$1,000.00 ",11/19/18,1/14/19,56,,,3977,May-19
@@ -3990,119 +3990,119 @@ Manning,Portia Cierra,C,,Oktibbeha,,"Disorderly conduct; robbery, armed; poss of
 McCarter,Jimmy Lee,L,,Oktibbeha,,Burglary Other than dwelling,,,"$10,000.00 ",2/1/18,1/14/19,347,,,3989,May-19
 McCarter,Jermichael Devon,D,,Oktibbeha,,Poss of Marij >30gms; Burglary-Residential,,,"$5,000; $0",10/29/18,1/14/19,77,,,3990,May-19
 McDowell,Tyler Marshaun,M,,Oktibbeha,,Burglary- Residental; Burglary- Residental; Burglary- Residental; Burglary- Residental; Burglary- Residential; Bond Surrender; Bond Surrender ;,,,"$20,000;$20,000;$20,000;$20,000; $20,000; $50,000; $1,000",11/12/18,1/14/19,63,,,3991,May-19
-McMullen,Octavious De'ontia,D,,Oktibbeha,,6 months,,,$0.00 ,10/29/18,1/14/19,77,,,3992,May-19
+McMullen,Octavious De'ontia,D,,Oktibbeha,,6 months,,,$0.00,10/29/18,1/14/19,77,,,3992,May-19
 Mingo,Malik Aziz,A,,Oktibbeha,,Sexual Battery; Bench Warrant,,,"$100,000; $50,000;",10/31/18,1/14/19,75,,,3993,May-19
-Mobley,Larry,,,Oktibbeha,,Animal Cruelty,,,$500.00 ,1/3/19,1/14/19,11,,,3994,May-19
-Moody,Omar Sirdeek,S,,Oktibbeha,,Sexual Battery,,,$0.00 ,7/23/18,1/14/19,175,,,3995,May-19
+Mobley,Larry,,,Oktibbeha,,Animal Cruelty,,,$500.00,1/3/19,1/14/19,11,,,3994,May-19
+Moody,Omar Sirdeek,S,,Oktibbeha,,Sexual Battery,,,$0.00,7/23/18,1/14/19,175,,,3995,May-19
 Neal,Learthur,L,,Oktibbeha,,"Roberry, Armed; No DL; Disorderly Conduct; Poss of Marij <30 gms",,,"$50,000; $0; $425; $250",6/19/18,1/14/19,209,,,3996,May-19
 Netterville,Takyra,T,,Oktibbeha,,"Assault, Aggravated",,,"$200,000.00 ",12/14/18,1/14/19,31,,,3997,May-19
-Nichols,Jermaine Alexander,A,,Oktibbeha,,Bench Warrant,,,$0.00 ,12/20/18,1/14/19,25,,,3998,May-19
+Nichols,Jermaine Alexander,A,,Oktibbeha,,Bench Warrant,,,$0.00,12/20/18,1/14/19,25,,,3998,May-19
 Norman,Roderiquez Devonte,D,,Oktibbeha,,"Burglary of vehicle; Robbery, Armed; Bench Warrant; Contempt of Court; Robbery, Armed",,,"$15,000; $75,000; $0; $0; $75,000",7/28/17,1/14/19,535,,,3999,May-19
-Okelly,Skylar Noel,N,,Oktibbeha,,Cir court order,,,$0.00 ,8/3/18,1/14/19,164,,,4000,May-19
+Okelly,Skylar Noel,N,,Oktibbeha,,Cir court order,,,$0.00,8/3/18,1/14/19,164,,,4000,May-19
 Oliver,Jon Stephen,S,,Oktibbeha,,Poss controled sub; DUI 1st; Poss controled sub; Poss weapon by felon; Poss weapon by felon; Fleeing LEO felony; Poss Marij In Vehicle; Disorderly Conduct; Resisting Arrest; Bench Warrant,,,"$0; $1,034; $50,000; $50,000; $50,000; $50,000; $458; $483; $583; $0",10/8/18,1/14/19,98,,,4001,May-19
-Parks,Eddie Will,W,,Oktibbeha,,Trespassing,,,$500.00 ,12/10/18,1/14/19,35,,,4002,May-19
+Parks,Eddie Will,W,,Oktibbeha,,Trespassing,,,$500.00,12/10/18,1/14/19,35,,,4002,May-19
 Paster,Tommie Lamar,L,,Oktibbeha,,Speeding; No Insurance; Speeding; Exp Tag; No DL,,,$203; $646; $243; $228; $346,1/13/19,1/14/19,1,,,4003,May-19
-Pippins,Syboris Anesco,A,,Oktibbeha,,Murder Capital,,,$0.00 ,11/8/16,1/14/19,797,,,4004,May-19
+Pippins,Syboris Anesco,A,,Oktibbeha,,Murder Capital,,,$0.00,11/8/16,1/14/19,797,,,4004,May-19
 Prater Lindsey,Matthew Henry,H,,Oktibbeha,,Burglary- Residential; Burglary- Residential,,,"$5,000; $5,000",5/13/18,1/14/19,246,,,4005,May-19
 Reed,Dwauntario Juantiz,J,,Oktibbeha,,Poss weapon by felon; expired D.L.,,,"$10,000; $569",12/21/18,1/14/19,24,,,4006,May-19
 Reese,Aaliyah Janae,J,,Oktibbeha,,Burglary- Residential; False Pretense; False Information; False Rep of a Crime; Shoplifting; No DL; No DL; Burglary-Residential,,,"$15,000; $5,000; $500; $500; $1,000; $0; $0; $10,000",9/20/18,1/14/19,116,,,4007,May-19
 Robinson,Antonio Lamarcus,L,,Oktibbeha,,Disorderly Conduct; Poss of Cocaine; Shoplifting,,,"$500; $5,000; $4,500",6/28/18,1/14/19,200,,,4008,May-19
-Ross,Michael Deangelo,D,,Oktibbeha,,Hold other Agency,,,$0.00 ,9/5/18,1/14/19,131,,,4009,May-19
+Ross,Michael Deangelo,D,,Oktibbeha,,Hold other Agency,,,$0.00,9/5/18,1/14/19,131,,,4009,May-19
 Shields,Edward Eugene,E,,Oktibbeha,,"Probation violation; Burglary Oth Dwelling;Burglary Oth Dwelling;Burglary Oth Dwelling;Burglary Oth Dwelling;Burglary Oth Dwelling;Burglary Oth Dwelling;Burglary Oth Dwelling; Burglary of Vehicle; Burglary of Vehicle; Burglary of vehicle ; Larceny, grand",,,"$1,000; $5,000; $5,000; $5,000; $5,000; $5,000; $5,000; $5,000; $5,000; $5,000; $5,000; $0",9/12/18,1/14/19,124,,,4010,May-19
 Smith,Tyler Martin,M,,Oktibbeha,,Murder,,,"$250,000.00 ",8/24/18,1/14/19,143,,,4011,May-19
-Sudduth,Lary Donell,D,,Oktibbeha,,Parole Violation,,,$0.00 ,1/8/19,1/14/19,6,,,4012,May-19
+Sudduth,Lary Donell,D,,Oktibbeha,,Parole Violation,,,$0.00,1/8/19,1/14/19,6,,,4012,May-19
 Talley,Jerry Lee,L,,Oktibbeha,,"Rape; Roberry; Kidnapping; Assault, Aggravated; Sexual Battery",,,"$500,000; $0; $0; $0; $0",5/6/16,1/14/19,983,,,4013,May-19
 Thomas,Savion,S,,Oktibbeha,,Burglary of Vehicle; Burglary of Vehicle; Burglary of Vehicle; Burglary of Vehicle; Burglary of Vehicle; Burglary of Vehicle; Burglary of Vehicle; Burglary of Vehicle; Burglary of Vehicle; Burglary of Vehicle; Burglary of Vehicle; Poss of Marij >30gms; COntributing to Del; Speeding; Receiving Stolen Pro,,,"$5,000; $0; $0; $0;$0;$0;$0;$0;$0;$0;0;$0;$0;$0;$0",12/28/17,1/14/19,382,,,4014,May-19
 Ware,Quentin,L,,Oktibbeha,,Agg Domestic Assault; Agg Domestic Assault; MDOC Hold; Contraband in Jail,,,"$25,000; $25,000;$5,000",10/23/18,1/14/19,83,,,4015,May-19
-Warren,Alexander James,J,,Oktibbeha,,Bench Warrant,,,$0.00 ,12/7/18,1/14/19,38,,,4016,May-19
+Warren,Alexander James,J,,Oktibbeha,,Bench Warrant,,,$0.00,12/7/18,1/14/19,38,,,4016,May-19
 Westmoreland,Trevor Scott,S,,Oktibbeha,,"Assault, simple; credit card fraud",,,"$535; $5,000",10/27/18,1/14/19,79,,,4017,May-19
 Williams,Alebert Ewell,E,,Oktibbeha,,Poss Controlled Sub; Poss Controlled Sub,,,$0; $0,12/1/18,1/14/19,44,,,4018,May-19
-Williams,Jason Thomas,T,,Oktibbeha,,Cir Court order,,,$0.00 ,12/18/18,1/14/19,27,,,4019,May-19
+Williams,Jason Thomas,T,,Oktibbeha,,Cir Court order,,,$0.00,12/18/18,1/14/19,27,,,4019,May-19
 Williams,Marquez Devonte,D,,Oktibbeha,,Burglary of Vehicle; Burglary of Vehicle; Burglary of Vehicle; Burglary of Vehicle,,,"$10,000;$10,000;$10,000;$10,000",12/7/18,1/14/19,38,,,4020,May-19
 Williams,Matthew,L,,Oktibbeha,,Burglary of Vehicle; Burglary of Vehicle; Burglary of Vehicle; Burglary Oth Dwel; Burglary Oth Dwel; Burglary Oth Dwel; Burglary Oth Dwel; Burglary Oth Dwel; Burglary Oth Dwel; Burglary Oth Dwel; Larceny Grand; MDOC Hold; Driving w Susp D.L.; Fail to Yield,,,"$5,000; $5,000; $5,000;$5,000;$5,000;$5,000;$5,000;$5,000;$5,000;$5,000;$0; $0; $0",9/13/18,1/14/19,123,,,4021,May-19
 Wilson,Richard Lynn,L,,Oktibbeha,,Fleeing LEO Felony; Careless Driving; No Insurance; Disregarding Traffic; No DL; Bond Surrender,,,"$10,000; $178; $438; $178; $543; $5,000",9/20/18,1/14/19,116,,,4022,May-19
 Wordlaw,James,H.,,Oktibbeha,,Poss of Cocaine; Disorderly Conduct; Contempt of court; Exploitation of VA; No DL; No DL; Speeding; No Insurance; No Insurance; No DL; Bond Surrender; Bond Surrender; Carjacking,,,"$0; $500; $500; $0; $0; $0; $0; $0; $0; $0; $30,000; $483; $0",8/15/18,1/14/19,152,,,4023,May-19
-Alexander,Norris,C,,Panola,Panola County Sheriff,,,,$0.00 ,2/9/16,3/28/19,1143,,,4024,May-19
-Allen,Richard Lee,,,Panola,Panola County Sheriff,Probation Violation,,,$0.00 ,7/6/15,3/28/19,1361,,,4025,May-19
+Alexander,Norris,C,,Panola,Panola County Sheriff,,,,$0.00,2/9/16,3/28/19,1143,,,4024,May-19
+Allen,Richard Lee,,,Panola,Panola County Sheriff,Probation Violation,,,$0.00,7/6/15,3/28/19,1361,,,4025,May-19
 Anderson,Jacob,D,,Panola,Panola County Sheriff,Aggravated Domestic Violence,,,"$15,000.00 ",8/18/18,3/28/19,222,,,4026,May-19
 Barber,James,D,,Panola,Panola County Sheriff,Robbery - ArmedAggravated AssaultBurglary Other than Dwelling,,,"$50,000$0$0",9/5/18,3/28/19,204,,,4027,May-19
 Barber,Keyon,L,,Panola,Panola County Sheriff,"Burglary; Inhabited Dwelling House, Whether Armed or Not",,,"$5,000.00 ",10/22/18,3/28/19,157,,,4028,May-19
-Black,Marcia,T,,Panola,PCSO,"utitlities, theft of; controlled substance: illegal possession x3; foreign warrant, fugitive, holding; false information or identification to law enforcement; motor vehicle; expired tag; no insurance",,,$626.00 ,1/28/19,3/28/19,59,,,4029,May-19
-Bramlett,Misty,D,,Panola,PCSO,"foreign warrant, fugitive, holding",,,$0.00 ,3/7/19,3/28/19,21,,,4030,May-19
-Burdette,Houston,,,Panola,Panola County Sheriff,,,,$0.00 ,7/24/18,3/28/19,247,,,4031,May-19
-Butler,Earl,L,,Panola,PCSO,,,,$0.00 ,3/22/19,3/28/19,6,,,4032,May-19
-Camp,Timothy,P,,Panola,PCSO,"burglary, inhabited dwelling house, whther armed or n",,,$0.00 ,3/21/19,3/28/19,7,,,4033,May-19
+Black,Marcia,T,,Panola,PCSO,"utitlities, theft of; controlled substance: illegal possession x3; foreign warrant, fugitive, holding; false information or identification to law enforcement; motor vehicle; expired tag; no insurance",,,$626.00,1/28/19,3/28/19,59,,,4029,May-19
+Bramlett,Misty,D,,Panola,PCSO,"foreign warrant, fugitive, holding",,,$0.00,3/7/19,3/28/19,21,,,4030,May-19
+Burdette,Houston,,,Panola,Panola County Sheriff,,,,$0.00,7/24/18,3/28/19,247,,,4031,May-19
+Butler,Earl,L,,Panola,PCSO,,,,$0.00,3/22/19,3/28/19,6,,,4032,May-19
+Camp,Timothy,P,,Panola,PCSO,"burglary, inhabited dwelling house, whther armed or n",,,$0.00,3/21/19,3/28/19,7,,,4033,May-19
 Chapman,Susan,K,,Panola,PCSO,forgery,,,"$10,000.00 ",3/28/19,3/28/19,0,,,4034,May-19
-Chhabra,Kaleb,K,,Panola,Panola County Sheriff,,,,$0.00 ,1/27/16,3/28/19,1156,,,4035,May-19
-Crab,Randy,J,,Panola,Panola County Sheriff,,,,$0.00 ,8/4/16,3/28/19,966,,,4036,May-19
+Chhabra,Kaleb,K,,Panola,Panola County Sheriff,,,,$0.00,1/27/16,3/28/19,1156,,,4035,May-19
+Crab,Randy,J,,Panola,Panola County Sheriff,,,,$0.00,8/4/16,3/28/19,966,,,4036,May-19
 Curry,Cedrick,J,,Panola,PCSO,"failure to comply with requests of an officer; resisting/obstructing arrest; malicious mischief; simple domestic violence, simple domestic 3rd offense; burglary-all but dwelling",,,"$250; 500; 5,000",1/30/19,3/28/19,57,,,4037,May-19
 Dean,Tyree,J,,Panola,PCSO,"malicious mischief; disorderly conduct/breach of peace; simple domestic violence, simple domestic violence 3rd offense; aggravated domestic violence x2; contempt of court/arbitration, failure to appear",,,"$20,000.00 ",2/1/19,3/28/19,55,,,4038,May-19
 Ellis,Christopher,A,,Panola,Panola County Sheriff,"A. Conspiracy to commit a crimPossession of Weapon by Convicted FelonControlled Substance- Sell, Transfer, Distribute, PossesPossession of a Stolen FirearmForeign Warrant; Fugitive; Holding",,,"$30,000$0$0$0$0",10/16/18,3/28/19,163,,,4039,May-19
-Epps,Carl Edward,,,Panola,Panola County Sheriff,Probation Violation,,,$0.00 ,12/16/18,3/28/19,102,,,4040,May-19
-Ford,Edwards,D,,Panola,PCSO,"contempt of court/arbitration, failure to appear",,,$0.00 ,3/21/19,3/28/19,7,,,4041,May-19
-Foster,Novan,J,,Panola,PCSO,,,,$0.00 ,3/22/19,3/28/19,6,,,4042,May-19
-Franklin,Jafort,,,Panola,Panola County Sheriff,,,,$0.00 ,8/28/18,3/28/19,212,,,4043,May-19
-Franks,Larry,C,,Panola,Panola County Sheriff,,,,$0.00 ,12/16/16,3/28/19,832,,,4044,May-19
-Funderburk,Matthew,,,Panola,Panola County Sheriff,,,,$0.00 ,1/19/17,3/28/19,798,,,4045,May-19
+Epps,Carl Edward,,,Panola,Panola County Sheriff,Probation Violation,,,$0.00,12/16/18,3/28/19,102,,,4040,May-19
+Ford,Edwards,D,,Panola,PCSO,"contempt of court/arbitration, failure to appear",,,$0.00,3/21/19,3/28/19,7,,,4041,May-19
+Foster,Novan,J,,Panola,PCSO,,,,$0.00,3/22/19,3/28/19,6,,,4042,May-19
+Franklin,Jafort,,,Panola,Panola County Sheriff,,,,$0.00,8/28/18,3/28/19,212,,,4043,May-19
+Franks,Larry,C,,Panola,Panola County Sheriff,,,,$0.00,12/16/16,3/28/19,832,,,4044,May-19
+Funderburk,Matthew,,,Panola,Panola County Sheriff,,,,$0.00,1/19/17,3/28/19,798,,,4045,May-19
 Gardner,James,,,Panola,Panola County Sheriff,Felony EvasionResisting/Obstructing ArrestMotor Vehicle Violation-No/Expired Drivers LicenseMalicious MischiefFelony Evasion,,,"$25,634$0$0$0$0",9/1/18,3/28/19,208,,,4046,May-19
 Gates,Daniel,D,,Panola,Panola County Sheriff,,,,"$0$14,930.00",11/20/17,3/28/19,493,,,4047,May-19
 Gleaton,Terale,,,Panola,Panola County Sheriff,B. Cocaine Sale or Possession with IntentB. Cocaine Sale or Possession with Intent,,,$0$0,9/25/13,3/28/19,2010,,,4048,May-19
-Golden,Christophe,,,Panola,PCSO,"indicent exposure/abusive language, disturbance of fam",,,$358.00 ,3/25/19,3/28/19,3,,,4049,May-19
+Golden,Christophe,,,Panola,PCSO,"indicent exposure/abusive language, disturbance of fam",,,$358.00,3/25/19,3/28/19,3,,,4049,May-19
 Griffin,Richard,T,,Panola,PCSO,grand larceny; burglary other than dwelling x3; false pretenses,,,"$5,000.00 ",2/28/19,3/28/19,28,,,4050,May-19
-Harris,Markkeith,P,,Panola,Panola County Sheriff,,,,$0.00 ,9/28/16,3/28/19,911,,,4051,May-19
-Harris,Tarvis,J,,Panola,PCSO,controlled substance: illegal possession; legacy statute code,,,$0.00 ,1/9/19,3/28/19,78,,,4052,May-19
-Hines,Kevin Andrew,,,Panola,Panola County Sheriff,,,,$0.00 ,11/2/18,3/28/19,146,,,4053,May-19
-Holliday,Rodney,R,,Panola,PCSO,"foreign warrant, fugitive, holding x2; possession of weapon by convicted felon",,,$0.00 ,3/26/19,3/28/19,2,,,4054,May-19
-Howell,Tarek,U,,Panola,Panola County Sheriff,,,,$0.00 ,11/2/18,3/28/19,146,,,4055,May-19
+Harris,Markkeith,P,,Panola,Panola County Sheriff,,,,$0.00,9/28/16,3/28/19,911,,,4051,May-19
+Harris,Tarvis,J,,Panola,PCSO,controlled substance: illegal possession; legacy statute code,,,$0.00,1/9/19,3/28/19,78,,,4052,May-19
+Hines,Kevin Andrew,,,Panola,Panola County Sheriff,,,,$0.00,11/2/18,3/28/19,146,,,4053,May-19
+Holliday,Rodney,R,,Panola,PCSO,"foreign warrant, fugitive, holding x2; possession of weapon by convicted felon",,,$0.00,3/26/19,3/28/19,2,,,4054,May-19
+Howell,Tarek,U,,Panola,Panola County Sheriff,,,,$0.00,11/2/18,3/28/19,146,,,4055,May-19
 Hudson,James,C,,Panola,PCSO,controlled substance: illegal possession,,,"$2,500.00 ",3/25/19,3/28/19,3,,,4056,May-19
-Hudspeth Jr.,Fredd,,,Panola,PCSO,probation violation; counterfeit instrument: forgery/uttering,,,$0.00 ,3/26/19,3/28/19,2,,,4057,May-19
-Hughes,Jason,D,,Panola,PCSO,,,,$0.00 ,1/17/19,3/28/19,70,,,4058,May-19
-Johnson,Albert,J,,Panola,Panola County Sheriff,,,,$0.00 ,3/21/18,3/28/19,372,,,4059,May-19
-Johnson,Jarrian,B,,Panola,Panola County Sheriff,,,,$0.00 ,8/28/18,3/28/19,212,,,4060,May-19
+Hudspeth Jr.,Fredd,,,Panola,PCSO,probation violation; counterfeit instrument: forgery/uttering,,,$0.00,3/26/19,3/28/19,2,,,4057,May-19
+Hughes,Jason,D,,Panola,PCSO,,,,$0.00,1/17/19,3/28/19,70,,,4058,May-19
+Johnson,Albert,J,,Panola,Panola County Sheriff,,,,$0.00,3/21/18,3/28/19,372,,,4059,May-19
+Johnson,Jarrian,B,,Panola,Panola County Sheriff,,,,$0.00,8/28/18,3/28/19,212,,,4060,May-19
 Knight,David,S,,Panola,PCSO,"controlled substance sell, transfer, distribute, posses; touching child for lustful purposes, gratification, mol",,,"$10,000.00 ",2/19/19,3/28/19,37,,,4061,May-19
-Lamar,Marco,K,,Panola,PCSO,sexual battery x4,,,$0.00 ,2/5/19,3/28/19,51,,,4062,May-19
+Lamar,Marco,K,,Panola,PCSO,sexual battery x4,,,$0.00,2/5/19,3/28/19,51,,,4062,May-19
 Long,Landon Shane,,,Panola,Panola County Sheriff,"Moror Vehicle; Expired Tag - PENDINGLeaving the Scene of an Accident - PENDINGMortor Vehicle Violation-No/Expired Drivers License - PENDINGGeneral Violations - PENDINGNo Insurance - PENDINGAggravated Domestic ViolenceBurglary; Inhabited Dwelling House, Whether Armed or NotBurglary; Inhabited Dwelling House, Whether Armed or NotBurglary-All but DwellingBurglary-All but DwellingB. Aggravated Assault",,,"$0$0$0$0$0$5,000$0$0$0$0$0",12/15/18,3/28/19,103,,,4063,May-19
-Matthews,Fredrick,,,Panola,Panola County Sheriff,,,,$0.00 ,8/28/18,3/28/19,212,,,4064,May-19
+Matthews,Fredrick,,,Panola,Panola County Sheriff,,,,$0.00,8/28/18,3/28/19,212,,,4064,May-19
 McKinney,Charles,J,,Panola,Panola County Sheriff,Burglary Breaking Inner Door by One Lawfully in House,,,"$7,500.00 ",10/5/18,3/28/19,174,,,4065,May-19
 McMillan,Dekedris,,,Panola,Panola County Sheriff,ShopliftingShoplifting,,,"$50,000$1,1460",8/8/18,3/28/19,232,,,4066,May-19
 Michie,Jordan,K,,Panola,Panola County Sheriff,Sexual BatterySexual BatterRape (Statutory)Rape (Statutory),,,"$200,000$0$0$0",5/31/18,3/28/19,301,,,4067,May-19
 Miles,Atton,L,,Panola,PCSO,robbery; conspiracy to commit a crime,,,,1/30/19,3/28/19,57,,,4068,May-19
 Mister,Patrick,O,,Panola,Panola County Sheriff,,,,"$0$14,930.00",3/9/18,3/28/19,384,,,4069,May-19
-Moore,Darren,D,,Panola,Panola County Sheriff,,,,$0.00 ,10/23/17,3/28/19,521,,,4070,May-19
-Patton,Anthony,NM,,Panola,PCSO,"foreign warrant, fugitive, holding",,,$0.00 ,1/15/19,3/28/19,72,,,4071,May-19
+Moore,Darren,D,,Panola,Panola County Sheriff,,,,$0.00,10/23/17,3/28/19,521,,,4070,May-19
+Patton,Anthony,NM,,Panola,PCSO,"foreign warrant, fugitive, holding",,,$0.00,1/15/19,3/28/19,72,,,4071,May-19
 Patton,Daniel,D,,Panola,Panola County Sheriff,Burglary Breaking Inner Door by One Lawfully in House,,,"$5,000.00 ",8/8/18,3/28/19,232,,,4072,May-19
 Petitt,Steven,D,,Panola,Panola County Sheriff,Foreign Warrant; Fugitive; HoldingChild Desertion/Neglect/Non-Support,,,"$0$14,930.00",11/17/17,3/28/19,496,,,4073,May-19
-Pitcock,Zackery,R,,Panola,PCSO,failure to register under sex offender registration law,,,$0.00 ,2/14/19,3/28/19,42,,,4074,May-19
+Pitcock,Zackery,R,,Panola,PCSO,failure to register under sex offender registration law,,,$0.00,2/14/19,3/28/19,42,,,4074,May-19
 Poole,Ocxavious,M,,Panola,PCSO,probation violation; controlled substance possession of paraphernalia; disorderly conduct/breech of peace; disobediance of traffic control devices,,,,3/14/19,3/28/19,14,,,4075,May-19
 Powell Jr.,Myron,A,,Panola,PCSO,murder,,,"$225,000.00 ",3/15/19,3/28/19,13,,,4076,May-19
 Pruitt,Tyler,L,,Panola,PCSO,controlled substance: illegal possession,,,"$2,500.00 ",3/24/19,3/28/19,4,,,4077,May-19
-Pryor,Stevie,C,,Panola,PCSO,,,,$0.00 ,3/22/19,3/28/19,6,,,4078,May-19
-Respess,Nicholas,S,,Panola,Panola County Sheriff,,,,$0.00 ,12/3/18,3/28/19,115,,,4079,May-19
-Reynolds,Hunter,D,,Panola,Panola County Sheriff,,,,$0.00 ,11/2/18,3/28/19,146,,,4080,May-19
+Pryor,Stevie,C,,Panola,PCSO,,,,$0.00,3/22/19,3/28/19,6,,,4078,May-19
+Respess,Nicholas,S,,Panola,Panola County Sheriff,,,,$0.00,12/3/18,3/28/19,115,,,4079,May-19
+Reynolds,Hunter,D,,Panola,Panola County Sheriff,,,,$0.00,11/2/18,3/28/19,146,,,4080,May-19
 Robinson,Zachary,,,Panola,Panola County Sheriff,Burglary Other than DwellingPossession of Weapoin by Convicted Felon,,,"$2,500$2,500",11/6/18,3/28/19,142,,,4081,May-19
-Rowell,Letterrence,,,Panola,PCSO,probation violation,,,$0.00 ,3/25/19,3/28/19,3,,,4082,May-19
-Russell,Joshua,D,,Panola,PCSO,probation violation,,,$0.00 ,3/19/19,3/28/19,9,,,4083,May-19
-Sanderford,Jay,W,,Panola,PCSO,probation violation,,,$0.00 ,3/21/19,3/28/19,7,,,4084,May-19
+Rowell,Letterrence,,,Panola,PCSO,probation violation,,,$0.00,3/25/19,3/28/19,3,,,4082,May-19
+Russell,Joshua,D,,Panola,PCSO,probation violation,,,$0.00,3/19/19,3/28/19,9,,,4083,May-19
+Sanderford,Jay,W,,Panola,PCSO,probation violation,,,$0.00,3/21/19,3/28/19,7,,,4084,May-19
 Smalley Jr.,Bobby,L,,Panola,PCSO,kidnapping; robbery-armed,,,"$125,000.00 ",3/17/19,3/28/19,11,,,4085,May-19
-Smith,Adam Ray,,,Panola,Panola County Sheriff,,,,$0.00 ,8/4/16,3/28/19,966,,,4086,May-19
-Smith,Kevin,D,,Panola,PCSO,probation violation,,,$0.00 ,3/11/19,3/28/19,17,,,4087,May-19
-Terry,Joe Potts,,,Panola,Panola County Sheriff,,,,$0.00 ,3/20/15,3/28/19,1469,,,4088,May-19
+Smith,Adam Ray,,,Panola,Panola County Sheriff,,,,$0.00,8/4/16,3/28/19,966,,,4086,May-19
+Smith,Kevin,D,,Panola,PCSO,probation violation,,,$0.00,3/11/19,3/28/19,17,,,4087,May-19
+Terry,Joe Potts,,,Panola,Panola County Sheriff,,,,$0.00,3/20/15,3/28/19,1469,,,4088,May-19
 Teter,James,L,,Panola,PCSO,controlled substance violations,,,"$2,500.00 ",1/8/19,3/28/19,79,,,4089,May-19
 Thorton,Matthew,,,Panola,Panola County Sheriff,"Controlled Substance- Sell, Transfer, Distribute, PossesControlled Substance- Sell, Transfer, Distribute, PossesControlled Substance- Sell, Transfer, Distribute, PossesControlled Substance- Sell, Transfer, Distribute, Posses",,,$0$0$0$0,1/8/19,3/28/19,79,,,4090,May-19
-Walker,Terry,C,,Panola,PCSO,"controlled substance-sell, transfer, distribute, posses x2; probation violation",,,$0.00 ,3/8/19,3/28/19,20,,,4091,May-19
-Webb,Arlando,J,,Panola,PCSO,,,,$0.00 ,3/7/19,3/28/19,21,,,4092,May-19
+Walker,Terry,C,,Panola,PCSO,"controlled substance-sell, transfer, distribute, posses x2; probation violation",,,$0.00,3/8/19,3/28/19,20,,,4091,May-19
+Webb,Arlando,J,,Panola,PCSO,,,,$0.00,3/7/19,3/28/19,21,,,4092,May-19
 Wendland,Zane,T,,Panola,Panola County Sheriff,Felony DUI,,,"$25,000.00 ",12/2/18,3/28/19,116,,,4093,May-19
-Wilbourn,Tracy,E,,Panola,PCSO,"foreign warrant, fugitive, holding",,,$0.00 ,2/26/19,3/28/19,30,,,4094,May-19
+Wilbourn,Tracy,E,,Panola,PCSO,"foreign warrant, fugitive, holding",,,$0.00,2/26/19,3/28/19,30,,,4094,May-19
 Willard,James,C,,Panola,PCSO,burlary house; grand larceny,,,"$7,500.00 ",1/23/19,3/28/19,64,,,4095,May-19
-Willard,Jason,G,,Panola,PCSO,,,,$0.00 ,3/20/19,3/28/19,8,,,4096,May-19
-William,Jimmy,,,Panola,Panola County Sheriff,,,,$0.00 ,2/9/16,3/28/19,1143,,,4097,May-19
+Willard,Jason,G,,Panola,PCSO,,,,$0.00,3/20/19,3/28/19,8,,,4096,May-19
+William,Jimmy,,,Panola,Panola County Sheriff,,,,$0.00,2/9/16,3/28/19,1143,,,4097,May-19
 Williams,Temetric,D,,Panola,PCSO,"profanity/drunkeness in public; disorderly conduct/breech of peace; trespass, wilful; writ to take custody",,,$222.25; 272.25; 322.25,3/25/19,3/28/19,3,,,4098,May-19
 Wilson,Demarcus,SI,,Panola,PCSO,"grand larceny; larceny petit; burglary, inhabited dwelling house, whther armed or; robbery-armed; aggravted assault; foreign warrant, fugitive, holding",,,"$25,000.00 ",2/5/19,3/28/19,51,,,4099,May-19
-Wink,Tevin Lavon,,,Panola,Panola County Sheriff,Murder,,,$0.00 ,12/25/18,3/28/19,93,,,4100,May-19
+Wink,Tevin Lavon,,,Panola,Panola County Sheriff,Murder,,,$0.00,12/25/18,3/28/19,93,,,4100,May-19
 Winters,Clinton,,,Panola,PCSO,"grand larceny; controlled substance-sell, transfer, distribute, posses",,,"$1,500; 5,000",2/8/19,3/28/19,48,,,4101,May-19
 Wooten,Jessie,Q,,Panola,Panola County Sheriff,,,,"$0$14,930.00",1/30/18,3/28/19,422,,,4102,May-19
 "Wurst, Jr",Walter,R,,Panola,Panola County Sheriff,Controlled Substance ViolationsFalse Information or Identification to Law EnforcementDriving with Suspended/Revoked Driver's LicenseNo InsuranceGeneral Violations,,,"$5,000$0$0$0$0$0",1/4/19,3/28/19,83,,,4103,May-19
-Young,Shane,A,,Panola,PCSO,,,,$0.00 ,3/14/19,3/28/19,14,,,4104,May-19
+Young,Shane,A,,Panola,PCSO,,,,$0.00,3/14/19,3/28/19,14,,,4104,May-19
 ABRAM,KAYLE,,,Pearl River,PEARL RIVER COUNTY,"9-1-17 Contempt of Court-Supreme Court, Court of Appeals, shoplifitng, HOLD",,,,4/10/19,5/3/19,23,,,4105,May-19
 ADAMS,RUSSELL EDWARD,,,Pearl River,PEARL RIVER COUNTY,HOLD HOLD,,,,4/11/19,5/3/19,22,,,4106,May-19
 AINSWORTH,CRAIG,A,,Pearl River,DEPT OF CORR (MDOC),HOLD HOLD,,,,10/2/18,5/3/19,213,,,4107,May-19
@@ -4325,7 +4325,7 @@ Bates,Fabian,,,Pike,MDOC,probation violation,Y,,no bond,12/14/18,3/21/19,97,,,43
 Bell,Craig,,,Pike,circuit,poss cont subst x4,Y,,"$20,000.00 ",7/31/17,3/21/19,598,,,4324,May-19
 Bell,Dennis,,,Pike,mccomb,shoplifting 3rd,N,,"$7,500.00 ",2/18/19,3/21/19,31,,,4325,May-19
 Bloomer,Michael,,,Pike,circuit; county,agg. Assault; murder,yes x2,,"$25,000.00 ",12/31/17,3/21/19,445,,,4326,May-19
-Blount,Elvis,,,Pike,circuit; justice,probation violation; s/assault domestic,"yes, no",,$500.00 ,3/4/19,3/21/19,17,,,4327,May-19
+Blount,Elvis,,,Pike,circuit; justice,probation violation; s/assault domestic,"yes, no",,$500.00,3/4/19,3/21/19,17,,,4327,May-19
 Blount,Michael,,,Pike,county,sexual battery,Y,,"$100,000.00 ",5/23/17,3/21/19,667,,,4328,May-19
 Byrd,Lavor,,,Pike,circuit,touching child x2,Y,,"$50,000.00 ",11/21/18,3/21/19,120,,,4329,May-19
 Carter Jr.,Cedric,O,,Pike,mccomb,bench warrant,N,,"$2,000.00 ",1/7/19,3/21/19,73,,,4330,May-19
@@ -4757,48 +4757,48 @@ Barber,Aaron Deonta,D,,Simpson,,Aggravted Assault; Capias,,,"$15,000; $0",5/4/18
 Berry,Lawrence McNair,M,,Simpson,,Possession of Stolen Firearm,,,"$5,000.00 ",2/5/19,3/7/19,30,,,4756,May-19
 Bonner,James Randall,R,,Simpson,,Possession of Paraphernalia; Poss of controlled sunstance,,,"$485; $5,000",7/31/18,3/7/19,219,,,4757,May-19
 Bush,Morgan Wade,W,,Simpson,,Possession of Paraphernalia; Poss of controlled substance,,,"$500; $12,500",1/13/19,3/7/19,53,,,4758,May-19
-Carter,Glen Edward III,E,,Simpson,,MDOC Work Program,,,$0.00 ,4/7/15,3/7/19,1430,,,4759,May-19
+Carter,Glen Edward III,E,,Simpson,,MDOC Work Program,,,$0.00,4/7/15,3/7/19,1430,,,4759,May-19
 Caves,Dlaton Allen,A,,Simpson,,Grand Larceny; Burglary,,,"$1,000; $5,000",9/10/18,3/7/19,178,,,4760,May-19
-Childers,Forest Jay,J,,Simpson,,Trespassing- Willfull,,,$500.00 ,2/26/19,3/7/19,9,,,4761,May-19
+Childers,Forest Jay,J,,Simpson,,Trespassing- Willfull,,,$500.00,2/26/19,3/7/19,9,,,4761,May-19
 Craft,James JR,,,Simpson,,Destroying public/ city property; Burglary- house; Bond revoked; destroying public/ city property,,,"$50; $50,000; $0; $400",11/6/18,3/7/19,121,,,4762,May-19
 Craft,Jeffrey Jermaine,J,,Simpson,,Agg assault on officer (official); No proof of insurance; friving w/ license susp. Implied consent; Speeding-9-19 MPH over the limit; Possession of paraphernalia; Fleeing/ eluding an officer (felony),,,"$25,000; $785.63; $760; $256; $500; $25,000",2/17/19,3/7/19,18,,,4763,May-19
 Crosby,Xavier Lortex,L,,Simpson,,Aggravated Assault,,,"$50,000.00 ",1/23/19,3/7/19,43,,,4764,May-19
 Davis,Mercy Marie,M,,Simpson,,Felony Warrant- Capias; Bad checks,,,"$2,385.71; $5,000",2/9/19,3/7/19,26,,,4765,May-19
-Davis,Kevon Jenord,J,,Simpson,,MDOC Work Program,,,$0.00 ,3/30/18,3/7/19,342,,,4766,May-19
-Donald,elliot Wayne,W,,Simpson,,Child Support,,,$0.00 ,1/30/18,3/7/19,401,,,4767,May-19
-Donald,Ricky Lynn,L,,Simpson,,Disturbing the peace,,,$0.00 ,1/25/19,3/7/19,41,,,4768,May-19
+Davis,Kevon Jenord,J,,Simpson,,MDOC Work Program,,,$0.00,3/30/18,3/7/19,342,,,4766,May-19
+Donald,elliot Wayne,W,,Simpson,,Child Support,,,$0.00,1/30/18,3/7/19,401,,,4767,May-19
+Donald,Ricky Lynn,L,,Simpson,,Disturbing the peace,,,$0.00,1/25/19,3/7/19,41,,,4768,May-19
 Edge,Timothy John,J,,Simpson,,"Old fines; improper equiptment; carless driving; Hindering prosecution, rendering criminal assistance; Poss of controlled substance",,,"$1,150; $300; $500; $25,000",12/4/18,3/7/19,93,,,4769,May-19
-Ferguson,Danny Dewayne SR,D,,Simpson,,,,,$0.00 ,1/23/19,3/7/19,43,,,4770,May-19
-Garnett,Kendarius Deshun,D,,Simpson,,MDOC Work Program,,,$0.00 ,7/26/18,3/7/19,224,,,4771,May-19
+Ferguson,Danny Dewayne SR,D,,Simpson,,,,,$0.00,1/23/19,3/7/19,43,,,4770,May-19
+Garnett,Kendarius Deshun,D,,Simpson,,MDOC Work Program,,,$0.00,7/26/18,3/7/19,224,,,4771,May-19
 Garrett,Tony Jerome,J,,Simpson,,Possession of Meth,,,"$0; $0; $0; $20,000",5/8/18,3/7/19,303,,,4772,May-19
 Graham,Bridget Autumn,A,,Simpson,,Aggravated Somestic Violence x's 5,,,"$250,000.00 ",1/15/19,3/7/19,51,,,4773,May-19
-Grant,Robert Dale,D,,Simpson,,Probation Violation,,,$0.00 ,2/19/19,3/7/19,16,,,4774,May-19
+Grant,Robert Dale,D,,Simpson,,Probation Violation,,,$0.00,2/19/19,3/7/19,16,,,4774,May-19
 Graves,Fredrick Dewayne,D,,Simpson,,Possession pf Paraphernalia; Possessioon of stolen firearm; Poss of weapon/felon; Poss of weapon on correctional premises,,,"$500; $4,000; $2,000; $4,000",1/14/19,3/7/19,52,,,4775,May-19
-Harris,Danny Voneric,V,,Simpson,,Murder,,,$0.00 ,3/9/17,3/7/19,728,,,4776,May-19
+Harris,Danny Voneric,V,,Simpson,,Murder,,,$0.00,3/9/17,3/7/19,728,,,4776,May-19
 Jackson,Marcus Benjamin,B,,Simpson,,Uttering forgery,,,"$50,000.00 ",8/22/18,3/7/19,197,,,4777,May-19
 James,Steven O'neil FR,O,,Simpson,,Driving under the influence- 1st offense; petit larceny,,,"$1,200; $800",2/14/19,3/7/19,21,,,4778,May-19
-Johnson,Ronald Earl,E,,Simpson,,MDOC Work Program,,,$0.00 ,1/23/18,3/7/19,408,,,4779,May-19
+Johnson,Ronald Earl,E,,Simpson,,MDOC Work Program,,,$0.00,1/23/18,3/7/19,408,,,4779,May-19
 Jones,Clint Anthony Jr.,A,,Simpson,,Possession of paraphernalia; aggravated assault felony,,,"$500; $2,500",6/9/18,3/7/19,271,,,4780,May-19
-Jones,Kevin JR,,,Simpson,,MDOC Work Program,,,$0.00 ,8/2/18,3/7/19,217,,,4781,May-19
+Jones,Kevin JR,,,Simpson,,MDOC Work Program,,,$0.00,8/2/18,3/7/19,217,,,4781,May-19
 Kilmore,Jimmy Charles,C,,Simpson,,Resisting arrest; disorderly conduct; disorderly conduct-failure to comply with a lawful command; disorderly conduct- failure to comly with a lawful comand; Fleeing/ eluding an officer (felony); possession of beer/wine by minor; poss of c/s felony,,,"$400; $400; $400; $400; $10,000; $240; $25,000; $0",2/10/19,3/7/19,25,,,4782,May-19
-Knight,Michael Lawrence,L,,Simpson,,"Credit card, intent to defraud felony",,,$0.00 ,8/14/18,3/7/19,205,,,4783,May-19
+Knight,Michael Lawrence,L,,Simpson,,"Credit card, intent to defraud felony",,,$0.00,8/14/18,3/7/19,205,,,4783,May-19
 Leggett,Bryce Elwood,E,,Simpson,,Robbery- Armed- Capias; Burglary; Aggravated assault; Malicous mischief over $1000-capias,,,"$62,500; $37,500; $62,500; $50,000",1/3/18,3/7/19,428,,,4784,May-19
 Lockhart,Gary Leon,L,,Simpson,,Burglary- House unoccupied,,,"$5,000.00 ",1/30/19,3/7/19,36,,,4785,May-19
 Lockhart,Michael Anthony,A,,Simpson,,Robbery- Armed; Driving under influence (2nd) other substance; possession of paraphernalia; no proof of insurance,,,"$100,000; $1,500; $500; $700",1/5/18,3/7/19,426,,,4786,May-19
-Lockley,Timothy James,J,,Simpson,,MDOC Work Program,,,$0.00 ,2/7/18,3/7/19,393,,,4787,May-19
+Lockley,Timothy James,J,,Simpson,,MDOC Work Program,,,$0.00,2/7/18,3/7/19,393,,,4787,May-19
 McCaskill,Cameron Jon,J,,Simpson,,"Possession of paraphernalia; careless driving; driving w/ license susp. Implied consent; driving under influene; possession of paraphernalia, driving w/ license susp. Implied consent; no proof of insurance",,,"$500; $300; $400; $1,200; $777.75; $646.50; $511.50",2/15/19,3/7/19,20,,,4788,May-19
 McCormick,Eugie Lee,L,,Simpson,,Poss c/s with intent; Poss c/s with intent; Poss of controlled substance,,,$0; $0; $0,10/3/18,3/7/19,155,,,4789,May-19
 Medina,Joseph Patrick,P,,Simpson,,MDOC Work Program; MDOC Work Program,,,$0; $0,10/25/17,3/7/19,498,,,4790,May-19
 Moffett,Cedrick Lemont,L,,Simpson,,Sale of controlled substance methamphetamine,,,"$2,500.00 ",8/9/18,3/7/19,210,,,4791,May-19
 Owens,Leonia Elanie,E,,Simpson,,"Burglary-commerial Blg, cars, etc.",,,"$15,000.00 ",12/16/18,3/7/19,81,,,4792,May-19
 Parker,Bobby,D,,Simpson,,Poss of controlled substance,,,"$2,500.00 ",1/7/19,3/7/19,59,,,4793,May-19
-Pettus,Andrea,,,Simpson,,MDOC Work Program,,,$0.00 ,5/18/18,3/7/19,293,,,4794,May-19
+Pettus,Andrea,,,Simpson,,MDOC Work Program,,,$0.00,5/18/18,3/7/19,293,,,4794,May-19
 Posey,Charles III,,,Simpson,,Poss of controlled sunstance- meth-capias; Failure to obey police officer directing traffic; disturbing the peace; simple assault; poss of controlled substance; disorderly conduct; resisting arrest; trespassing-wilful,,,$0; $372; $375; $475; $0; $375; $335; $405,10/16/18,3/7/19,142,,,4795,May-19
-Powell,Danny,,,Simpson,,MDOC Work Program,,,$0.00 ,5/18/18,3/7/19,293,,,4796,May-19
+Powell,Danny,,,Simpson,,MDOC Work Program,,,$0.00,5/18/18,3/7/19,293,,,4796,May-19
 Price,Emmaniel Donyell,D,,Simpson,,Possession of weapon by convicted felon; Poss of controlled substance x 2,,,"$20,000; $40,000; $0; $0; $0",5/16/17,3/7/19,660,,,4797,May-19
 Puckett,Anthony Shawn,S,,Simpson,,Trespassing-willful; Malicous mischeif; Malicous mischief fine; trespassing fine,,,"$1,500; $2,000; $353; $408",1/14/19,3/7/19,52,,,4798,May-19
-Rash,Bobby Joe,J,,Simpson,,,,,$0.00 ,10/22/18,3/7/19,136,,,4799,May-19
-Reed,David Michael,M,,Simpson,,MDOC Work Program,,,$0.00 ,6/20/16,3/7/19,990,,,4800,May-19
+Rash,Bobby Joe,J,,Simpson,,,,,$0.00,10/22/18,3/7/19,136,,,4799,May-19
+Reed,David Michael,M,,Simpson,,MDOC Work Program,,,$0.00,6/20/16,3/7/19,990,,,4800,May-19
 Ridley,Rachel Michelle,M,,Simpson,,Disorderly conduct; Public profanity; disturbing the peacel trespassing; public drunk,,,$400; $400; $400; $500; $300,2/26/19,3/7/19,9,,,4801,May-19
 Sharp,Sean Patrick,P,,Simpson,,"Poss of weapon/ felon; Possession of stolen firearm; Motot cehicle theft- Felony x 2; Fleeing/eluding an officer (felony); Tag, switched license; tinted windows; driving w/license susp. Implied consent; no proof of insurance",,,"$25,000; $25,000; $50,000; $25,000; $1,500; $1,500; $1,500; $1,500",12/2/18,3/7/19,95,,,4802,May-19
 Shaw,Jay Austin,A,,Simpson,,Burglary- House; Fines-Time served,,,"$5,000; $900.50",1/15/19,3/7/19,51,,,4803,May-19
@@ -4806,18 +4806,18 @@ Shealy,Alan Jefferson,J,,Simpson,,Possession of paraphernalia; Poss of M/J in ve
 Shelton,Thomas Andrew,A,,Simpson,,Fondling vulnerable person-felony,,,"$50,000.00 ",12/4/18,3/7/19,93,,,4805,May-19
 Smith,Tony Lee,L,,Simpson,,Attempted burglary; Attempt to murder; Attempted murder,,,$0; $0; $0; $0,3/16/18,3/7/19,356,,,4806,May-19
 Smith,Lorenzo Darlee,D,,Simpson,,Statutory rape,,,"$200,000.00 ",2/18/19,3/7/19,17,,,4807,May-19
-Sprouse,Jason Samuel,S,,Simpson,,,,,$0.00 ,12/18/18,3/7/19,79,,,4808,May-19
-Sullivan,Anthony,,,Simpson,,MDOC Work Program,,,$0.00 ,5/17/18,3/7/19,294,,,4809,May-19
-Thomas,Deandre,D,,Simpson,,MDOC Work Program,,,$0.00 ,3/30/18,3/7/19,342,,,4810,May-19
-Van Norman,Amir,,,Simpson,,MDOC Work Program,,,$0.00 ,5/18/18,3/7/19,293,,,4811,May-19
+Sprouse,Jason Samuel,S,,Simpson,,,,,$0.00,12/18/18,3/7/19,79,,,4808,May-19
+Sullivan,Anthony,,,Simpson,,MDOC Work Program,,,$0.00,5/17/18,3/7/19,294,,,4809,May-19
+Thomas,Deandre,D,,Simpson,,MDOC Work Program,,,$0.00,3/30/18,3/7/19,342,,,4810,May-19
+Van Norman,Amir,,,Simpson,,MDOC Work Program,,,$0.00,5/18/18,3/7/19,293,,,4811,May-19
 Wade,Erica Nicole,N,,Simpson,,Disturbance of family; Domestic violence,,,"$400; $1,000",2/22/19,3/7/19,13,,,4812,May-19
 Wade,Matthew Edward,E,,Simpson,,Agg Assault on officer (offical); aggravated assault; disorderly conduct; kidnapping,,,"$150,000; $150,000; $400; $0",1/11/19,3/7/19,55,,,4813,May-19
-Wade,Ricky,,,Simpson,,MDOC Work program,,,$0.00 ,5/18/18,3/7/19,293,,,4814,May-19
-Warren,Jon Christian,C,,Simpson,,Burglary- House,,,$0.00 ,10/24/18,3/7/19,134,,,4815,May-19
+Wade,Ricky,,,Simpson,,MDOC Work program,,,$0.00,5/18/18,3/7/19,293,,,4814,May-19
+Warren,Jon Christian,C,,Simpson,,Burglary- House,,,$0.00,10/24/18,3/7/19,134,,,4815,May-19
 Williams,Jerry Don,D,,Simpson,,Poss of controlled substance meth; Driving under the influence- 1st offense; Possession of paraphernalia,,,"$50,000; $1,200;  $500",2/10/19,3/7/19,25,,,4816,May-19
 Williams,Russell Lee,L,,Simpson,,Escape or Attempt to escape (Felony),,,"$200,000.00 ",12/17/18,3/7/19,80,,,4817,May-19
 Wilson,Donterrian Deprice,D,,Simpson,,Fleeing/eluding an officer (felony),,,"$10,000.00 ",12/10/18,3/7/19,87,,,4818,May-19
-Winston,Jeremy Bernard SR,B,,Simpson,,MDOC Work Program,,,$0.00 ,10/15/18,3/7/19,143,,,4819,May-19
+Winston,Jeremy Bernard SR,B,,Simpson,,MDOC Work Program,,,$0.00,10/15/18,3/7/19,143,,,4819,May-19
 Womack,Elester Lefairl,F,,Simpson,,No tag; driving w/ license susp. Implied consent; bench warrant,,,$235; $315; $0,11/9/18,3/7/19,118,,,4820,May-19
 Agee,William,A,,Smith,,"Assault, Aggravated: Use of Deadly weapon; Assault, Aggravated: No Weapon",,,"250,000; 50,000",1/22/19,2/18/19,27,,,4821,May-19
 Arrington,Steven,R,,Smith,,Burglary-Dwelling,,,"$25,000.00 ",2/8/19,2/18/19,10,"Preliminary hearing Thursday 14, 2019 @ 14:00",,4822,May-19
@@ -4850,30 +4850,30 @@ Avery,Christopher,J,2/13/74,Stone,SCSO,CIRCUIT COURT BENCH WARRANT,,,Not Bonadab
 Babineaux,Jason,,2/27/79,Stone,SCSO,"RECIEVING STOLEN PROPERTY/ POSSESION OF PARPHERNALIA/ 	PROBATION VIOLATION",,,"$10,000.00; $500.00; $0.00",4/6/19,4/15/19,9,Booking #: 5,Court: SCJC/SCJC/Circuit,4849,May-19
 Baker,David,D,12/29/19,Stone,SCSO,POSSESSION OF CONTROLLED SUBSTANCE; METHAMPHETAMINE/PROBATION VIOLATION,,,"$2,500.00; $0.00",11/25/18,4/15/19,141,Booking #: 14,Court: Stone County Circuit Court/SCJC,4850,May-19
 Bolton,Derrick,M,2/7/87,Stone,WPD,FAILURE TO YIELD TO BLUE LIGHTS/ PROBATION VIOLATION/ CIRCUIT COURT BENCH WARRANT,,,"$15,000.00; $0.00; $0.00",12/7/18,4/15/19,129,Booking #: 11,Court: SCJC/ SCJC/ CIRCUIT,4851,May-19
-Brown,Jasmine,K,9/7/88,Stone,SCSO,BENCH WARRANT; CIRCUIT COURT,,,$0.00 ,4/12/19,4/15/19,3,Booking #: 2,Court: SCJC,4852,May-19
-Brown,Jaton,,7/26/99,Stone,SCSO,POSSESSION OF CONTROLLED SUBSTANCE,,,$0.00 ,4/13/19,4/15/19,2,Booking #: 1,Court: SCJC,4853,May-19
-Brown,Joe,L,9/9/82,Stone,SCSO,BENCH WARRANT; CIRCUIT COURT,,,$0.00 ,8/16/18,4/15/19,242,Booking #:6,Court: SCJC,4854,May-19
-Caudill,Carmel,V,2/11/80,Stone,PV DOC,PROBATION VIOLATION,,,$0.00 ,3/12/19,4/15/19,34,Booking #: 7,Court: Circuit,4855,May-19
+Brown,Jasmine,K,9/7/88,Stone,SCSO,BENCH WARRANT; CIRCUIT COURT,,,$0.00,4/12/19,4/15/19,3,Booking #: 2,Court: SCJC,4852,May-19
+Brown,Jaton,,7/26/99,Stone,SCSO,POSSESSION OF CONTROLLED SUBSTANCE,,,$0.00,4/13/19,4/15/19,2,Booking #: 1,Court: SCJC,4853,May-19
+Brown,Joe,L,9/9/82,Stone,SCSO,BENCH WARRANT; CIRCUIT COURT,,,$0.00,8/16/18,4/15/19,242,Booking #:6,Court: SCJC,4854,May-19
+Caudill,Carmel,V,2/11/80,Stone,PV DOC,PROBATION VIOLATION,,,$0.00,3/12/19,4/15/19,34,Booking #: 7,Court: Circuit,4855,May-19
 Clark,Philip,N,4/13/82,Stone,WPD,DUI 4TH/ FAILURE TO YIELD TO BLUE LIGHTS/ D.W.L.S./ SPEEDING/ REVOKED BOND,,,"$10,000.00; $9,000.00; $500.00; $500.00; $0.00",3/28/19,4/15/19,18,Booking #: 9,Court: WMC/ WMC/ WMC/ WMC/ WMC,4856,May-19
 Dennis,Altreyial,D,3/14/95,Stone,SCSO,FELONY BOND REVOKE/ BURGLARY OF DWELLING/ FURNISHING CONTRABAND TO MA PRISONER,,,"$0.00; $5,000.00; $10,000.00",8/12/18,4/15/19,246,Booking #: 16,Court: WMC/ WMC/ CIRCUIT,4857,May-19
 Forbish,Colin,R,6/11/83,Stone,SCSO,POSSESSION OF A CONTROLLED SUBSTANCE/ PAROLE VIOLATION,,,"$40,000.00; $0.00",4/4/19,4/15/19,11,Booking #: 17,Court SCJC/ CIRCUIT,4858,May-19
 Hacker,Destini,N,2/24/90,Stone,PV DOC,POSSESSION OF CONTROLLED SUBSTANCE/ POSSESSION OF PARPHERNALIA/ DUI 1ST/ PROBATION VIOLATION,,,"$2,000.00; $500.00; $1,000.00; $0.00",2/7/19,4/15/19,67,Booking #: 3,Court: WMC/ WMC/ WMC/ CIRCUIT,4859,May-19
 Harris,Adrian,R,2/9/86,Stone,WPD,"SALE, ETC. CONTROLLED SUBSTANCES/ BENCH WARRANT;  CIRCUIT COURT",,,"$20,000.00; $0.00",12/18/18,4/15/19,118,Booking #: 4,Court: WMC/Circuit,4860,May-19
 Inman,Kaila,R,3/29/19,Stone,SCSO,RESISTING ARREST/ASSAULT SIMPLE - ON POLICEMAN MIN LINE OF DUTY,,,"$500.00; $30,000.00",4/8/19,4/15/19,7,Booking #: 1,Court: SCJC/ SCJC,4861,May-19
-Johnson,Damion,V,7/18/76,Stone,SCSO,BENCH WARRANT; CIRCUIT COURT,,,$0.00 ,4/9/19,4/15/19,6,Booking #: 3,Court: Circuit,4862,May-19
+Johnson,Damion,V,7/18/76,Stone,SCSO,BENCH WARRANT; CIRCUIT COURT,,,$0.00,4/9/19,4/15/19,6,Booking #: 3,Court: Circuit,4862,May-19
 Johnson,Terelle,A,3/10/89,Stone,SCSO,MURDER/PROBATION VIOLATION/CIRCUIT COURT BENCH WARRANT,,,$0.00; $0.00; $0.00,6/7/18,4/15/19,312,Booking #: 7,Court: Circuit/Curcuit/Circuit,4863,May-19
 Kent,Dwight,A,8/14/81,Stone,SCSO,CONTROLLED SUBSTANCE; AGGRAVATED TRAFFICKING IN CONTROLLED SUBSTANCES/ PAROLE VIOLATION/ SEATBELT VIOLATION/RAN A STOP SIGN/NO DRIVER LICENSE/NO INSURANCE/DRIVING WHILE LICENSE SUSPENDED/CARELESS DRIVING/SWITCHED TAG/GENERAL MISDEMEANOR CHARGE/ CIRCUIT COURT ORDER,,,"$125,000.00; $125,000.00; $0.00; $500.00: $500.00; $500.00; $500.00; $500.00; $500.00; $500.00; $500.00; $0.00",8/1/18,4/15/19,257,Booking #: 2,Court: SCJC/SCJC/Circuit/SCJC/SCJC/SCJC/SCJC/SCJC/SCJC/SCJC,4864,May-19
 King,Doniel,T,10/16/82,Stone,SCSO,BURGLARY - BREAKING AND ENTERING INNER DOOR OF DWELLING               / REVOKED BOND,,,"$2,500.00; $0.00",3/5/18,4/15/19,406,Booking #: 17,Court: SCJC WMC,4865,May-19
 Knight,Amanda,J,10/30/88,Stone,WPD,DUI 1ST/ REVOKED BOND WMC/ BOND SURRENDER,,,"$0.00; $0.00; $1,000.00",2/4/19,4/15/19,70,Booking #: 10,Court: WMC/ WMC/ WMC,4866,May-19
-Langston,Julian,,11/12/77,Stone,SCSO,STATUTORY RAPE,,,$0.00 ,3/19/19,4/15/19,27,Booking #: 6,Court: SCJC,4867,May-19
-Lee,William,,7/21/88,Stone,WPD,COURT ORDER 90 DAYS,,,$0.00 ,2/26/19,4/15/19,48,Booking #: 2,Court: WMC,4868,May-19
-Lizana,Matthew,E,6/6/79,Stone,SCSO,CIRCUIT COURT BENCH WARRANT,,,$0.00 ,12/4/18,4/15/19,132,Booking #: 2,Court: SCCC,4869,May-19
-Lyons,Alexander,C,10/26/91,Stone,SCSO,CIRCUIT COURT ORDER,,,$0.00 ,2/13/19,4/15/19,61,Booking #: 8,Court: Circuit,4870,May-19
-McCray,Cedrick,J,5/21/98,Stone,SCSO,CIRCUIT COURT ORDER,,,$0.00 ,4/2/19,4/15/19,13,Booking #: 6,Court: Circuit,4871,May-19
+Langston,Julian,,11/12/77,Stone,SCSO,STATUTORY RAPE,,,$0.00,3/19/19,4/15/19,27,Booking #: 6,Court: SCJC,4867,May-19
+Lee,William,,7/21/88,Stone,WPD,COURT ORDER 90 DAYS,,,$0.00,2/26/19,4/15/19,48,Booking #: 2,Court: WMC,4868,May-19
+Lizana,Matthew,E,6/6/79,Stone,SCSO,CIRCUIT COURT BENCH WARRANT,,,$0.00,12/4/18,4/15/19,132,Booking #: 2,Court: SCCC,4869,May-19
+Lyons,Alexander,C,10/26/91,Stone,SCSO,CIRCUIT COURT ORDER,,,$0.00,2/13/19,4/15/19,61,Booking #: 8,Court: Circuit,4870,May-19
+McCray,Cedrick,J,5/21/98,Stone,SCSO,CIRCUIT COURT ORDER,,,$0.00,4/2/19,4/15/19,13,Booking #: 6,Court: Circuit,4871,May-19
 McCray,Robin,E,1/25/85,Stone,SCSO,COMMERCIAL BURGLARY/ CIRCUIT COURT BENCH WARRANT/ SIMPLE ASSAULT-CAUSING BODILY INJURY,,,"$25,000.00; $0.00; $0.00",9/22/18,4/15/19,205,Booking #: 21,Court: Circuit/ Curcuit/ SCJC,4872,May-19
 McCray,Ronnie,C,10/2/74,Stone,SCSO,"ARMED ROBBERY/ KIDNAPPING/ AAGREVATED ASSAULT/ SIMPLE ASSAULT/ Assault, Simple-Causing Bodily Injury",,,"$2,000.00; $2,000.00; $1,000.00: $0.00; $0.00",10/5/18,4/15/19,192,Booking #: 12,Court: Stone County Circuit Court/Stone County Circuit Court/Stone County Circuit Court/SCJC/SCJC,4873,May-19
 Mouring,Stephen,D,1/18/93,Stone,SCSO,Grand Larceny/ PAROLE VIOLATION/ HOLD FOR ANOTHER AGENCY,,,"$5,000.00; $0.00; $0.00",2/9/19,4/15/19,65,Booking #: 2,Court: WMC/ CIRCUIT/ SCJC,4874,May-19
-Nicholson,Quintaro,J,9/1/91,Stone,PV DOC,PAROLE VIOLATION,,,$0.00 ,4/12/19,4/15/19,3,Booking #: 12,Court: Circuit,4875,May-19
+Nicholson,Quintaro,J,9/1/91,Stone,PV DOC,PAROLE VIOLATION,,,$0.00,4/12/19,4/15/19,3,Booking #: 12,Court: Circuit,4875,May-19
 Poole,Troy,L,8/16/71,Stone,WPD,TRESPASS LESS THAN LARCENY/ PAROLE VIOLATION/ REVOKED BOND/ HOLD FOR PEARL River CO,,,$0.00; $0.00; $0.00; $0.00,3/28/19,4/15/19,18,Booking #: 12,Court: SCJC/ Circuit/ WMC/ SCJC,4876,May-19
 Potts,James,B,9/23/93,Stone,WPD,CONTEMPT OF COURT/ PUBLIC DRUK,,,"$1,000.00; $0.00",4/14/19,4/15/19,1,Booking #: 11,Court: WMC/ WMC,4877,May-19
 Powell,Billie,S,9/17/79,Stone,SCSO,RECIEVING STOLEN PROPERTY/ SIMPLE POSSESSION OF CONTROLLED SUBSTANCE,,,"$10,000.00; $500.00",4/6/19,4/15/19,9,Booking #: 1,Court: SCJC/SCJC,4878,May-19
@@ -4884,14 +4884,14 @@ Scruggs,Anna,L,1/28/88,Stone,WPD,TRESPASS LESS THAN LARCENY/ COMMERCIAL BURGLARY
 Shoemaker,David,,4/7/79,Stone,SCSo,GRAND LARCENY,,,"$15,000.00 ",4/10/19,4/15/19,5,Booking #: 1,Court: SCJC,4883,May-19
 Simmons,Nickolus,E,1/13/91,Stone,SCSO,BURGLARY-VEHICLE/CIRCUIT COURT BENCH WARRANT/BOND SURRENDER,,,"$20,000.00; $0.00; $0.00",11/26/18,4/15/19,140,Booking #: 7,Court: SCJC/ Circuit/ Circuit,4884,May-19
 Strickland,Dustin,M,11/17/00,Stone,SCSO,ATTEMPTED RAPE/BURGLARY COMMERCIAL,,,"$250,000.00; $50,000.00",2/17/19,4/15/19,57,Booking #:1,Court: SCJC/ SCJC,4885,May-19
-Weems,Steven,L,12/28/93,Stone,SCSO,CIRCUIT COURT BENCH WARRANT,,,$0.00 ,12/14/18,4/15/19,122,Booking #: 3,Court: Circuit,4886,May-19
+Weems,Steven,L,12/28/93,Stone,SCSO,CIRCUIT COURT BENCH WARRANT,,,$0.00,12/14/18,4/15/19,122,Booking #: 3,Court: Circuit,4886,May-19
 Welsh,Spencer,W,2/17/88,Stone,WPD,ACCESSORY AFTER THE FACT,,,"$30,000.00 ",4/10/19,4/15/19,5,Booking #: 8,Court: WMC,4887,May-19
-Wiggins,Rashad,R,11/26/97,Stone,WPD,30 DAYS TO SERVE PER WMC,,,$0.00 ,4/9/19,4/15/19,6,Booking #: 2,Court: WMC,4888,May-19
-Woullard,Prince,A,12/6/94,Stone,SCSO,CIRCUIT COURT ORDER,,,$0.00 ,3/12/19,4/15/19,34,Booking #: 5,Court: Circuit,4889,May-19
+Wiggins,Rashad,R,11/26/97,Stone,WPD,30 DAYS TO SERVE PER WMC,,,$0.00,4/9/19,4/15/19,6,Booking #: 2,Court: WMC,4888,May-19
+Woullard,Prince,A,12/6/94,Stone,SCSO,CIRCUIT COURT ORDER,,,$0.00,3/12/19,4/15/19,34,Booking #: 5,Court: Circuit,4889,May-19
 Armstrong,Latanya,,,Sunflower,,Probation violation,,,,11/6/18,2/1/19,87,,,4890,May-19
 Beck,Marchello,Q,,Sunflower,,Shoplifting,,,,1/28/19,2/1/19,4,,,4891,May-19
 Benson,Charles,A,,Sunflower,,Burglary; all but dwelling/auto burglary,,,"$25,000.00 ",12/19/16,2/1/19,774,,,4892,May-19
-Buckner,Zymetrick,,,Sunflower,,Contempt of court municipal court; Simple Assult; False information or identification to law enforcement; threatening/intimidation,,,$75.00 ,1/29/19,2/1/19,3,,,4893,May-19
+Buckner,Zymetrick,,,Sunflower,,Contempt of court municipal court; Simple Assult; False information or identification to law enforcement; threatening/intimidation,,,$75.00,1/29/19,2/1/19,3,,,4893,May-19
 Carter,Daniel,D,,Sunflower,,Arson,,,"$50,000.00 ",12/31/18,2/1/19,32,,,4894,May-19
 Caston,Emanuel,A,,Sunflower,,Burglary-Commercial,,,"$25,000.00 ",1/17/19,2/1/19,15,Probable Cause-Hold for Investigation,,4895,May-19
 Clark,Dontae,T,,Sunflower,,Escape; Simple assult on a police officer; probation violation,,,"$50,000.00 ",1/23/19,2/1/19,9,,,4896,May-19
@@ -4957,31 +4957,31 @@ Thompson,Jamien,,,Tallahatchie,TCSD,paroled violate,,,,3/19/19,3/22/19,3,,,4955,
 Williams,George,,,Tallahatchie,TCSD,MDOC hold/taking of a motor vehicle,,,,9/29/18,3/22/19,174,,,4956,May-19
 Willis,Lavoris,,,Tallahatchie,MDOC,hold for court,,,,10/23/18,3/22/19,150,,,4957,May-19
 Wilson,Michael,,,Tallahatchie,TCSD,grand larceny,,,,2/7/19,3/22/19,43,,,4958,May-19
-Armstrong,Derrick Scott,,,Tate,Tate County Sheriff's Office,"Purchase, Possession Transfer or Distribution of Chemical with Intent toManufacture",,,$0.00 ,10/15/16,2/4/19,842,FileId: 893209; A/S/R: 42/M/C;  Court: MDOC; Location: State Building --> Rm. 3,,4959,May-19
+Armstrong,Derrick Scott,,,Tate,Tate County Sheriff's Office,"Purchase, Possession Transfer or Distribution of Chemical with Intent toManufacture",,,$0.00,10/15/16,2/4/19,842,FileId: 893209; A/S/R: 42/M/C;  Court: MDOC; Location: State Building --> Rm. 3,,4959,May-19
 Blaine,Benjamin Tyler,,,Tate,,"Burglary; Inhabited Dwelling House, Whether Armed or Not; Probation Violation WhetherOccupied or Not",,,$20000.00; $0.00,1/17/19,2/4/19,18,"FileId: 657699; A/S/R: 19/M/C;  Court: Justice/Circuit, Circuit Court; Location: Male Lockdown 206 --> 210",,4960,May-19
 Brannon,Jeremy Linn,,,Tate,Senatobia Police Department,Carless Driving; Driving with Suspended/revoked Driver's License; DUI - Third or Subsequent Conviction; Motor Vehicle; Expired Tage; No Insurance; Possession of Open Container (Senatobia City Ordinance,,,$0.00; $0.00; $25000.00; $0.00; $0.00; $0.00,7/3/18,2/4/19,216,FileId: 475908; A/S/R: 34/M/C;  Court: Circuit Court; Location: Pod 101,,4961,May-19
 Brown,Cody Scott,,,Tate,Tate County Sheriff's Office,Capital Murder; Conspiracy,,,$0.00; $0.00,10/26/18,2/4/19,101,FileId: 460803; A/S/R: 27/M/C;  Court: Circuit Court; Location: Pod 112 --> F,,4962,May-19
 Brown,Jeffery Adam,,,Tate,MDOC,"Controlled Substance-Sell, Transfer, Distribute, Possess With Intent to Sell; Felon in Possession of Firearm",,,$0.00; $0.00,4/7/17,2/4/19,668,FileId: 324810; A/S/R: 32/M/C;  Court: MDOC; Location: State Building --> Rm. 4,,4963,May-19
-Brown,John Edward,,,Tate,Tate County Sheriff's Office,Controlled Substance: Illegal Possession,,,$0.00 ,8/15/18,2/4/19,173,FileId: 801706; A/S/R: 51/M/C;  Court: MDOC; Location: Pod 112 --> A,,4964,May-19
+Brown,John Edward,,,Tate,Tate County Sheriff's Office,Controlled Substance: Illegal Possession,,,$0.00,8/15/18,2/4/19,173,FileId: 801706; A/S/R: 51/M/C;  Court: MDOC; Location: Pod 112 --> A,,4964,May-19
 Burton,Andre Lewayne,,,Tate,Senatobia Police Department,Burglary - All but Dwelling; Contempt of Court / Failure to Appear,,,$0.00; $0.00,10/30/18,2/4/19,97,"FileId: 184506; A/S/R: 28/M/A;  Court: Senatobia Municipal/Circuit, Curicut Court; Location: Pod 212",,4965,May-19
 Connor,Octavious Antonio,,,Tate,Tate County Sheriff's Office,"Bruglary; Inhabited Dwelling House, Whether Armed or Not, WhetherOccupied or Not; Fireign Warrant; Fugitive; Holding",,,$35000.00; $0.00,1/15/19,2/4/19,20,"FileId: 199112; A/S/R: 27/M/A;  Court: Justice/Circuit, Other Agency; Location: Pod 202",,4966,May-19
 Danner,Dekedrick Sherell,,,Tate,,"Aggravated Assault; upon a statewide elected offical, law enforcement officer, fireman, et al.; Robbery - Simple",,,$20000.00; $25000.00,8/21/18,2/4/19,167,FileId: 352309; A/S/R: 21/M/A;  Court: Circuit Court; Location: Male Lockdown 108 --> 105,,4967,May-19
-Davis,Deitrich Demon,,,Tate,Senatobia Police Department,Shoplifiting,,,$634.25 ,2/1/19,2/4/19,3,FileId: 445410; A/S/R: 38/M/A;  Court: Senatobia Municipal; Location: Podd 112 --> C,,4968,May-19
-Dickerson,Jeffery Allen,,,Tate,Tate County Sheriff's Office,Burglary - All But Dwelling,,,$0.00 ,1/25/18,2/4/19,375,FileId: 010509; A/S/R: 50/M/C;  Court: MDOC; Location: State Building --> Rm. 1,,4969,May-19
+Davis,Deitrich Demon,,,Tate,Senatobia Police Department,Shoplifiting,,,$634.25,2/1/19,2/4/19,3,FileId: 445410; A/S/R: 38/M/A;  Court: Senatobia Municipal; Location: Podd 112 --> C,,4968,May-19
+Dickerson,Jeffery Allen,,,Tate,Tate County Sheriff's Office,Burglary - All But Dwelling,,,$0.00,1/25/18,2/4/19,375,FileId: 010509; A/S/R: 50/M/C;  Court: MDOC; Location: State Building --> Rm. 1,,4969,May-19
 Doyle,Karnesha Varshun,,,Tate,Senatobia Police Department,Bond Surrender,,,"$100,000.00 ",1/31/19,2/4/19,4,FileId: 392910; A/S/R: 21/F/A;  Court: Senatobia Muncipal; Location: Pod 129,,4970,May-19
 Eason,Davonte Marquez,,,Tate,Coldwater Police Department,Murder,,,"$250,000.00 ",1/2/18,2/4/19,398,FileId: 604608; A/S/R: 17/M/A;  Court: Circuit Court Location: Pod 204,,4971,May-19
-Fletcher,Barbara Michelle,,,Tate,MDOC,Probation Violation,,,$0.00 ,12/6/18,2/4/19,60,FileId: 451312; A/S/R: 34/F/A;  Court: MDOC; Location: Pod 129,,4972,May-19
-Freeman,Justin,,,Tate,Senatobia Police Department,Simple Domestic Violence; Simple Domestic 1st & 2nd offense are misd. 3rdOffense is felony,,,$500.00 ,2/2/19,2/4/19,2,FileId: 114209; A/S/R: 32/M/C;  Court: Senatobia Municipal; Location: Pod 101,,4973,May-19
-Garth,Alponzo Cotez,,,Tate,Tate County Sheriff's Office,"Controlled Substance: Illegal Possession; Controlled Substance: Sale of Paraphrenalia/ deliver, sale, possess with intent",,,$0.00 ,8/5/16,2/4/19,913,FileId: 873107; A/S/R: 45/M/A;  Court: MDOC; Location: State Building-> Rm.13,,4974,May-19
-Givan,Robert Titell,,,Tate,,Robbery - Armed,,,$0.00 ,1/8/19,2/4/19,27,FileId: 569407; A/S/R: 19/M/A;  Court: Circuit; Location: Pod 214,,4975,May-19
-Hall,Jeremy Wayne,,,Tate,,"Controlled Substance-Sell, Transfer, Distribute, Possess With Intent to Sell; Grand Larceny, Motor Vehicle, Second or Subsequent Offense",,,$0.00 ,3/24/17,2/4/19,682,FileId: 049207; A/S/R: 33/M/C;  Court: MDOC; Location: State Building -> Rm. 2,,4976,May-19
+Fletcher,Barbara Michelle,,,Tate,MDOC,Probation Violation,,,$0.00,12/6/18,2/4/19,60,FileId: 451312; A/S/R: 34/F/A;  Court: MDOC; Location: Pod 129,,4972,May-19
+Freeman,Justin,,,Tate,Senatobia Police Department,Simple Domestic Violence; Simple Domestic 1st & 2nd offense are misd. 3rdOffense is felony,,,$500.00,2/2/19,2/4/19,2,FileId: 114209; A/S/R: 32/M/C;  Court: Senatobia Municipal; Location: Pod 101,,4973,May-19
+Garth,Alponzo Cotez,,,Tate,Tate County Sheriff's Office,"Controlled Substance: Illegal Possession; Controlled Substance: Sale of Paraphrenalia/ deliver, sale, possess with intent",,,$0.00,8/5/16,2/4/19,913,FileId: 873107; A/S/R: 45/M/A;  Court: MDOC; Location: State Building-> Rm.13,,4974,May-19
+Givan,Robert Titell,,,Tate,,Robbery - Armed,,,$0.00,1/8/19,2/4/19,27,FileId: 569407; A/S/R: 19/M/A;  Court: Circuit; Location: Pod 214,,4975,May-19
+Hall,Jeremy Wayne,,,Tate,,"Controlled Substance-Sell, Transfer, Distribute, Possess With Intent to Sell; Grand Larceny, Motor Vehicle, Second or Subsequent Offense",,,$0.00,3/24/17,2/4/19,682,FileId: 049207; A/S/R: 33/M/C;  Court: MDOC; Location: State Building -> Rm. 2,,4976,May-19
 Harris,David E,,,Tate,,"Burglary; Inhabited Dwelling House, Whether Armed or Not; WhetherOccupied or Not; Grand Larceny; Personal Property of Another ($250 or more); Parole Violation",,,$0.00; $25000.00; $0.00,11/13/18,2/4/19,83,"FileId: 367101; A/S/R: 48/M/A;  Court: Circuit Court, Circuit Court, MDOC; Location: Pod 212",,4977,May-19
 Harrison,Mark Stewart,,,Tate,,Explotation of Children; Touching Child for Lustful Purposes; Gratification; Molesting,,,$0.00; $0.00,8/31/17,2/4/19,522,"FileId: 691401; A/S/R: 60/M/C;  Court: Circuit Court, Justice/Circuit; Location: Pod 102",,4978,May-19
-Hawkins,James Amario,,,Tate,,Contempt of Court / Failure to Appear,,,$0.00 ,2/3/19,2/4/19,1,FileId: 907305; A/S/R: 39/M/A;  Court: Justice/Circuit ; Location: Pod 101,,4979,May-19
-Hickey,Timoth,,,Tate,,Contempt of Court / Failure to Appear,,,$0.00 ,11/16/18,2/4/19,80,FileId: 414407; A/S/R: 27/M/C;  Court: Circuit Court; Location: Male Lockdown 108 -> 107,,4980,May-19
-Hubbard,Danny,,,Tate,,Controlled Substance: Illegal Possession,,,$0.00 ,7/20/18,2/4/19,199,FileId: 927403; A/S/R: 46/M/A;  Court: Circuit Court; Location: State Building -> Rm. 12,,4981,May-19
-Ivy,Thaddous L,,,Tate,Senatobia Police Department,Profanity/drunkenness in Public Place,,,$500.00 ,1/28/19,2/4/19,7,FileId: 491304; A/S/R: 49/M/A;  Court: Senatobia Municipal ; Location: Pod 101,,4982,May-19
-Jackson,Davell,,,Tate,Tate County Sheriff's Office,Bond Surrender; Controlled Substance: Illegal Possession; Habitual Offender Sentenced to Life Imprisonment; Violation of Post Release Supervision,,,$0.00 ,10/30/18,2/4/19,97,FileId: 446307; A/S/R: 31/M/A;  Court: Circuit Court; Location: Pod 214,,4983,May-19
+Hawkins,James Amario,,,Tate,,Contempt of Court / Failure to Appear,,,$0.00,2/3/19,2/4/19,1,FileId: 907305; A/S/R: 39/M/A;  Court: Justice/Circuit ; Location: Pod 101,,4979,May-19
+Hickey,Timoth,,,Tate,,Contempt of Court / Failure to Appear,,,$0.00,11/16/18,2/4/19,80,FileId: 414407; A/S/R: 27/M/C;  Court: Circuit Court; Location: Male Lockdown 108 -> 107,,4980,May-19
+Hubbard,Danny,,,Tate,,Controlled Substance: Illegal Possession,,,$0.00,7/20/18,2/4/19,199,FileId: 927403; A/S/R: 46/M/A;  Court: Circuit Court; Location: State Building -> Rm. 12,,4981,May-19
+Ivy,Thaddous L,,,Tate,Senatobia Police Department,Profanity/drunkenness in Public Place,,,$500.00,1/28/19,2/4/19,7,FileId: 491304; A/S/R: 49/M/A;  Court: Senatobia Municipal ; Location: Pod 101,,4982,May-19
+Jackson,Davell,,,Tate,Tate County Sheriff's Office,Bond Surrender; Controlled Substance: Illegal Possession; Habitual Offender Sentenced to Life Imprisonment; Violation of Post Release Supervision,,,$0.00,10/30/18,2/4/19,97,FileId: 446307; A/S/R: 31/M/A;  Court: Circuit Court; Location: Pod 214,,4983,May-19
 Jackson,Geroge,,,Tate,Senatobia Police Department,Felon In Possession of a Firearm,,,"$5,000.00 ",12/6/18,2/4/19,60,FileId: 329610; A/S/R: 40/M/A;  Court: Senatobia Muncipal ; Location: Male Lockdown 206 -> 208,,4984,May-19
 Jackson,Quincy Antonio,,,Tate,Senatobia Police Department,Parole Violation; Tresspass after Notice of Non-premission,,,$0.00; $2000.00,1/31/19,2/4/19,4,"FileId: 900008; A/S/R: 37/M/A;  Court: MDOC, Senatobia Muncipal ; Location: Pod 212",,4985,May-19
 Jenkins,Fredrick Lee,,,Tate,MDOC,"Controlled Substance-Sell, Transfer, Distribute, Possess with Intent to Sell; Foreign Warrent;Fugitive;Holding",,,$0.00; $0.00,5/10/18,2/4/19,270,"FileId: 065003; A/S/R: 49/M/C;  Court: MDOC, Other Agency; Location: State Building -> Rm. 6",,4986,May-19
@@ -4990,49 +4990,49 @@ Johnson,Kevaunn Shuntarious,,,Tate,Tate County Sheriff's Office,Burglary - All B
 Latimer,McKenzie lanigan,,,Tate,,Bond Surrender; Burglary - All but Dwelling; Capital Murder; Conspiracy; Foreign Warrant Fugitive Holding,,,$0.00; $100000.00; $0.00; $0.00; $0.00,10/6/18,2/4/19,121,"FileId: 364907; A/S/R: 22/F/C;  Court: Circuit Court, Senatobia Municipal, Circuit Court, Circuit Court, Circuit Court",,4989,May-19
 Long,Robert Owen,,,Tate,,Taking Away of a Motor Vehicle,,,"$10,000.00 ",1/19/19,2/4/19,16,FileId: 730404; A/S/R: 31/M/C;  Court: Justice/Circuit; Location: Pod 202,,4990,May-19
 Manuel,Jerry Nolan,,,Tate,Senatobia Police Department,Aggravated Domestic Violence; Controlled Substance Violations; Disorderly Conduct; failure to to comply; Possession of Paraphernalia,,,$100000.00; $500.00; $500.00; $0.00,1/30/19,2/4/19,5,"FileId: 275201; A/S/R: 40/M/N;  Court: Senatobia Municipal/ Circuit,Senatobia Municipal/Circuit, Senatobia Municipal/Circuit.Senatobia Municipal/Circuit; Location: Male Lockdown 206 -> 207",,4991,May-19
-Mays,Demario Dewayne,,,Tate,MDOC,Probation Violation,,,$0.00 ,2/2/19,2/4/19,2,FileId: 081844; A/S/R: 27/M/A;  Court: MDOC; Location: Pod 212,,4992,May-19
-McDaniel,Michael Stanley,,,Tate,,Receiving Stolen Property,,,$0.00 ,12/15/17,2/4/19,416,FileId: 902012; A/S/R: 34/M/C; Court: MDOC; Location: State Building --> Rm. 14,,4993,May-19
-McMahon,Christopher,,,Tate,,Controlled Substance: Illegal Possession,,,$0.00 ,12/22/15,2/4/19,1140,FileId: 604210; A/S/R: 41/M/A; Court: MDOC; Location: State Building --> Rm. 8,,4994,May-19
-Moore,Christopher Eli,,,Tate,Tate County Sheriff's Office,DUI - Second Conviction,,,$0.00 ,1/26/19,2/4/19,9,FileId: 076307; A/S/R: 22/M/C; Court: Justice; Location: Pod 101,,4995,May-19
+Mays,Demario Dewayne,,,Tate,MDOC,Probation Violation,,,$0.00,2/2/19,2/4/19,2,FileId: 081844; A/S/R: 27/M/A;  Court: MDOC; Location: Pod 212,,4992,May-19
+McDaniel,Michael Stanley,,,Tate,,Receiving Stolen Property,,,$0.00,12/15/17,2/4/19,416,FileId: 902012; A/S/R: 34/M/C; Court: MDOC; Location: State Building --> Rm. 14,,4993,May-19
+McMahon,Christopher,,,Tate,,Controlled Substance: Illegal Possession,,,$0.00,12/22/15,2/4/19,1140,FileId: 604210; A/S/R: 41/M/A; Court: MDOC; Location: State Building --> Rm. 8,,4994,May-19
+Moore,Christopher Eli,,,Tate,Tate County Sheriff's Office,DUI - Second Conviction,,,$0.00,1/26/19,2/4/19,9,FileId: 076307; A/S/R: 22/M/C; Court: Justice; Location: Pod 101,,4995,May-19
 Murry,Reginald Jaleel,,,Tate,,"Burglary; Inhabited Dwelling House, Whether Armed or Not, WhetherOccupied or Not",,,"$35,000.00 ",1/17/19,2/4/19,18,FileId: 066201; A/S/R: 28/M/A; Court: Justice/Circuit,,4996,May-19
 Neel,Terry Wayne,,,Tate,,Explotation of Children,,,"$150,000.00 ",9/17/18,2/4/19,140,FileId: 662006; A/S/R: 58/M/C; Court: Justice; Location: Pod 102,,4997,May-19
-Pounds,Christopher M,,,Tate,,Larceny - Petit,,,$500.00 ,2/3/19,2/4/19,1,FileId: 773807; A/S/R: 31/M/C; Court: Justice; Location: Pod 202,,4998,May-19
+Pounds,Christopher M,,,Tate,,Larceny - Petit,,,$500.00,2/3/19,2/4/19,1,FileId: 773807; A/S/R: 31/M/C; Court: Justice; Location: Pod 202,,4998,May-19
 Pugh,James David,,,Tate,Tate County Sheriff's Office,Felon In Possession of a Firearm,,,"$25,000.00 ",12/14/18,2/4/19,52,FileId: 259403; A/S/R: 45/M/C; Court: Circuit Court; Location: Pod 112 --> B,,4999,May-19
 Redd,Buddy Wayne,,,Tate,,Carjacking/Attempted Carjacking; Foreigon Warrent; Fugitive; Holding; Robbery,,,$30000.00; $0.00,6/5/18,2/4/19,244,"FileId: 437609; A/S/R: 26/M/C; Court: Justice/Circuit, Desoto County, Circuit/Justice; Location: Pod 202",,5000,May-19
 Richardson,Anthony William,,,Tate,,Touching Child for Lustful Purposes; Gratification; Molesting,,,"$25,000.00 ",3/30/18,2/4/19,311,FileId: 490107; A/S/R: 45/M/C; Court: Circuit Court; Location: Pod 102,,5001,May-19
 Robinson,Daniel Deon Cash,,,Tate,,Conspiracy; Shoplifting; Third or subsequent shoplifiting convition.,,,$0.00; $0.00,1/28/19,2/4/19,7,"FileId: 521301; A/S/R: 25/M/A; Court: Circuit Court, Circuit Court; Location: Pod 202",,5002,May-19
-Rozell,Schamont,,,Tate,,Controlled Substance: Illegal Possession,,,$0.00 ,5/10/18,2/4/19,270,FileId: 185805; A/S/R: 42/M/A; Court: MDOC; Location: State Builing --> Rm. 7,,5003,May-19
-Saulsberry,Gerald Jecoby,,,Tate,,Contempt of Drug Court,,,$0.00 ,9/28/18,2/4/19,129,FileId: 497603; A/S/R: 38/M/A; Court: Circuit Court; Location: State Builing --> Rm. 12,,5004,May-19
+Rozell,Schamont,,,Tate,,Controlled Substance: Illegal Possession,,,$0.00,5/10/18,2/4/19,270,FileId: 185805; A/S/R: 42/M/A; Court: MDOC; Location: State Builing --> Rm. 7,,5003,May-19
+Saulsberry,Gerald Jecoby,,,Tate,,Contempt of Drug Court,,,$0.00,9/28/18,2/4/19,129,FileId: 497603; A/S/R: 38/M/A; Court: Circuit Court; Location: State Builing --> Rm. 12,,5004,May-19
 Spencer,John Robert,,,Tate,,DUI - Third or Subsequent Conviction; Motor Vehicle Violation-No License,,,$5000.00; $0.00,12/19/18,2/4/19,47,"FileId: 252810; A/S/R: 38/M/C; Court: Justice, Justice; Location: Pod 101",,5005,May-19
-Spencer,Reno Maguel,,,Tate,,"Controlled Substance-Sell, Transfer, Distribute, Possess With Intent to Sell",,,$0.00 ,5/1/18,2/4/19,279,FileId: 893302; A/S/R: 40/M/A; Court: MDOC; Location: State Building --> Rm. 10,,5006,May-19
+Spencer,Reno Maguel,,,Tate,,"Controlled Substance-Sell, Transfer, Distribute, Possess With Intent to Sell",,,$0.00,5/1/18,2/4/19,279,FileId: 893302; A/S/R: 40/M/A; Court: MDOC; Location: State Building --> Rm. 10,,5006,May-19
 Totten,Alec Charles,,,Tate,Senatobia Police Department,Burglary - All But Dwelling,,,"$100,000.00 ",1/28/19,2/4/19,7,FileId: 826605; A/S/R: 19/M/C; Court: Senatobia Municipal.Circuit; Location: Pod 202,,5007,May-19
 Washington,Mark Christopher,,,Tate,Tate County Sheriff's Office,DUI - Third or Subsequent Conviction; Fleeing or eluding a law enforcement officer in a motor vehicle; Foreign Warrant; Fugitive; Holding; Motor Vehicle Violation-No License; No Insurance; Reckless Driving,,,$1000.00; $0.00; $0.00$0.00; $0.00; $0.00,3/3/18,2/4/19,338,FileId: 074402; A/S/R: 50/M/A; Court: Justice/Circuit; Justice; Other Agency; Justice; Justice; Justice,,5008,May-19
-Webb,Christopher Scott,,,Tate,,Writ to Take Custody,,,$0.00 ,2/1/19,2/4/19,3,FileId: 85067; A/S/R: 25/M/C; Court: Chancery Court; Location: Male Lockdown 108 --> 106,,5009,May-19
-Welch,Quentin Adam,,,Tate,Panola County Sheriff's Office,"Controlled Substance -Unlawful to Purchase,Possess,Transfer,DistributePrecursor Chems w/Intent to Mfg a C/S",,,$0.00 ,8/15/18,2/4/19,173,FileId: 413903; A/S/R: 45/M/C; Court: Senatobia Muncipal/Circuit; Location: Pod 214,,5010,May-19
-Wilborn,James Earl,,,Tate,Tate County Sheriff's Office,Probation Violation,,,$0.00 ,9/15/18,2/4/19,142,FileId: 437304; A/S/R: 50/M/A; Court: Circuit Court; Location: Pod 212,,5011,May-19
-Wilkins,Brian Jerome,,,Tate,,Violation of Post Release Supervision,,,$0.00 ,1/23/19,2/4/19,12,FileId: 027112; A/S/R: 36/M/A; Court: Circuit Court,,5012,May-19
+Webb,Christopher Scott,,,Tate,,Writ to Take Custody,,,$0.00,2/1/19,2/4/19,3,FileId: 85067; A/S/R: 25/M/C; Court: Chancery Court; Location: Male Lockdown 108 --> 106,,5009,May-19
+Welch,Quentin Adam,,,Tate,Panola County Sheriff's Office,"Controlled Substance -Unlawful to Purchase,Possess,Transfer,DistributePrecursor Chems w/Intent to Mfg a C/S",,,$0.00,8/15/18,2/4/19,173,FileId: 413903; A/S/R: 45/M/C; Court: Senatobia Muncipal/Circuit; Location: Pod 214,,5010,May-19
+Wilborn,James Earl,,,Tate,Tate County Sheriff's Office,Probation Violation,,,$0.00,9/15/18,2/4/19,142,FileId: 437304; A/S/R: 50/M/A; Court: Circuit Court; Location: Pod 212,,5011,May-19
+Wilkins,Brian Jerome,,,Tate,,Violation of Post Release Supervision,,,$0.00,1/23/19,2/4/19,12,FileId: 027112; A/S/R: 36/M/A; Court: Circuit Court,,5012,May-19
 Windsor,Keith Alan,,,Tate,Mississippi Highway Patrol,Carless Driving; Driving with Suspended/revoked Driver's License; DUI - Third or Subsequent Conviction; No Insurance; Speeding on Local Highways; establishment of speed limit by local authorities,,,$300.00; $500.00; $0.00; $750.00,1/29/19,2/4/19,6,"FileId: 655411; A/S/R: 38/M/C; Court: Justice, Justice, Justice/Circuit, Justice; Location: Pod 101",,5013,May-19
 Wooten,Calvin Adrian,,,Tate,Senatobia Police Department,Profanity/drunkenness in Public Place; Simple Assault/ Aggrav Assault; Domestic Violence,,,$500.00; $0.00,11/16/18,2/4/19,80,FileId: 893302; A/S/R: 40/M/A; Court: MDOC; Location: State Building --> Rm. 18,,5014,May-19
 Alexander,Ashanti,,,Tippah,,hold for other agency; hold for other agency,,,$0; $0,1/25/19,2/6/19,12,,,5015,May-19
 Allen,Cortez Darel,D,,Tippah,,hold for a circuit court; rape; speeding; driving while licensed suspended or revoked; no/expired driver's license,,,"$0; $10,000; $213.50; $333.50; $163.50",1/18/19,2/6/19,19,,,5016,May-19
-Borden,Stacy,,,Tippah,,probation violation,,,$0.00 ,1/24/19,2/6/19,13,,,5017,May-19
+Borden,Stacy,,,Tippah,,probation violation,,,$0.00,1/24/19,2/6/19,13,,,5017,May-19
 Boyd,Sedabris,,,Tippah,,hold for questioning; attempted crime,,,$0; $0,11/2/17,2/9/19,464,,,5018,May-19
 Caldwell,Jacquelyn,,,Tippah,,murder,,,"$200,000.00 ",10/25/18,2/6/19,104,,,5019,May-19
 Camburn,Tyler,L,,Tippah,,contempt of court; hold for other agency; hold for other agency,,,$355.75; $0; $0,1/26/19,2/6/19,11,,,5020,May-19
-Clemmer,Drestin,,,Tippah,,contempt of court,,,$0.00 ,11/9/18,2/6/19,89,,,5021,May-19
+Clemmer,Drestin,,,Tippah,,contempt of court,,,$0.00,11/9/18,2/6/19,89,,,5021,May-19
 Cox,Angie Polly,P,,Tippah,,simple assault- domestic violence; chancery order,,,"$1,000; $0",1/29/19,2/6/19,8,,,5022,May-19
-Gray,Crystal,,,Tippah,,shoplifting,,,$750.00 ,2/5/19,2/6/19,1,,,5023,May-19
-Gunn,Cedric Deon,D,,Tippah,,hold for agency,,,$0.00 ,2/15/18,2/10/19,360,,,5024,May-19
-Hamer,Kedarius,,,Tippah,,Hold for circuit court; capias warrant,,,$0.00 ,9/23/18,2/6/19,136,,,5025,May-19
+Gray,Crystal,,,Tippah,,shoplifting,,,$750.00,2/5/19,2/6/19,1,,,5023,May-19
+Gunn,Cedric Deon,D,,Tippah,,hold for agency,,,$0.00,2/15/18,2/10/19,360,,,5024,May-19
+Hamer,Kedarius,,,Tippah,,Hold for circuit court; capias warrant,,,$0.00,9/23/18,2/6/19,136,,,5025,May-19
 Hamer,Thomas,,,Tippah,,murder; murder; capias warrant,,,$0; $0; $0,7/10/17,2/8/19,578,,,5026,May-19
-Hassell,Abra Dale,D,,Tippah,,Hold for other agency,,,$0.00 ,9/19/18,2/6/19,140,,,5027,May-19
+Hassell,Abra Dale,D,,Tippah,,Hold for other agency,,,$0.00,9/19/18,2/6/19,140,,,5027,May-19
 Holmes,John Payton,P,,Tippah,,Hold for other agency; Burglary commercial; burglary commercial; burglary commercial;capias,,,"$0; $10,000; $7,500; $7,500; $0",5/29/18,2/6/19,253,,,5028,May-19
-Kendall,Jason Lynn,L,,Tippah,,hold for other agency,,,$0.00 ,9/21/18,2/6/19,138,,,5029,May-19
+Kendall,Jason Lynn,L,,Tippah,,hold for other agency,,,$0.00,9/21/18,2/6/19,138,,,5029,May-19
 Lewis,Jacob,,,Tippah,,grand larceny; murder,,,"$5,000; $200,000",10/23/18,2/6/19,106,,,5030,May-19
 Little,William Colt,C,,Tippah,,Burglary breaking and entering; burglary breaking and entering; hold for agency,,,"$5,000; $5,000; $0",1/2/19,2/6/19,35,,,5031,May-19
-McDonald,Derric,,,Tippah,,capias warrant,,,$0.00 ,1/29/19,2/6/19,8,,,5032,May-19
+McDonald,Derric,,,Tippah,,capias warrant,,,$0.00,1/29/19,2/6/19,8,,,5032,May-19
 McKnight,Antonio,A,,Tippah,,robbery b. victim injury; aggravated assault,,,"$50,000; $50,000;",1/21/19,2/7/19,17,,,5033,May-19
-Michael,Tristan,,,Tippah,,hold for other agency,,,$0.00 ,1/9/19,2/6/19,28,,,5034,May-19
+Michael,Tristan,,,Tippah,,hold for other agency,,,$0.00,1/9/19,2/6/19,28,,,5034,May-19
 Morgan,Russell,,,Tippah,,Hold for other agency; possession of weapon by convicted felon,,,"$0; $10,000",1/17/19,2/6/19,20,,,5035,May-19
 Mullins,Blanchard,,,Tippah,,possession of controlled substance; hold for questioning; arson- dwelling,,,"$5,000; $0; $15,000",2/2/19,2/6/19,4,,,5036,May-19
 Pannell,Cameron,,,Tippah,,rape-statutory ; hold for circuit court; capias warrnat,,,"$40,000;$0; $0",4/5/18,2/11/19,312,,,5037,May-19
@@ -5040,16 +5040,16 @@ Purser,Jimmy Louis,L,,Tippah,,domestic violence - aggravated assualt; Hold for c
 Reed,Jeremy Lynn,L,,Tippah,,possessioin of controlled substance; possession of paraphernalia; probation violation,,,"$5,000; $500; $0",1/22/19,2/6/19,15,,,5039,May-19
 Robinson,Jonathan,,,Tippah,,Hold for other agency; hold for agency,,,$0; $0,1/25/19,2/6/19,12,,,5040,May-19
 Rutherford,Terren,,,Tippah,,armed robbery; hold for circuit,,,"$50,000; $0",1/8/19,2/6/19,29,,,5041,May-19
-Sanderson,Christo,,,Tippah,,failure to pay child support,,,$0.00 ,1/30/19,2/6/19,7,,,5042,May-19
+Sanderson,Christo,,,Tippah,,failure to pay child support,,,$0.00,1/30/19,2/6/19,7,,,5042,May-19
 Shelton,Elijah,A,,Tippah,,Burglary breaking and entering; disturbance of a family,,,"$10,000; $299.75",1/19/19,2/6/19,18,,,5043,May-19
 Stanford Jr.,Steven,,,Tippah,,public drunk; disorderly conduct; hold for other agency; simple assault on officer,,,"$275; $500; $0; $5,000",1/29/19,2/6/19,8,,,5044,May-19
 Thornton,Dewey,,,Tippah,,willful trespass; simple assault to create fear,,,$0;$0,2/2/19,2/6/19,4,,,5045,May-19
 Tipler Jr.,Dexter,,,Tippah,,"stolen property, possession,sale, transfer or firearm; c/s- possession or sell of marijuana -felony; no/ expired drivers license; no insurance; capias warrant",,,"$10,000; $10,000; $250; $750; $$0",4/15/18,2/12/19,303,,,5046,May-19
 Vuncannon,Crystal,,,Tippah,,possession of weapon; possession of paraphernalia;,,,"$10,000; $500",1/15/19,2/6/19,22,,,5047,May-19
-Watkins,Cory Wayn,W,,Tippah,,parole violation- convicts who violate terms of parole,,,$0.00 ,2/1/19,2/6/19,5,,,5048,May-19
+Watkins,Cory Wayn,W,,Tippah,,parole violation- convicts who violate terms of parole,,,$0.00,2/1/19,2/6/19,5,,,5048,May-19
 Wood,Roger,E,,Tippah,,Disorderly conduct/ failure to comply; possession of paraphernalia; possession of controlled substance; probation violation,,,"$500; $500; $5,000; $0",12/28/18,2/6/19,40,,,5049,May-19
 Woods,David Allen,A,,Tippah,,Stalking; harrasing; hold for other agency; probation violation; stalking,,,"$5,000; $2,500; $0; $0; $5,000",12/21/18,2/6/19,47,,,5050,May-19
-West,Larry,J,10/3/61,Tishomingo,,"controlled substance- possession of paraphernalia ; Trespassing- entering lands of another without permission; prisions- sale , possession, or use of controlled substances or narcotic drugs with correctional facility ; obstruction- tampering with physical evidence; controlled substance- possession of schedule I or II - 1/10th gram - 2 grams or 2 - 10 dosage units",,,"$1,300; $1,200; $10,000; $; $0",1/1/19,1/14/19,13,,,5051,May-19
+West,Larry,J,10/3/61,Tishomingo,,"controlled substance- possession of paraphernalia ; Trespassing- entering lands of another without permission; prisions- sale, possession, or use of controlled substances or narcotic drugs with correctional facility ; obstruction- tampering with physical evidence; controlled substance- possession of schedule I or II - 1/10th gram - 2 grams or 2 - 10 dosage units",,,"$1,300; $1,200; $10,000; $; $0",1/1/19,1/14/19,13,,,5051,May-19
 Barnes,Kyson,R,9/12/01,Tishomingo,,Grand larceny; grand larceny; hold for other agency,,,$0; $0; $0,8/7/18,1/14/19,160,,,5052,May-19
 Blankey,Daryl,W,3/29/83,Tishomingo,,hhold for other agency; hold for other agency; hold for other agency; old for other agency; possession of controlled substance; receiving stolen property; taking of motor vehicle,,,"$0; $0; $0; $0; $5,000; $0; $10,000",11/24/18,1/14/19,51,,,5053,May-19
 Blankey,Morgan,C,6/28/99,Tishomingo,,"license, driving while revoked or suspended; Hold; detainer for MDOC; weapons-possession of firearm or other weapons b y convicted felon",,,"$800; $0; $5,000",1/5/19,1/14/19,9,,,5054,May-19
@@ -5057,20 +5057,20 @@ Bohn,Jodi,M,3/22/81,Tishomingo,,Driving while license suspended ; no prooof of l
 Brown,Donald,J,7/12/65,Tishomingo,,DUI- 2nd offense,,,"$3,729.00 ",1/11/19,1/14/19,3,,,5056,May-19
 Cooksey,James,A,10/5/65,Tishomingo,,justice warrant; Hold for MDOC; domestic violence- aggravated assault,,,"$1,000; $0; $10,000",9/26/18,1/14/19,110,,,5057,May-19
 Dykes,Anthony,K,11/14/94,Tishomingo,,controlled substance; controlled substance-simple possession of marijuana - less than 30 grams,,,"$1,300; $1,300",1/1/19,1/14/19,13,,,5058,May-19
-Edge,Marcus,H,10/11/72,Tishomingo,,Hold for MDOC,,,$0.00 ,11/27/18,1/14/19,48,,,5059,May-19
-Garrett,Charles,A,11/4/74,Tishomingo,,cyberstalking/ email threats and harrasment,,,$0.00 ,11/9/18,1/14/19,66,,,5060,May-19
+Edge,Marcus,H,10/11/72,Tishomingo,,Hold for MDOC,,,$0.00,11/27/18,1/14/19,48,,,5059,May-19
+Garrett,Charles,A,11/4/74,Tishomingo,,cyberstalking/ email threats and harrasment,,,$0.00,11/9/18,1/14/19,66,,,5060,May-19
 Garrett,Christopher,J,6/13/90,Tishomingo,,controlled substance: possession of schedule I or II- 10 or 30 grams or 20-40 dosage units; weapons: possession  of firearm or other weapons by convicted felon,,,"$10,000; $0",1/10/19,1/14/19,4,,,5061,May-19
 Gilbert,Thomas,T,6/21/78,Tishomingo,,failure to register as sex offender,,,"$25,000.00 ",10/31/18,1/14/19,75,,,5062,May-19
 Gray,Steven,,8/22/77,Tishomingo,,Grand larceny,,,"$50,000.00 ",8/25/18,1/14/19,142,,,5063,May-19
 Green,Jesse,J,10/23/79,Tishomingo,,"hold for other agency; luka warrant; hold for agency; hold for agency; old for agency; receiving stole property - [value ver $5,000 but less than $25,000]",,,"$0; $1,500; $0; $0; $0; $10,000",10/19/18,1/14/19,87,,,5064,May-19
 Hamm,Jonathan,D,1/9/91,Tishomingo,,escape; taking or motor vehicle; possession of controlled substance; justice warrant;Hold for MDOC; Hold for other agency Hold for other agency; capias warrant; capias warrant,,,"$50,000; $0; $2,500; $2,500; $0; $0; $0; $5,000; $0",11/7/17,1/14/19,433,,,5065,May-19
-Heavener,Jason,L,12/6/84,Tishomingo,,Receiving stolen property- felony,,,$0.00 ,5/25/18,1/14/19,234,,,5066,May-19
+Heavener,Jason,L,12/6/84,Tishomingo,,Receiving stolen property- felony,,,$0.00,5/25/18,1/14/19,234,,,5066,May-19
 Jackson,Travis,A,4/17/80,Tishomingo,,capias warrant; hold for MDOC,,,"$20,000; $",9/10/18,1/14/19,126,,,5067,May-19
 Lanier,Rusell,,1/8/75,Tishomingo,,family disturbance; murder,,,"$1,200; $500,000",12/25/18,1/14/19,20,,,5068,May-19
-Lee,Lonnie,L,2/13/81,Tishomingo,,child abuse,,,$0.00 ,9/14/18,1/14/19,122,,,5069,May-19
-Lindley,John,R,12/18/81,Tishomingo,,hold for other agency,,,$0.00 ,7/23/18,1/14/19,175,,,5070,May-19
+Lee,Lonnie,L,2/13/81,Tishomingo,,child abuse,,,$0.00,9/14/18,1/14/19,122,,,5069,May-19
+Lindley,John,R,12/18/81,Tishomingo,,hold for other agency,,,$0.00,7/23/18,1/14/19,175,,,5070,May-19
 Lynch,Jana,F,7/22/74,Tishomingo,,possession of controlled substance,,,"$5,000.00 ",12/12/18,1/14/19,33,,,5071,May-19
-McCagren,Brian,,7/8/88,Tishomingo,,hold for other agency,,,$0.00 ,11/19/18,1/14/19,56,,,5072,May-19
+McCagren,Brian,,7/8/88,Tishomingo,,hold for other agency,,,$0.00,11/19/18,1/14/19,56,,,5072,May-19
 McVay,William,L,7/31/83,Tishomingo,,retaliation against a public servant; old for MDOC,,,"$100,000; $0",10/8/18,1/14/19,98,,,5073,May-19
 Moss,Bently,L,2/2/81,Tishomingo,,Burglary:breaking and entering dwelling house,,,"$25,000.00 ",12/27/18,1/14/19,18,,,5074,May-19
 Pendergrass,Brandon,,1/20/89,Tishomingo,,luka warranmt; luka warrant; luka warrant; capias warrant,,,"$0; $0; $0; $1,000",6/20/18,1/14/19,208,,,5075,May-19
@@ -5079,84 +5079,84 @@ Rice,Samuel,J,2/26/85,Tishomingo,,"grand larceny; possession of controlled subst
 Scott,Ryan,D,2/22/94,Tishomingo,,luka warrant; justice warrant; burglary of a commercial building or vehicle,,,"$0; $0; $8,000",8/8/18,1/14/19,159,,,5078,May-19
 Shearon,Jeremy,L,5/3/72,Tishomingo,,domestic violence- aggravated assault; capias warrant,,,"$5,000; $5,000",11/6/17,1/14/19,434,,,5079,May-19
 Spencer,Roberto,L,8/15/75,Tishomingo,,possession of controlled substance; introduction of contraband to correctional facity,,,"$5,000; $5,000",12/21/18,1/14/19,24,,,5080,May-19
-Swords,Marty,N,7/31/67,Tishomingo,,Hold for other agency,,,$0.00 ,6/12/18,1/14/19,216,,,5081,May-19
-Thompson,Sarah,,7/2/83,Tishomingo,,,,,$0.00 ,9/13/18,1/14/19,123,,,5082,May-19
+Swords,Marty,N,7/31/67,Tishomingo,,Hold for other agency,,,$0.00,6/12/18,1/14/19,216,,,5081,May-19
+Thompson,Sarah,,7/2/83,Tishomingo,,,,,$0.00,9/13/18,1/14/19,123,,,5082,May-19
 Thompson,Timothy,L,9/26/83,Tishomingo,,Introduction of contraband into correctional facilty; MDOC hold,,,"$5,000; $0",12/3/18,1/14/19,42,,,5083,May-19
-Vandiver,Joshua,D,3/20/80,Tishomingo,,Hold; detainer for other agency,,,$0.00 ,1/3/19,1/14/19,11,,,5084,May-19
+Vandiver,Joshua,D,3/20/80,Tishomingo,,Hold; detainer for other agency,,,$0.00,1/3/19,1/14/19,11,,,5084,May-19
 Wardlow,Jamie,L,9/11/90,Tishomingo,,Bond surrender; bench warrant,,,"$1,300; $0",1/14/19,1/14/19,0,,,5085,May-19
-Watts,Jordan,C,12/31/97,Tishomingo,,burglary of of commercial building or vehicle,,,$0.00 ,2/5/17,1/14/19,708,,,5086,May-19
+Watts,Jordan,C,12/31/97,Tishomingo,,burglary of of commercial building or vehicle,,,$0.00,2/5/17,1/14/19,708,,,5086,May-19
 West,Lisa,M,1/3/76,Tishomingo,,Bench warrant; controlled substance-possession of paraphernalia; trepass - entering lands of another ithout permission,,,"$0; $1,300; $1,200",1/1/19,1/14/19,13,,,5087,May-19
-White,Brice,A,1/21/98,Tishomingo,,Hold for MDOC,,,$0.00 ,11/28/18,1/14/19,47,,,5088,May-19
+White,Brice,A,1/21/98,Tishomingo,,Hold for MDOC,,,$0.00,11/28/18,1/14/19,47,,,5088,May-19
 Whitehead,Misty,R,2/22/78,Tishomingo,,Hold for MDOC; Hold for other agency,,,$0; $0,9/1/18,1/14/19,135,,,5089,May-19
 Wilson,Danny,L,1/18/65,Tishomingo,,Driving while license suspended; improper equiptment; open container; no proof of liability equiptment; Tampering with physical evidence; possession of controlled substance; possession of controlled substance; Hold for MDOC,,,"$800; $400; $460; $1,400; $50,000; $0; $0; $0",11/23/18,1/14/19,52,,,5090,May-19
-Young,Jason,B,6/19/75,Tishomingo,,capias warrant,,,$0.00 ,11/10/18,1/14/19,65,,,5091,May-19
-BAKER,THOMAS,,,Tunica,,FOREIGN WARRANT; FUGITIVE; HOLDING/FELONY,,,$0.00 ,11/4/18,3/28/19,144,,,5092,May-19
+Young,Jason,B,6/19/75,Tishomingo,,capias warrant,,,$0.00,11/10/18,1/14/19,65,,,5091,May-19
+BAKER,THOMAS,,,Tunica,,FOREIGN WARRANT; FUGITIVE; HOLDING/FELONY,,,$0.00,11/4/18,3/28/19,144,,,5092,May-19
 BEASLEY,TOMMY LEE,,,Tunica,,FAILURE TO YIELD TO AUTHORIZED EMERGENCY VEHICLE/M; DUI - FIRST OFFENSE DUI/MISDEMEANOR; FOREIGN WARRANT; FUGITIVE; HOLDING/FELONY,,,"$4,600.00 ",3/28/19,3/28/19,0,,,5093,May-19
 BELL,TREMAIN,,,Tunica,,"FOREIGN WARRANT; FUGITIVE; HOLDING/FELONY; BURGLARY; INHABITED DWELLING HOUSE, WHETHER ARMED",,,"$20,000.00 ",3/13/19,3/28/19,15,,,5094,May-19
 BLAND,JOSEPH,,,Tunica,,MURDER/FELONY,,,"$600,000.00 ",2/23/17,3/28/19,763,,,5095,May-19
 BOGUE,KAYLEE NEVILLE,,,Tunica,,FOREIGN WARRANT; FUGITIVE;HOLDING/FELONY; RECEIVING STOLEN PROPERTY/UNKNOWN,,,"$20,000.00 ",3/6/19,3/28/19,22,,,5096,May-19
 BOWEN,MACK,A,,Tunica,,FOREIGN WARRANT; FUGITIVE;HOLDING/FELONY; AGGRAVATED ASSAULT/FELONY,,,"$75,000.00 ",12/19/18,3/28/19,99,,,5097,May-19
 BULLINS,CHRISTOPHER,F,,Tunica,,FOREIGN WARRANT; FUGITIVE;HODLING/FELONY; RECEIVING STOLEN PROPERTY/UNKNOWN,,,"$25,000.00 ",3/6/19,3/28/19,22,,,5098,May-19
-CAMPER,ANZIO,F,,Tunica,,PROBATION VIOLATION/UNKNOWN,,,$0.00 ,8/21/18,3/28/19,219,,,5099,May-19
+CAMPER,ANZIO,F,,Tunica,,PROBATION VIOLATION/UNKNOWN,,,$0.00,8/21/18,3/28/19,219,,,5099,May-19
 DAVIS,DEMARIO,D,,Tunica,,ROBBERY - ARMED/FELONY; POSSESSION OF STOLEN FIREARM/FELONY; CONSPIRACY/UNKNOWN,,,"$90,000.00 ",1/28/19,3/28/19,59,,,5100,May-19
-FRAZIER,RECARDO RANDELL,,,Tunica,,MURDER/FELONY,,,$0.00 ,6/26/15,3/28/19,1371,,,5101,May-19
+FRAZIER,RECARDO RANDELL,,,Tunica,,MURDER/FELONY,,,$0.00,6/26/15,3/28/19,1371,,,5101,May-19
 GARRETT,LANDERIUS,,,Tunica,,"BURGLARY; INHABITIED DWELLING HOUSE, WHETHER ARMED ; ATTEMPTED CRIME/UNKNOWN",,,"$70,000.00 ",5/22/18,3/28/19,310,,,5102,May-19
-GRAY,THOMAS,R,,Tunica,,FOREIGN WARRANT;FUGITIVE;HOLDING/FELONY,,,$0.00 ,11/5/18,3/28/19,143,,,5103,May-19
+GRAY,THOMAS,R,,Tunica,,FOREIGN WARRANT;FUGITIVE;HOLDING/FELONY,,,$0.00,11/5/18,3/28/19,143,,,5103,May-19
 "HILLARD, JR",CARLOS,,,Tunica,,AGGRAVATED ASSAULT/ FELONY,,,"$100,000.00 ",12/18/18,3/28/19,100,,,5104,May-19
-"Hillard, Jr",JARVIS MONTRELL,,,Tunica,,FOREIGN WARRANT; FUGITIVE; HOLDING/FELONY,,,$0.00 ,1/8/19,3/28/19,79,,,5105,May-19
+"Hillard, Jr",JARVIS MONTRELL,,,Tunica,,FOREIGN WARRANT; FUGITIVE; HOLDING/FELONY,,,$0.00,1/8/19,3/28/19,79,,,5105,May-19
 HUBBARD,TIMOTHY,,,Tunica,,MURDER/FELONY,,,"$100,000.00 ",10/3/17,3/28/19,541,,,5106,May-19
-JASPER,ANTONTIO MARQUESE,,,Tunica,,ATTEMPTED CRIME/ UNKNOWN; MURDER FELONY,,,$0.00 ,12/26/17,3/28/19,457,,,5107,May-19
-MADKINS,DANGELO,,,Tunica,,FOREIGN WARRANT; FUGITIVE; HOLDING/FELONY,,,$0.00 ,3/27/19,3/28/19,1,,,5108,May-19
+JASPER,ANTONTIO MARQUESE,,,Tunica,,ATTEMPTED CRIME/ UNKNOWN; MURDER FELONY,,,$0.00,12/26/17,3/28/19,457,,,5107,May-19
+MADKINS,DANGELO,,,Tunica,,FOREIGN WARRANT; FUGITIVE; HOLDING/FELONY,,,$0.00,3/27/19,3/28/19,1,,,5108,May-19
 NEWELL,KENDRICK,,,Tunica,,SHOPLIFITING/UNKNOWN,,,"$5,000.00 ",2/20/19,3/28/19,36,,,5109,May-19
 Anglin,Michael,,,Union,NAPD,Grand Larceny [Value $1000 or more but less than $5000],,,"$10,000.00 ",11/21/18,2/22/19,93,,,5110,May-19
-Armstrong,Lashundra Monique,M,,Union,MDOC,Violation of Probation- MDOC,,,$0.00 ,2/19/19,2/22/19,3,,,5111,May-19
-Barnes,Rome,,,Union,UCSO,Cocaine-Possession,,,$0.00 ,2/5/19,2/22/19,17,,,5112,May-19
+Armstrong,Lashundra Monique,M,,Union,MDOC,Violation of Probation- MDOC,,,$0.00,2/19/19,2/22/19,3,,,5111,May-19
+Barnes,Rome,,,Union,UCSO,Cocaine-Possession,,,$0.00,2/5/19,2/22/19,17,,,5112,May-19
 Batakji,Sarah,,,Union,,Child-Child Abuse [Endagering the childs health]; Contempt of court- Justice Court,,,"$30,000; $500",2/14/19,2/22/19,8,,,5113,May-19
 Bedford,Summer Renee,R,,Union,,"Controlled Substance: Possession of paraphernlia; Controlled Substance: Sell, Transfer, Distribute; Possess with intent to sell",,,"$1,000; $15,000",12/13/18,2/22/19,71,,,5114,May-19
 Berry,Daniel Stuart,S,,Union,,Aggravated Assault on an officer (revoked bond); Robbery-Armed (revoked bond); Simple assault on an officer (revoked boond),,,"$50,000; $100,000; $50,000",4/24/18,2/22/19,304,,,5115,May-19
-Boles,Reggie,,,Union,MDOC,Hold: Detainer for MDOC,,,$0.00 ,2/19/19,2/22/19,3,,,5116,May-19
-Boyd,Florine,,,Union,MDOC,Violation of Probation- MDOC,,,$0.00 ,2/22/19,2/22/19,0,,,5117,May-19
+Boles,Reggie,,,Union,MDOC,Hold: Detainer for MDOC,,,$0.00,2/19/19,2/22/19,3,,,5116,May-19
+Boyd,Florine,,,Union,MDOC,Violation of Probation- MDOC,,,$0.00,2/22/19,2/22/19,0,,,5117,May-19
 Campbell,Hannah,P,,Union,UCSO,"Burglary- Commercial buildings, cars, etc.; Violation of parole- MDOC",,,"$10,000; $0",2/14/19,2/22/19,8,,,5118,May-19
 Cobb,Bobby Joe,J,,Union,UCSO,Murder,,,"$1,000,000.00 ",2/10/18,2/22/19,377,,,5119,May-19
 Cobb,Terry,,,Union,UCSO,"Receiving stolen property- felony [ Value $1,000 or more but less than $5,000]",,,"$2,500.00 ",2/3/19,2/22/19,19,,,5120,May-19
 Cox,Robert,P,,Union,,Controlled Substance: Possession of paraphernlia; Possession of Methamphetamine,,,"$1,000; $15,000",2/14/19,2/22/19,8,,,5121,May-19
 Dellinger,Stephen Lee,L,,Union,UCSO,Grand Larceny [Value $1000 or more but less than $5000]; MV- Motor vehicle chop shop,,,"$5,000; $5,000",2/5/19,2/22/19,17,,,5122,May-19
-Dixon,Daniel,,,Union,,Sexual Battery,,,$0.00 ,1/17/19,2/22/19,36,,,5123,May-19
-Dollard,Jonthan,,,Union,MDOC,Controlled Substance: Possession of Marijuana- 500 grams or more but less than 1 kilogram,,,$0.00 ,10/3/18,2/22/19,142,,,5124,May-19
-Frazier,Cedric,,,Union,UCSO,,,,$0.00 ,2/5/19,2/22/19,17,,,5125,May-19
+Dixon,Daniel,,,Union,,Sexual Battery,,,$0.00,1/17/19,2/22/19,36,,,5123,May-19
+Dollard,Jonthan,,,Union,MDOC,Controlled Substance: Possession of Marijuana- 500 grams or more but less than 1 kilogram,,,$0.00,10/3/18,2/22/19,142,,,5124,May-19
+Frazier,Cedric,,,Union,UCSO,,,,$0.00,2/5/19,2/22/19,17,,,5125,May-19
 Harris,Presley Xavier Ray,,,Union,,Grand larceny; Grand Larceny [Value $1000 or more but less than $5000],,,"$50,000; $0",1/9/19,2/22/19,44,,,5126,May-19
 Holcomb,Venturious Allen,A,,Union,,Burglary of Automobile; DUI- 3rd offense; Theft of property (M)- All other; Violation of probation-MDOC,,,$0; $0; $0; $0,11/20/18,2/22/19,94,,,5127,May-19
 Hoops,Fred,,,Union,MDOC,"Burglary- Commercial buildings, cars, etc.; Grand Larceny",,,$0; $0,10/3/18,2/22/19,142,,,5128,May-19
 Jones,Christopher,H,,Union,UCSO,Grand Larceny,,,"$5,000.00 ",1/3/19,2/22/19,50,,,5129,May-19
 Jones,Troy Michael,M,,Union,,Bond Surrender [bond company]; Violation of probation- MDOC,,,$500; $0,1/30/19,2/22/19,23,,,5130,May-19
 Kennedy,Robert,L,,Union,NAPD,"Motor vehicle theft-value over $1,000.00; Poss chrystal methe",,,"$7,500; $5,000",2/6/19,2/22/19,16,,,5131,May-19
-Killough,Zachery Allen,A,,Union,UCSO,Violation of Probation- MDOC,,,$0.00 ,11/20/18,2/22/19,94,,,5132,May-19
+Killough,Zachery Allen,A,,Union,UCSO,Violation of Probation- MDOC,,,$0.00,11/20/18,2/22/19,94,,,5132,May-19
 Lavender,James Matthew,M,,Union,NAPD,"Burglary- Commercial buildings, cars, etc.; Burglary- Commercial buildings, cars, etc.;",,,"$10,000; $10,000",11/11/18,2/22/19,103,,,5133,May-19
-Lettieri,Amber Foote,F,,Union,DC,Violation of Probation- MDOC,,,$0.00 ,12/28/18,2/22/19,56,,,5134,May-19
-Lyons,Monach Beatrice,B,,Union,UCSO,Burglary- breaking and entering inner door of dwelling,,,$0.00 ,1/2/19,2/22/19,51,,,5135,May-19
-McClung,Darrell,,,Union,UCSO,Burglary- Residential,,,$0.00 ,8/10/18,2/22/19,196,,,5136,May-19
-Mearday,Derrick,,,Union,UCSO,Burglary-Residential,,,$0.00 ,12/1/15,2/22/19,1179,,,5137,May-19
-Newcomb,Bridgette Nicole,N,,Union,UCSO,Possession of controlled substance,,,$0.00 ,10/31/18,2/22/19,114,,,5138,May-19
+Lettieri,Amber Foote,F,,Union,DC,Violation of Probation- MDOC,,,$0.00,12/28/18,2/22/19,56,,,5134,May-19
+Lyons,Monach Beatrice,B,,Union,UCSO,Burglary- breaking and entering inner door of dwelling,,,$0.00,1/2/19,2/22/19,51,,,5135,May-19
+McClung,Darrell,,,Union,UCSO,Burglary- Residential,,,$0.00,8/10/18,2/22/19,196,,,5136,May-19
+Mearday,Derrick,,,Union,UCSO,Burglary-Residential,,,$0.00,12/1/15,2/22/19,1179,,,5137,May-19
+Newcomb,Bridgette Nicole,N,,Union,UCSO,Possession of controlled substance,,,$0.00,10/31/18,2/22/19,114,,,5138,May-19
 Poe,Kenny Lee,L,,Union,,Controlled Substance: Possession of paraphernlia; Possession of Methamphetamine,,,"$1,000; $0",12/28/18,2/22/19,56,,,5139,May-19
 Potts,Regena,,,Union,,Aggravated assault- on policeman in line of duty; Possession of controlled substand with intent,,,"$25,000; $25,000",2/13/19,2/22/19,9,,,5140,May-19
-Pratt,Kendrick,,,Union,MDOC,"Controlled Substance: Sell, Transfer, Distribute; Possess with intent to sell",,,$0.00 ,10/4/18,2/22/19,141,,,5141,May-19
-Priest,Jennifer Diane,,,Union,UCSO,Poss Chrystal Meth,,,$0.00 ,1/31/19,2/22/19,22,,,5142,May-19
-Raines,Reid Matthew,M,,Union,UCSO,Poss Chrystal Meth,,,$0.00 ,1/31/19,2/22/19,22,,,5143,May-19
+Pratt,Kendrick,,,Union,MDOC,"Controlled Substance: Sell, Transfer, Distribute; Possess with intent to sell",,,$0.00,10/4/18,2/22/19,141,,,5141,May-19
+Priest,Jennifer Diane,,,Union,UCSO,Poss Chrystal Meth,,,$0.00,1/31/19,2/22/19,22,,,5142,May-19
+Raines,Reid Matthew,M,,Union,UCSO,Poss Chrystal Meth,,,$0.00,1/31/19,2/22/19,22,,,5143,May-19
 Rakestraw,Cory Allen,A,,Union,UCSO,"Burglary-Residential; Controolled Substance: Possession of schedule III, IV, or V- 150 grams or more but less than 300 grams or 500 dosage units or more but less than 1000 dosage units",,,$0; $0,12/10/18,2/22/19,74,,,5144,May-19
-Roberson,Lakedrick,,,Union,,Burglary- breaking and entering inner door of dwelling,,,$0.00 ,2/5/19,2/22/19,17,,,5145,May-19
-Sappington,Markus,,,Union,Drug Court,Contempt of court- Justice court; Court order: drug court,,,$0.00 ,2/19/19,2/22/19,3,,,5146,May-19
+Roberson,Lakedrick,,,Union,,Burglary- breaking and entering inner door of dwelling,,,$0.00,2/5/19,2/22/19,17,,,5145,May-19
+Sappington,Markus,,,Union,Drug Court,Contempt of court- Justice court; Court order: drug court,,,$0.00,2/19/19,2/22/19,3,,,5146,May-19
 Simmons,Melissa Arlene,A,,Union,UCSO,"Burglary- Commercial buildings, cars, etc",,,"$10,000.00 ",2/14/19,2/22/19,8,,,5147,May-19
-Small,Willie,,,Union,,Controlled Substance: Possession of Marijuana- 30 grams or more but less than 250 grams,,,$0.00 ,2/5/19,2/22/19,17,,,5148,May-19
+Small,Willie,,,Union,,Controlled Substance: Possession of Marijuana- 30 grams or more but less than 250 grams,,,$0.00,2/5/19,2/22/19,17,,,5148,May-19
 Tedford,Christopher Lee,L,,Union,USCO,Controlled Substance: Possession of paraphernlia; Possession of Methamphetamine ; violation of probation MDOC,,,"$1,000; $15,000; $0",1/8/19,2/22/19,45,,,5149,May-19
 Tunnell,Daniel Keith,,,Union,,Child-Child Abuse [Endagering the childs health],,,"$5,000.00 ",1/15/19,2/22/19,38,,,5150,May-19
-Vancil,Landon,N,,Union,NAPD,"Controlled Substance: forged, false, or fradulent perscription",,,$0.00 ,12/4/18,2/22/19,80,,,5151,May-19
+Vancil,Landon,N,,Union,NAPD,"Controlled Substance: forged, false, or fradulent perscription",,,$0.00,12/4/18,2/22/19,80,,,5151,May-19
 Varnes,Teresea,,,Union,USCO,Controlled Substance: Possession of paraphernlia; Controlled Substance: Simple Possession- Synthetic cannabinoids 10 grams or less; License- driving while revoked or expired; Motor Vehicle: expired tag;Poss chstal methe,,,"$1,000; $1,000; $1,000; $500; $20,000",2/15/19,2/22/19,7,,,5152,May-19
 Walters,James Eric,E,,Union,,Aggravated Assault- On policeman in line of duty; careless driving; failure to yield to emergency vehicles; MV- Drivers license- expired; MV- Improper equiptment; MV- No Insurance; Possession of Methamphetamine,,,"$25,000; $500; $500; $500; $500; $500;$25,000",2/12/19,2/22/19,10,,,5153,May-19
-Wheelington,Jacqueline Renee,R,,Union,MDOC,Violation of Probation- MDOC,,,$0.00 ,2/12/19,2/22/19,10,,,5154,May-19
+Wheelington,Jacqueline Renee,R,,Union,MDOC,Violation of Probation- MDOC,,,$0.00,2/12/19,2/22/19,10,,,5154,May-19
 White,Dallas Wayne,W,,Union,USCO,Controlled Substance: Possession of paraphernlia; Controlled Substance: Possession of Schedule I or II- 1/10th gram- 2 grams or 2 - 10 dosage units,,,"$1,000; $5,000",2/8/19,2/22/19,14,,,5155,May-19
 White,Kristi,,,Union,BSPD,"Alcohol- Beer/ Wine/ Manuf or sale of light wine or; Contempt of court: Municipal court; Controlled Substance: Possession of marijuana less than 30 grams or synthetic cannabinoids 10 grams or less in motor vehicle; Controlled substance: possession of paraphernalia;   Controlled substance: possession of paraphernalia; License, driving while revoked or suspended; Possession of methamphetamine",,,"$500; $500; $0; $0; $500; $500; $25,000",9/25/18,2/22/19,150,,,5156,May-19
 Williams,Abigail Rebecca,R,,Union,UCSO,Contempt of court- Municpal court; forged perscription,,,$500; $0,12/14/18,2/22/19,70,,,5157,May-19
-Williams,Jeffrey,,,Union,,"Bond Surrender [bond company]; Contempt of court- justice court; prisons- sale, possession, or use of controlled substances or narcotic drugs within correctional facility; Vandalism: destruction [ defacing or injuring]- public property , church building, cemetery items, schools [ value under $500]",,,"$2,500; $500; $5,000; $500",8/24/18,2/22/19,182,,,5158,May-19
+Williams,Jeffrey,,,Union,,"Bond Surrender [bond company]; Contempt of court- justice court; prisons- sale, possession, or use of controlled substances or narcotic drugs within correctional facility; Vandalism: destruction [ defacing or injuring]- public property, church building, cemetery items, schools [ value under $500]",,,"$2,500; $500; $5,000; $500",8/24/18,2/22/19,182,,,5158,May-19
 Woods,Willie Kenyta,K,,Union,,"Careless driving; Controlled substance: sell, transfer, distribute, possess with intent to sell; License, driving while revoked or suspended; littering; MV- Improper equiptment; MV- No insurance",,,"$500; $25,000; $1,000; $500; $500' $500",2/16/19,2/22/19,6,,,5159,May-19
 Young,Jeremiah Obrien,O,,Union,,"Controlled Substance: Sell, Transfer, Distribute; Possess with intent to sell",,,"$30,000.00 ",1/14/19,2/22/19,39,,,5160,May-19
 Badon,Josia,,,Walthall,WCSO,felony taking of a vehicle,,,"$5,000.00 ",2/8/19,3/22/19,42,,,5161,May-19
@@ -5205,7 +5205,7 @@ Brister,Beth,,,Warren,,Malicous Mischief; Failure to register change of address 
 Brooks,Zachary,,,Warren,,Kidnapping; 2cts burglary; malicous; weapon poss by felon; mischief; simple assault; resisting arrest,,,No Bond,11/14/17,3/19/19,490,MDOC Judge Patrick,,5204,May-19
 Brooks,Michael,,,Warren,,Probation Violation,,,,3/5/18,3/19/19,379,MDOC Hold Lester; Hold for fines,,5205,May-19
 Brown,Christopher,,,Warren,,Attempted Murder; Armed car jacking,,,,2/26/18,3/19/19,386,,,5206,May-19
-Brown,Isabella,,,Warren,,Kidnapping; Armed robbery; carjacking,,,$200.00 ,4/11/16,3/19/19,1072,,,5207,May-19
+Brown,Isabella,,,Warren,,Kidnapping; Armed robbery; carjacking,,,$200.00,4/11/16,3/19/19,1072,,,5207,May-19
 Brown,Jerry,,,Warren,,Old charges poss ecstasy; marijuana; poss of stolen firearm- bond surrender A&A; Old charge agg assault; Bond surrender pugh bonding,,,,1/22/18,3/19/19,421,,,5208,May-19
 Burnside,Valerie,,,Warren,,Probation Violation,,,,2/7/18,3/19/19,405,MDOC Hold Clark,,5209,May-19
 Butler,Ladarius,,,Warren,,Weapon poss by convicted felon/ residential,,,"$50,000.00 ",10/24/17,3/19/19,511,MDOC Clark; Field officers warrant,,5210,May-19
@@ -5496,7 +5496,7 @@ Jordan,Shrun,,,Winston,Winston County Sheriff Dept.,,,,"$1,000.00 ",2/22/18,3/5/
 Norton,Montivus,T,,Winston,Winston County Sheriff Dept.,Poss Firearm by Felon; Poss Stolen Firearm,,,"$200,000.00 ",1/13/18,3/5/18,51,"9 yrs, 2 M- Serve 1 Yr, 2M; 1 YR, 2M Concurrent, 8 YRS PRS",Date List April 2018 Term,5495,May-19
 Purifoy,Darrell,D,,Winston,Winston County Sheriff Dept.,Armed Robbery,,,"$50,000.00 ",9/11/16,3/5/18,540,,,5496,May-19
 Regan,Jason,M,,Winston,Winston County Sheriff Dept.,,,,"$250,000.00 ",7/28/17,3/5/18,220,,,5497,May-19
-Short,Franciso,,,Winston,Winston County Sheriff Dept.,,,,$500.00 ,2/24/18,3/5/18,9,,,5498,May-19
+Short,Franciso,,,Winston,Winston County Sheriff Dept.,,,,$500.00,2/24/18,3/5/18,9,,,5498,May-19
 Triplett,Antonio,R,,Winston,Winston County Sheriff Dept.,,,,"$25,000.00 ",8/25/17,3/5/18,192,,,5499,May-19
 Bright,Charles,,,Yalobusha,,"Burglary, Grand larceny",Y,,"$16,000.00 ",4/23/18,3/25/19,336,,,5500,May-19
 Byford,Clinton,,,Yalobusha,,"DUI injury, poss of meth",Y,,NONE,12/6/17,3/25/19,474,,,5501,May-19
