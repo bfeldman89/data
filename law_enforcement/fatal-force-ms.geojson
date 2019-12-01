@@ -5,11 +5,11 @@
       "type": "Feature",
       "properties": {
         "name": "Howard Brent Means Jr.",
-        "date": "2/14/15",
         "age": 34,
         "gender": "M",
-        "rage": "W",
-        "location": "Iuka"
+        "race": "W",
+        "location": "Iuka",
+        "date": "2015-02-15"
       },
       "geometry": {
         "type": "Point",
@@ -23,11 +23,11 @@
       "type": "Feature",
       "properties": {
         "name": "Rodney Biggs",
-        "date": "2/25/15",
         "age": 49,
         "gender": "M",
-        "rage": "W",
-        "location": "Gulfport"
+        "race": "W",
+        "location": "Gulfport",
+        "date": "2015-02-26"
       },
       "geometry": {
         "type": "Point",
@@ -41,11 +41,11 @@
       "type": "Feature",
       "properties": {
         "name": "Donald Lewis Matkins",
-        "date": "2/28/15",
         "age": 49,
         "gender": "M",
-        "rage": "W",
-        "location": "Barton"
+        "race": "W",
+        "location": "Barton",
+        "date": "2015-03-01"
       },
       "geometry": {
         "type": "Point",
@@ -59,11 +59,11 @@
       "type": "Feature",
       "properties": {
         "name": "Troy Ray Boyd",
-        "date": "3/14/15",
         "age": 27,
         "gender": "M",
-        "rage": "W",
-        "location": "Ruth"
+        "race": "W",
+        "location": "Ruth",
+        "date": "2015-03-15"
       },
       "geometry": {
         "type": "Point",
@@ -77,11 +77,11 @@
       "type": "Feature",
       "properties": {
         "name": "Rudolph Smith",
-        "date": "10/11/15",
         "age": 31,
         "gender": "M",
-        "rage": "W",
-        "location": "Brookhaven"
+        "race": "W",
+        "location": "Brookhaven",
+        "date": "2015-10-12"
       },
       "geometry": {
         "type": "Point",
@@ -95,11 +95,11 @@
       "type": "Feature",
       "properties": {
         "name": "Ricky Javenta Ball",
-        "date": "10/15/15",
         "age": 33,
         "gender": "M",
-        "rage": "B",
-        "location": "Columbus"
+        "race": "B",
+        "location": "Columbus",
+        "date": "2015-10-16"
       },
       "geometry": {
         "type": "Point",
@@ -113,11 +113,11 @@
       "type": "Feature",
       "properties": {
         "name": "Ricky Keith Keeton",
-        "date": "10/27/15",
         "age": 57,
         "gender": "M",
-        "rage": "W",
-        "location": "Smithville"
+        "race": "W",
+        "location": "Smithville",
+        "date": "2015-10-28"
       },
       "geometry": {
         "type": "Point",
@@ -131,11 +131,11 @@
       "type": "Feature",
       "properties": {
         "name": "Michael Parker",
-        "date": "12/26/15",
         "age": 36,
         "gender": "M",
-        "rage": "W",
-        "location": "Lucedale"
+        "race": "W",
+        "location": "Lucedale",
+        "date": "2015-12-27"
       },
       "geometry": {
         "type": "Point",
@@ -149,11 +149,11 @@
       "type": "Feature",
       "properties": {
         "name": "Charles Lee Lambert",
-        "date": "2/19/16",
         "age": 45,
         "gender": "M",
-        "rage": "W",
-        "location": "Iuka"
+        "race": "W",
+        "location": "Iuka",
+        "date": "2016-02-20"
       },
       "geometry": {
         "type": "Point",
@@ -167,11 +167,11 @@
       "type": "Feature",
       "properties": {
         "name": "Mickey Dewayne Sweatt",
-        "date": "2/29/16",
         "age": 37,
         "gender": "M",
-        "rage": "W",
-        "location": "Gautier"
+        "race": "W",
+        "location": "Gautier",
+        "date": "2016-03-01"
       },
       "geometry": {
         "type": "Point",
@@ -185,11 +185,11 @@
       "type": "Feature",
       "properties": {
         "name": "Wesley Sheppard",
-        "date": "3/9/16",
         "age": 37,
         "gender": "M",
-        "rage": "W",
-        "location": "Biloxi"
+        "race": "W",
+        "location": "Biloxi",
+        "date": "2016-03-10"
       },
       "geometry": {
         "type": "Point",
@@ -203,11 +203,11 @@
       "type": "Feature",
       "properties": {
         "name": "Christian Bowman",
-        "date": "5/8/16",
         "age": 23,
         "gender": "M",
-        "rage": "W",
-        "location": "St. Martin"
+        "race": "W",
+        "location": "St. Martin",
+        "date": "2016-05-09"
       },
       "geometry": {
         "type": "Point",
@@ -221,11 +221,11 @@
       "type": "Feature",
       "properties": {
         "name": "Lyndarius Cortez Witherspoon",
-        "date": "6/10/16",
         "age": 27,
         "gender": "M",
-        "rage": "B",
-        "location": "Tupelo"
+        "race": "B",
+        "location": "Tupelo",
+        "date": "2016-06-11"
       },
       "geometry": {
         "type": "Point",
@@ -239,11 +239,11 @@
       "type": "Feature",
       "properties": {
         "name": "Antwun Shumpert",
-        "date": "6/17/16",
         "age": 37,
         "gender": "M",
-        "rage": "B",
-        "location": "Tupelo"
+        "race": "B",
+        "location": "Tupelo",
+        "date": "2016-06-18"
       },
       "geometry": {
         "type": "Point",
@@ -257,11 +257,11 @@
       "type": "Feature",
       "properties": {
         "name": "Quencezola Maurice Splunge",
-        "date": "6/21/16",
         "age": 44,
         "gender": "M",
-        "rage": "B",
-        "location": "Walls"
+        "race": "B",
+        "location": "Walls",
+        "date": "2016-06-22"
       },
       "geometry": {
         "type": "Point",
@@ -275,11 +275,11 @@
       "type": "Feature",
       "properties": {
         "name": "Jerome Chris Harmon",
-        "date": "11/24/16",
         "age": 23,
         "gender": "M",
-        "rage": "B",
-        "location": "Hattiesburg"
+        "race": "B",
+        "location": "Hattiesburg",
+        "date": "2016-11-25"
       },
       "geometry": {
         "type": "Point",
@@ -293,11 +293,11 @@
       "type": "Feature",
       "properties": {
         "name": "Ronnie Lee Shorter",
-        "date": "1/20/17",
         "age": 44,
         "gender": "M",
-        "rage": "B",
-        "location": "Greenville"
+        "race": "B",
+        "location": "Greenville",
+        "date": "2017-01-21"
       },
       "geometry": {
         "type": "Point",
@@ -311,11 +311,11 @@
       "type": "Feature",
       "properties": {
         "name": "Kevin Darnell Washington",
-        "date": "1/24/17",
         "age": 54,
         "gender": "M",
-        "rage": "B",
-        "location": "Southaven"
+        "race": "B",
+        "location": "Southaven",
+        "date": "2017-01-25"
       },
       "geometry": {
         "type": "Point",
@@ -329,11 +329,11 @@
       "type": "Feature",
       "properties": {
         "name": "Pryor Spencer Bailey",
-        "date": "3/26/17",
         "age": 45,
         "gender": "M",
-        "rage": "W",
-        "location": "Columbus"
+        "race": "W",
+        "location": "Columbus",
+        "date": "2017-03-27"
       },
       "geometry": {
         "type": "Point",
@@ -347,11 +347,11 @@
       "type": "Feature",
       "properties": {
         "name": "Marc Brandon Davis",
-        "date": "6/1/17",
         "age": 34,
         "gender": "M",
-        "rage": "B",
-        "location": "Petal"
+        "race": "B",
+        "location": "Petal",
+        "date": "2017-06-02"
       },
       "geometry": {
         "type": "Point",
@@ -364,12 +364,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Robert J. Berube",
-        "date": "6/15/17",
-        "age": 41,
-        "gender": "M",
-        "rage": "W",
-        "location": "Water Valley"
+        "name": "Jamie Dougan",
+        "age": 24,
+        "gender": "F",
+        "race": "W",
+        "location": "Water Valley",
+        "date": "2017-06-16"
       },
       "geometry": {
         "type": "Point",
@@ -382,12 +382,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jamie Dougan",
-        "date": "6/15/17",
-        "age": 24,
-        "gender": "F",
-        "rage": "W",
-        "location": "Water Valley"
+        "name": "Robert J. Berube",
+        "age": 41,
+        "gender": "M",
+        "race": "W",
+        "location": "Water Valley",
+        "date": "2017-06-16"
       },
       "geometry": {
         "type": "Point",
@@ -401,11 +401,11 @@
       "type": "Feature",
       "properties": {
         "name": "Ismael Lopez Rodriguez",
-        "date": "7/22/17",
         "age": 41,
         "gender": "M",
-        "rage": "H",
-        "location": "Southaven"
+        "race": "H",
+        "location": "Southaven",
+        "date": "2017-07-23"
       },
       "geometry": {
         "type": "Point",
@@ -419,11 +419,11 @@
       "type": "Feature",
       "properties": {
         "name": "Jeremy Gabrial",
-        "date": "8/3/17",
         "age": 31,
         "gender": "M",
-        "rage": "W",
-        "location": "Lauderdale County"
+        "race": "W",
+        "location": "Lauderdale County",
+        "date": "2017-08-04"
       },
       "geometry": {
         "type": "Point",
@@ -437,11 +437,11 @@
       "type": "Feature",
       "properties": {
         "name": "Bryan Wright",
-        "date": "9/21/17",
         "age": 40,
         "gender": "M",
-        "rage": "W",
-        "location": "Hattiesburg"
+        "race": "W",
+        "location": "Hattiesburg",
+        "date": "2017-09-22"
       },
       "geometry": {
         "type": "Point",
@@ -455,11 +455,11 @@
       "type": "Feature",
       "properties": {
         "name": "Vincent Dronet",
-        "date": "10/10/17",
         "age": 61,
         "gender": "M",
-        "rage": "W",
-        "location": "Biloxi"
+        "race": "W",
+        "location": "Biloxi",
+        "date": "2017-10-11"
       },
       "geometry": {
         "type": "Point",
@@ -473,11 +473,11 @@
       "type": "Feature",
       "properties": {
         "name": "Eric Higgs",
-        "date": "10/28/17",
         "age": 46,
         "gender": "M",
-        "rage": "B",
-        "location": "Tate County"
+        "race": "B",
+        "location": "Tate County",
+        "date": "2017-10-29"
       },
       "geometry": {
         "type": "Point",
@@ -491,11 +491,11 @@
       "type": "Feature",
       "properties": {
         "name": "Raymond Davis",
-        "date": "11/3/17",
         "age": 24,
         "gender": "M",
-        "rage": "B",
-        "location": "Columbus"
+        "race": "B",
+        "location": "Columbus",
+        "date": "2017-11-04"
       },
       "geometry": {
         "type": "Point",
@@ -509,11 +509,11 @@
       "type": "Feature",
       "properties": {
         "name": "John Quincy Grady",
-        "date": "11/4/17",
         "age": 35,
         "gender": "M",
-        "rage": "W",
-        "location": "Meridian"
+        "race": "W",
+        "location": "Meridian",
+        "date": "2017-11-05"
       },
       "geometry": {
         "type": "Point",
@@ -527,11 +527,11 @@
       "type": "Feature",
       "properties": {
         "name": "Charles Edwin Nickels",
-        "date": "11/8/17",
         "age": 35,
         "gender": "M",
-        "rage": "W",
-        "location": "Neshoba County"
+        "race": "W",
+        "location": "Neshoba County",
+        "date": "2017-11-09"
       },
       "geometry": {
         "type": "Point",
@@ -544,12 +544,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "unknown",
-        "date": "11/9/17",
-        "age": "unknown",
+        "name": "TK",
+        "age": "TK",
         "gender": "M",
-        "rage": "B",
-        "location": "Hinds County"
+        "race": "B",
+        "location": "Hinds County",
+        "date": "2017-11-10"
       },
       "geometry": {
         "type": "Point",
@@ -562,12 +562,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "unknown",
-        "date": "11/14/17",
-        "age": "unknown",
+        "name": "TK",
+        "age": "TK",
         "gender": "M",
-        "rage": "B",
-        "location": "Jackson"
+        "race": "B",
+        "location": "Jackson",
+        "date": "2017-11-15"
       },
       "geometry": {
         "type": "Point",
@@ -581,11 +581,11 @@
       "type": "Feature",
       "properties": {
         "name": "Seth William Johnson",
-        "date": "11/19/17",
         "age": 15,
         "gender": "M",
-        "rage": "W",
-        "location": "Gulfport"
+        "race": "W",
+        "location": "Gulfport",
+        "date": "2017-11-20"
       },
       "geometry": {
         "type": "Point",
@@ -598,12 +598,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "unknown",
-        "date": "1/7/18",
-        "age": "unknown",
+        "name": "TK",
+        "age": "TK",
         "gender": "M",
-        "rage": "unknown",
-        "location": "Horn Lake"
+        "race": "",
+        "location": "Horn Lake",
+        "date": "2018-01-08"
       },
       "geometry": {
         "type": "Point",
@@ -617,11 +617,11 @@
       "type": "Feature",
       "properties": {
         "name": "Crystalline Barnes",
-        "date": "1/26/18",
         "age": 21,
         "gender": "F",
-        "rage": "B",
-        "location": "Jackson"
+        "race": "B",
+        "location": "Jackson",
+        "date": "2018-01-27"
       },
       "geometry": {
         "type": "Point",
@@ -635,11 +635,11 @@
       "type": "Feature",
       "properties": {
         "name": "Ernie Lizana",
-        "date": "2/2/18",
         "age": 49,
         "gender": "M",
-        "rage": "W",
-        "location": "Gulfport"
+        "race": "W",
+        "location": "Gulfport",
+        "date": "2018-02-03"
       },
       "geometry": {
         "type": "Point",
@@ -653,11 +653,11 @@
       "type": "Feature",
       "properties": {
         "name": "Lee Edward Bonner",
-        "date": "2/20/18",
         "age": 37,
         "gender": "M",
-        "rage": "B",
-        "location": "Jackson"
+        "race": "B",
+        "location": "Jackson",
+        "date": "2018-02-21"
       },
       "geometry": {
         "type": "Point",
@@ -671,11 +671,11 @@
       "type": "Feature",
       "properties": {
         "name": "Marvin McMillian",
-        "date": "3/2/18",
         "age": 41,
         "gender": "M",
-        "rage": "B",
-        "location": "Gulfport"
+        "race": "B",
+        "location": "Gulfport",
+        "date": "2018-03-03"
       },
       "geometry": {
         "type": "Point",
@@ -689,17 +689,359 @@
       "type": "Feature",
       "properties": {
         "name": "Elliott Reed",
-        "date": "5/8/18",
         "age": 33,
         "gender": "M",
-        "rage": "B",
-        "location": "Jackson"
+        "race": "B",
+        "location": "Jackson",
+        "date": "2018-05-09"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.253808,
-          32.253574
+          -90.2443385,
+          32.2539044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Michael Renfroe",
+        "age": 36,
+        "gender": "M",
+        "race": "W",
+        "location": "Madison County",
+        "date": "2018-06-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0576903,
+          32.4559407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "William Shawn Mann",
+        "age": 30,
+        "gender": "M",
+        "race": "W",
+        "location": "Grenada",
+        "date": "2018-06-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.837939,
+          33.721302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arthur Harbison",
+        "age": 25,
+        "gender": "M",
+        "race": "W",
+        "location": "Greenville",
+        "date": "2018-10-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0824508,
+          33.3410201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patrick Bryant",
+        "age": 41,
+        "gender": "M",
+        "race": "B",
+        "location": "Clarksdale",
+        "date": "2018-11-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5722095,
+          34.2066463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miles Dylan Cooper",
+        "age": 25,
+        "gender": "M",
+        "race": "W",
+        "location": "Stone County",
+        "date": "2019-02-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1705998,
+          30.8013069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nam Quang Le",
+        "age": 34,
+        "gender": "M",
+        "race": "A",
+        "location": "Clinton",
+        "date": "2019-02-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3194259,
+          32.3524829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pierre Woods",
+        "age": 31,
+        "gender": "M",
+        "race": "B",
+        "location": "Pelehatchie",
+        "date": "2019-02-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.788903,
+          32.3203098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joshua Worth",
+        "age": 31,
+        "gender": "M",
+        "race": "W",
+        "location": "Greenville",
+        "date": "2019-03-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1410135,
+          33.3001676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "George Wayne McCallum",
+        "age": 33,
+        "gender": "M",
+        "race": "",
+        "location": "Monroe County",
+        "date": "2019-03-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4153435,
+          33.7814084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lawrence Bottoms",
+        "age": 29,
+        "gender": "M",
+        "race": "W",
+        "location": "Hancock County",
+        "date": "2019-04-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.442654,
+          30.2761552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aubrey Manning",
+        "age": 59,
+        "gender": "M",
+        "race": "W",
+        "location": "Lumberton",
+        "date": "2019-05-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4487664,
+          30.9997613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adam Michael McCoy",
+        "age": 28,
+        "gender": "M",
+        "race": "",
+        "location": "Pearl River County",
+        "date": "2019-05-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6208487,
+          30.6245327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harry Gipson",
+        "age": 70,
+        "gender": "M",
+        "race": "W",
+        "location": "Braxton",
+        "date": "2019-06-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9703588,
+          32.0251542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ryan Moody",
+        "age": 19,
+        "gender": "M",
+        "race": "W",
+        "location": "Pearl",
+        "date": "2019-06-28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.051388,
+          32.2520158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terry Allen 'Bubba' Payne",
+        "age": 52,
+        "gender": "M",
+        "race": "W",
+        "location": "Pontotoc County",
+        "date": "2019-07-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9650779,
+          34.1037204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shawan F. Allen",
+        "age": "TK",
+        "gender": "M",
+        "race": "B",
+        "location": "Wesson",
+        "date": "2019-07-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3977907,
+          31.7014127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toussaint Diamon Sims",
+        "age": 27,
+        "gender": "M",
+        "race": "B",
+        "location": "Moss Point",
+        "date": "2019-08-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5190749,
+          30.4023925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shawn Fondren",
+        "age": 47,
+        "gender": "M",
+        "race": "",
+        "location": "Florence",
+        "date": "2019-08-31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1091059,
+          32.1466618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joel Avery",
+        "age": "TK",
+        "gender": "M",
+        "race": "W",
+        "location": "Horn Lake",
+        "date": "2019-11-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0790186,
+          34.9426072
         ]
       }
     }
