@@ -2,7 +2,7 @@
 
 some open data... mostly concerning state and local government in MS.
 
-## data
+## data in this repo
 
 ### aoc
 
@@ -32,6 +32,12 @@ file | description | link
 ### vera
 
 data from Vera Institute for Justice
+
+## data outside this repo
+
+repo | description | website
+---|---|---
+[APM-Reports/jury-data](https://github.com/APM-Reports/jury-data)|Source data for the jury selection analysis in Season 2 of "In the Dark."|[:link:](https://features.apmreports.org/in-the-dark/mississippi-district-attorney-striking-blacks-from-juries/)
 
 ## tools
 
