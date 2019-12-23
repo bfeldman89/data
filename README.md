@@ -35,9 +35,12 @@ data from Vera Institute for Justice
 
 ## data outside this repo
 
-repo | description | website
----|---|---
-[APM-Reports/jury-data](https://github.com/APM-Reports/jury-data)|Source data for the jury selection analysis in Season 2 of "In the Dark."|[:link:](https://features.apmreports.org/in-the-dark/mississippi-district-attorney-striking-blacks-from-juries/)
+repo | description | website link(s)|data
+---|---|---|---
+[APM-Reports/jury-data](https://github.com/APM-Reports/jury-data)|Source data for the jury selection analysis in Season 2 of "In the Dark."|[:link:](https://features.apmreports.org/in-the-dark/mississippi-district-attorney-striking-blacks-from-juries/)|
+[washingtonpost/data-police-shootings](https://github.com/washingtonpost/data-police-shootings)|The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty.|[2019](https://www.washingtonpost.com/graphics/2019/national/police-shootings-2019/), [2018](https://www.washingtonpost.com/graphics/2018/national/police-shootings-2018/), [2017](https://www.washingtonpost.com/graphics/national/police-shootings-2017/), [2016](https://www.washingtonpost.com/graphics/national/police-shootings-2016/), [2015](https://www.washingtonpost.com/graphics/national/police-shootings/)|
+[vicenews/shot-by-cops](https://github.com/vicenews/shot-by-cops)|Data and code behind "Shot by cops and forgotten," a VICE News investigation into police shootings in the 50 largest local police departments between 2010-2016.|[:link:](https://news.vice.com/story/shot-by-cops/)|
+[joshbegley/the-counted](https://github.com/joshbegley/the-counted)|Latest version of The Guardian's "The Counted" data (updates automatically)|[:link:](https://theguardian.com/thecounted)|[JSON](https://raw.githubusercontent.com/joshbegley/the-counted/master/skeleton.json)
 
 ## tools
 
