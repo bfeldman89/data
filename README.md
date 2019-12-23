@@ -55,6 +55,8 @@ repo|description|website
 repo|description|website
 ---|---|---
 [textricator](https://github.com/measuresforjustice/textricator)|Textricator is a tool to extract text from documents and generate structured data.|[:link:](https://textricator.mfj.io)
+[isotope](https://github.com/metafizzy/isotope)|Filter & sort magical layouts|[:link:](https://isotope.metafizzy.co)
+
 ___
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 ![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
