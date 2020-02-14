@@ -29,7 +29,7 @@ def get_raw_dp_csvs():
 
 def get_raw_mfs_csvs():
     os.chdir('/Users/blakefeldman/code/data/mdoc/monthly_fact_sheets/raw')
-    records = airtab.get_all(view='mfs', fields=['url', 'iso', 'dc_pages'])
+    records = airtab.get_all(view='mfs_needs_tables_extracted', fields=['url', 'iso', 'dc_pages'])
     for rec in records:
         fn = f"{rec['fields']['iso']}.csv"
         pages = f"1-{rec['fields']['dc_pages']}"
