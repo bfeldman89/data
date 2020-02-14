@@ -1,0 +1,6 @@
+type,count_without_sex_offense,count_with_sex_offense,count
+death_row,34,6,40
+habitual_lifers,327,64,391
+habitual_offenders,2179,170,2349
+lifers,1507,215,1722
+armed_robbery_mandatory,2065,14,2079
