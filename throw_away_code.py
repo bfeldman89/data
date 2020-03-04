@@ -1,3 +1,4 @@
+# !/usr/local/bin/python3.6
 import os
 import csv
 import glob
