@@ -1,7 +1,9 @@
-# summary
+# data
 
 some open data... mostly concerning state and local government in MS.
 
+[![codefactor](https://www.codefactor.io/repository/github/bfeldman89/data/badge?style=plastic)](https://www.codefactor.io/repository/github/bfeldman89/data)
+![GitHub](https://img.shields.io/github/license/bfeldman89/data?style=plastic)
 ## data in this repo
 
 ### aoc
