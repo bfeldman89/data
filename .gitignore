@@ -105,4 +105,7 @@ venv.bak/
 
 # OTHER
 .DS_Store
+.vscode/
+Pipfile.lock
+
 
