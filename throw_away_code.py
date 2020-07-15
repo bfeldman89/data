@@ -4,22 +4,24 @@ import csv
 import glob
 import shutil
 import time
-from airtable import Airtable
+
 import camelot
 import pandas as pd
+
+from airtable import Airtable
 from documentcloud import DocumentCloud
 from goodtables import validate
 
 airtab = Airtable(os.environ['other_scrapers_db'],
                   'mdoc', os.environ['AIRTABLE_API_KEY'])
 
-dc = DocumentCloud(
-    os.environ['DOCUMENT_CLOUD_USERNAME'], os.environ['DOCUMENT_CLOUD_PW'])
+dc = DocumentCloud(username=os.environ['MUCKROCK_USERNAME'],
+                   password=os.environ['MUCKROCK_PW'])
 
 
 def get_raw_dp_csvs():
     os.chdir('/Users/blakefeldman/code/data/mdoc/daily_pop/raw')
-    records = airtab.get_all(view='dp', fields=['url', 'iso', 'dc_pages'])
+    records = airtab.get_all(view='dp needs csv', fields=['url', 'iso', 'dc_pages'])
     for rec in records:
         fn = f"{rec['fields']['iso']}.csv"
         pages = f"1-{rec['fields']['dc_pages']}"
@@ -43,7 +45,7 @@ def transpose_raw_csvs():
     os.chdir('/Users/blakefeldman/code/data/mdoc/daily_pop')
     files = os.listdir('per_page')
     for fn in files:
-        new = pd.read_csv(f"raw/{fn}", header=None).T
+        new = pd.read_csv(f"per_page/{fn}", header=None).T
         new.to_csv(f"transposed/{fn}", header=False, index=False)
 
 
@@ -161,8 +163,8 @@ def get_coordinates(left, top, width, height):
 
 
 def merge_dp():
-    os.chdir('/Users/blakefeldman/code/data/mdoc/daily_pop/raw')
-    records = airtab.get_all(view='dev', fields=['iso', 'dc_pages'])
+    os.chdir('/Users/blakefeldman/code/data/mdoc/daily_pop/per_page')
+    records = airtab.get_all(view='dp needs csv', fields=['iso', 'dc_pages'])
     for rec in records:
         a = pd.read_csv(f"{rec['fields']['iso']}-p1.csv")
         b = pd.read_csv(f"{rec['fields']['iso']}-p2.csv")
@@ -243,39 +245,3 @@ def add_columns_for_specific_offenses(files):
         df['count'] = df['count_without_sex_offense'] + \
             df['count_with_sex_offense']
         df.to_csv(f'new_{fn}')
-
-
-get_mdoc_tables('2004',
-                '15-25,27-49,90-97,100-101')
-get_mdoc_tables('2005',
-                '21-25,29-46,49,50,64,65,67,70-93,96-98,100-112,114-118,120-124,126-132,134-142,146-150,152-164,166-170,172-176,178-184,186-196',
-                '17-20')
-get_mdoc_tables('2006',
-                '23-26,31-48,51,52,65-67,69-74,78-101,104-106,108-120,122-126,128-132,134-140,142-152,156-160,162-174,176-180,182-186,188-194,196-206')
-get_mdoc_tables('2007',
-                '24-27,32-48,50,63,64,66-73,76,77,80-87,90,91,94,95,99,102,105-107,110,112,113,116,118,119,122,124,125,128-131',
-                '20-23,78,79,92,93,100,101,108,109,114,115,120,121,126,127')
-get_mdoc_tables('2008',
-                '23-26,31-46,48,61,62,64-71,74,75,78-85,88,89,92,93,97,100,103-105,108,110,111,114,116,117,120,122,123,126,129',
-                '20-22,90,91,98,99,106,107,112,113,118,119,124,125')
-get_mdoc_tables('2009',
-                '21-27,31-47,49,62,63,65-72,75,76,79-86,89,90,93,94,98,101,104-106,109,111,112,115,117,118,121,123,124,127-130,134,135,137,140-142,145,148,151,153,154,157',
-                '77,78,91,92,99,100,107,108,113,114,119,120,125,126,135,136,143,144,149,150,155,156')
-get_mdoc_tables('2010',
-                '32-48,50,63,64,66-73,76-77,80-87,90-91,94-95,99,102,105-107,110,112,113,116,118,119,122,124,125,128-131',
-                '78,79,92,93,100,101,108,109,114,115,120,121,126,127')
-get_mdoc_tables('2011',
-                '32-48,50,63,64,66-73,76-77,80-87,90-91,94-95,99,102,105-107,110,112,113,116,118,119,122,124,125,128-131',
-                '78,79,92,93,100,101,108,109,114,115,120,121,126,127')
-get_mdoc_tables('2012',
-                '32-48,50,63,64,66-73,76-77,80-87,90-91,94-95,99,102,105-107,110,112,113,116,118,119,122,124,125,128-131',
-                '78,79,92,93,100,101,108,109,114,115,120,121,126,127')
-get_mdoc_tables('2013',
-                '14-16,18-20,22-24,32-39,45,46,53-59,68-78,80,81,84-109,112-139')
-get_mdoc_tables('2014',
-                '12-16,18,20,21,28-35,43,44,46,48-53,62-72,74,75,78-103,106-110,112-133')
-get_mdoc_tables('2015',
-                '14-21,27-32,40,41,43,45-52,61-71,73,76-101,104-108,110-131')
-get_mdoc_tables('2016', '3-22,24-30,32-50')
-get_mdoc_tables('2017', '3-22,24-30,32-50')
-get_mdoc_tables('2018', '3-22,24-30,32-50')
