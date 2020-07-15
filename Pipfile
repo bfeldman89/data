@@ -8,11 +8,13 @@ pylint = "*"
 autopep8 = "*"
 
 [packages]
+requests = "*"
+beautifulsoup4 = "*"
+camelot-py = {extras = ["cv"], version = "*"}
+documentcloud = "*"
 airtable-python-wrapper = "*"
-camelot-py = "*"
-goodtables = "*"
-python-documentcloud = "*"
 pandas = "*"
+goodtables = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.6"
