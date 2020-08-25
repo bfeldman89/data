@@ -1,4 +1,4 @@
-status,count,percent_of_total
+type,count,percent_of_total
 probation,10169,29.57%
 compact_probation,1019,2.96%
 nonadjudicated,3914,11.38%
