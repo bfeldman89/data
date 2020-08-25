@@ -107,5 +107,5 @@ venv.bak/
 .DS_Store
 .vscode/
 Pipfile.lock
-
-
+/mdoc/monthly_fact_sheets/raw/
+/mdoc/daily_pop/raw/
