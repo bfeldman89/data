@@ -139,8 +139,8 @@ muh_folders = ['specific_offense_stats',
 
 def csv_linter(folders):
     for folder in folders:
-        os.chdir(f"/Users/blakefeldman/code/data/other/{folder}")
-        # os.chdir(f"/Users/blakefeldman/code/data/mdoc/monthly_fact_sheets/{folder}")
+        # os.chdir(f"/Users/blakefeldman/code/data/other/{folder}")
+        os.chdir(f"/Users/blakefeldman/code/data/mdoc/monthly_fact_sheets/{folder}")
         files = glob.glob('*.csv')
         files.sort()
         for fn in files:
@@ -150,7 +150,7 @@ def csv_linter(folders):
             else:
                 print(
                     f"\t{report['error-count']} error(s) in {folder}/{report['tables'][0]['source']}")
-        print(f"done with {folder}!!")
+        print(f"done with {folder}!!\n\n")
 
 
 def get_coordinates(left, top, width, height):
@@ -192,11 +192,10 @@ def get_mdoc_tables(year, latice_pages, stream_pages=None):
         tables2.export(f"{year}.csv", f='csv')
 
 
-def merge_specific_offense_stats():
-    os.chdir(
-        '/Users/blakefeldman/code/data/mdoc/monthly_fact_sheets/specific_offense_stats')
-    files = glob.glob('*.csv')
-    files.sort()
+def merge_specific_offense_stats(files):
+    # os.chdir('/Users/blakefeldman/code/data/mdoc/monthly_fact_sheets/specific_offense_stats')
+    # files = glob.glob('*.csv')
+    # files.sort()
     these_rows = []
     for fn in files:
         this_dict = {'month': fn.replace('.csv', '')}
@@ -205,9 +204,9 @@ def merge_specific_offense_stats():
         for row in csv_reader:
             this_dict[row['type']] = row['count']
         these_rows.append(this_dict)
-    with open('specific_offense_stats.csv', mode='w', newline='') as csv_file:
+    with open('specific_offense_stats.csv', mode='a', newline='') as csv_file:
         fieldnames = ['month', 'armed_robbery_mandatory', 'lifers',
-                      'habitual_offenders', 'habitual_lifers', 'death_row', 'total']
+                        'habitual_offenders', 'habitual_lifers', 'death_row', 'total']
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
         writer.writeheader()
         for row in these_rows:
@@ -227,7 +226,7 @@ def merge_community_corrections_pop_by_type():
         for row in csv_reader:
             this_dict[row['status']] = row['count']
         these_rows.append(this_dict)
-    with open('community_corrections_pop_by_type.csv', mode='w', newline='') as csv_file:
+    with open('community_corrections_pop_by_type.csv', mode='a', newline='') as csv_file:
         fieldnames = ['month', 'probation', 'compact_probation', 'nonadjudicated', 'post_release', 'TVC_probation', 'probation_total',
                       'parole', 'compact_parole', 'suspension', 'TVC_parole', 'parole_total',
                       'ISP_court', 'ISP_prison', 'ISP', 'earned_release_supervision', 'medical_release', 'FTR_monitoring',
@@ -237,10 +236,19 @@ def merge_community_corrections_pop_by_type():
         for row in these_rows:
             writer.writerow(row)
 
+muh_files = ['2020-05.csv', '2020-06.csv', '2020-07.csv', '2020-08.csv']
 
 def add_columns_for_specific_offenses(files):
     for fn in files:
         df = pd.read_csv(fn, index_col='type')
-        df['count'] = df['count_without_sex_offense'] + \
-            df['count_with_sex_offense']
+        df['total_count'] = df['count_without_sex_offense'] + df['count_with_sex_offense']
         df.to_csv(f'new_{fn}')
+
+
+the_big_dict = {
+    'corrections_pop_by_type_subtotoals': ['2019-11.csv', '2019-12.csv', '2020-01.csv', '2020-01.csv', '2020-02.csv', '2020-03.csv', '2020-04.csv', '2020-05.csv', '2020-06.csv', '2020-07.csv', '2020-08.csv'],
+    'community_corrections_pop_by_type': ['2019-11.csv', '2019-12.csv', '2020-01.csv', '2020-01.csv', '2020-02.csv', '2020-03.csv', '2020-04.csv', '2020-05.csv', '2020-06.csv', '2020-07.csv', '2020-08.csv'],
+    'corrections_pop_by_type': ['2019-08.csv', '2019-09.csv', '2019-10.csv', '2019-11.csv', '2019-12.csv', '2020-01.csv', '2020-01.csv', '2020-02.csv', '2020-03.csv', '2020-04.csv', '2020-05.csv', '2020-06.csv', '2020-07.csv', '2020-08.csv']
+}
+
+['Custody Population', 'Custody Population %', 'Community Corrections', 'Community Corrections %', 'Other Custody', 'Other Custody %', 'At Large', 'At Large %', 'Off-Grounds Medical', 'Off-Grounds Medical %', 'INMATE TOTAL', 'INMATE TOTAL %', 'Parolees', 'PAROLEES %', 'TVC Parole', 'TVC Parole %', 'Probationers', 'PROBATIONERS %', 'TVC Probation', 'TVC Probation %', 'PAROLEE AND PROBATIONER TOTAL', 'PAROLEE AND PROBATIONER TOTAL %', 'TOTAL INMATES, PAROLEES, & PROBATIONERS', 'TOTAL INMATES, PAROLEES, & PROBATIONERS %']
