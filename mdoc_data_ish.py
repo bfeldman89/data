@@ -206,7 +206,7 @@ def merge_specific_offense_stats(files):
         these_rows.append(this_dict)
     with open('specific_offense_stats.csv', mode='a', newline='') as csv_file:
         fieldnames = ['month', 'armed_robbery_mandatory', 'lifers',
-                        'habitual_offenders', 'habitual_lifers', 'death_row', 'total']
+                      'habitual_offenders', 'habitual_lifers', 'death_row', 'total']
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
         writer.writeheader()
         for row in these_rows:
@@ -227,10 +227,11 @@ def merge_community_corrections_pop_by_type():
             this_dict[row['status']] = row['count']
         these_rows.append(this_dict)
     with open('community_corrections_pop_by_type.csv', mode='a', newline='') as csv_file:
-        fieldnames = ['month', 'probation', 'compact_probation', 'nonadjudicated', 'post_release', 'TVC_probation', 'probation_total',
-                      'parole', 'compact_parole', 'suspension', 'TVC_parole', 'parole_total',
-                      'ISP_court', 'ISP_prison', 'ISP', 'earned_release_supervision', 'medical_release', 'FTR_monitoring',
-                      'conditional_release', 'TVC', 'RRP', 'transitional_housing', 'community_inmate_total', 'total']
+        fieldnames = ['month', 'probation', 'compact_probation', 'nonadjudicated', 'post_release',
+                      'TVC_probation', 'probation_total', 'parole', 'compact_parole', 'suspension',
+                      'TVC_parole', 'parole_total', 'ISP_court', 'ISP_prison', 'ISP',
+                      'earned_release_supervision', 'medical_release', 'FTR_monitoring', 'conditional_release',
+                      'TVC', 'RRP', 'transitional_housing', 'community_inmate_total', 'total']
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
         writer.writeheader()
         for row in these_rows:
@@ -243,12 +244,3 @@ def add_columns_for_specific_offenses(files):
         df = pd.read_csv(fn, index_col='type')
         df['total_count'] = df['count_without_sex_offense'] + df['count_with_sex_offense']
         df.to_csv(f'new_{fn}')
-
-
-the_big_dict = {
-    'corrections_pop_by_type_subtotoals': ['2019-11.csv', '2019-12.csv', '2020-01.csv', '2020-01.csv', '2020-02.csv', '2020-03.csv', '2020-04.csv', '2020-05.csv', '2020-06.csv', '2020-07.csv', '2020-08.csv'],
-    'community_corrections_pop_by_type': ['2019-11.csv', '2019-12.csv', '2020-01.csv', '2020-01.csv', '2020-02.csv', '2020-03.csv', '2020-04.csv', '2020-05.csv', '2020-06.csv', '2020-07.csv', '2020-08.csv'],
-    'corrections_pop_by_type': ['2019-08.csv', '2019-09.csv', '2019-10.csv', '2019-11.csv', '2019-12.csv', '2020-01.csv', '2020-01.csv', '2020-02.csv', '2020-03.csv', '2020-04.csv', '2020-05.csv', '2020-06.csv', '2020-07.csv', '2020-08.csv']
-}
-
-['Custody Population', 'Custody Population %', 'Community Corrections', 'Community Corrections %', 'Other Custody', 'Other Custody %', 'At Large', 'At Large %', 'Off-Grounds Medical', 'Off-Grounds Medical %', 'INMATE TOTAL', 'INMATE TOTAL %', 'Parolees', 'PAROLEES %', 'TVC Parole', 'TVC Parole %', 'Probationers', 'PROBATIONERS %', 'TVC Probation', 'TVC Probation %', 'PAROLEE AND PROBATIONER TOTAL', 'PAROLEE AND PROBATIONER TOTAL %', 'TOTAL INMATES, PAROLEES, & PROBATIONERS', 'TOTAL INMATES, PAROLEES, & PROBATIONERS %']
