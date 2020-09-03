@@ -10,7 +10,6 @@ import pandas as pd
 
 from airtable import Airtable
 from documentcloud import DocumentCloud
-from goodtables import validate
 
 airtab = Airtable(os.environ['other_scrapers_db'],
                   'mdoc', os.environ['AIRTABLE_API_KEY'])
@@ -135,22 +134,6 @@ muh_folders = ['specific_offense_stats',
                'corrections_pop_by_type',
                'community_corrections_pop_by_type',
                'inmate_pop_by_offense_and_location']
-
-
-def csv_linter(folders):
-    for folder in folders:
-        # os.chdir(f"/Users/blakefeldman/code/data/other/{folder}")
-        os.chdir(f"/Users/blakefeldman/code/data/mdoc/monthly_fact_sheets/{folder}")
-        files = glob.glob('*.csv')
-        files.sort()
-        for fn in files:
-            report = validate(fn)
-            if report['valid']:
-                pass
-            else:
-                print(
-                    f"\t{report['error-count']} error(s) in {folder}/{report['tables'][0]['source']}")
-        print(f"done with {folder}!!\n\n")
 
 
 def get_coordinates(left, top, width, height):
