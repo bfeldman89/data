@@ -1,11 +1,12 @@
 #!/usr/bin/env python
+import os
 import time
 
 from airtable import Airtable
 import requests
 from bs4 import BeautifulSoup
 
-airtab_mcj_counties = Airtable('appDB44V7wmSngF4g', 'counties', 'keyQoAtXrlrnUvtKv')
+airtab_mcj_counties = Airtable(os.environ['bos_db'], 'counties', os.environ['AIRTABLE_API_KEY'])
 list_of_dicts = []
 root_url = 'https://www.mssupervisors.org'
 
