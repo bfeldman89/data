@@ -8,11 +8,12 @@ import time
 import camelot
 import pandas as pd
 
-from airtable import Airtable
+from pyairtable import Api
 from documentcloud import DocumentCloud
 
-airtab = Airtable(os.environ['other_scrapers_db'],
-                  'mdoc', os.environ['AIRTABLE_API_KEY'])
+api = Api(os.environ['AIRTABLE_PAT'])
+
+airtab = api.table(os.environ['other_scrapers_db'], 'mdoc')
 
 dc = DocumentCloud(username=os.environ['MUCKROCK_USERNAME'],
                    password=os.environ['MUCKROCK_PW'])
@@ -20,7 +21,7 @@ dc = DocumentCloud(username=os.environ['MUCKROCK_USERNAME'],
 
 def get_raw_dp_csvs():
     os.chdir('/Users/blakefeldman/code/data/mdoc/daily_pop/raw')
-    records = airtab.get_all(view='dp needs csv', fields=['url', 'iso', 'dc_pages'])
+    records = airtab.all(view='dp needs csv', fields=['url', 'iso', 'dc_pages'])
     for rec in records:
         fn = f"{rec['fields']['iso']}.csv"
         pages = f"1-{rec['fields']['dc_pages']}"
@@ -31,7 +32,7 @@ def get_raw_dp_csvs():
 
 def get_raw_mfs_csvs():
     os.chdir('/Users/blakefeldman/code/data/mdoc/monthly_fact_sheets/raw')
-    records = airtab.get_all(view='mfs_needs_tables_extracted', fields=['url', 'iso', 'dc_pages'])
+    records = airtab.all(view='mfs_needs_tables_extracted', fields=['url', 'iso', 'dc_pages'])
     for rec in records:
         fn = f"{rec['fields']['iso']}.csv"
         pages = f"1-{rec['fields']['dc_pages']}"
@@ -49,7 +50,7 @@ def transpose_raw_csvs():
 
 
 def csv_to_airtab(files):
-    airtab_dp = Airtable(os.environ['other_scrapers_db'], 'mdoc daily pop data', os.environ['AIRTABLE_API_KEY'])
+    airtab_dp = api.table(os.environ['other_scrapers_db'], 'mdoc daily pop data')
     for fn in files:
         with open(fn, newline='') as csvfile:
             reader = csv.DictReader(csvfile)
@@ -76,7 +77,7 @@ def reorganize_files():
 
 
 def csv_writer():
-    records = airtab.get_all(view='dev', fields=['dc_id', 'txt_2'])
+    records = airtab.all(view='dev', fields=['dc_id', 'txt_2'])
     for rec in records:
         fn = rec['fields']['csv']
         content = rec['fields']['txt_2']
@@ -86,7 +87,7 @@ def csv_writer():
 
 
 def get_txt():
-    records = airtab.get_all(view='dev', fields='dc_id')
+    records = airtab.all(view='dev', fields='dc_id')
     for rec in records:
         obj = dc.documents.get(rec['fields']['dc_id'])
         this_dict = {}
@@ -98,7 +99,7 @@ def get_txt():
 def some_shit():
     os.chdir('parole_statistics_by_race_and_sex')
     os.getcwd()
-    records = airtab.get_all(view='dev', fields=['txt_8', 'csv'])
+    records = airtab.all(view='dev', fields=['txt_8', 'csv'])
     len(records)
     for rec in records:
         fn = rec['fields']['csv']
@@ -114,7 +115,7 @@ def fix_fn():
         if len(fn) > 11:
             os.rename(fn, f"{fn[:7]}.csv")
 
-    records = airtab.get_all(view='dev', fields=['url', 'csv', 'p'])
+    records = airtab.all(view='dev', fields=['url', 'csv', 'p'])
     for rec in records:
         tables = camelot.read_pdf(
             rec['fields']['url'], flavor='stream', pages='2', table_regions=['50,342,487,160'])
@@ -146,7 +147,7 @@ def get_coordinates(left, top, width, height):
 
 def merge_dp():
     os.chdir('/Users/blakefeldman/code/data/mdoc/daily_pop/per_page')
-    records = airtab.get_all(view='dp needs csv', fields=['iso', 'dc_pages'])
+    records = airtab.all(view='dp needs csv', fields=['iso', 'dc_pages'])
     for rec in records:
         a = pd.read_csv(f"{rec['fields']['iso']}-p1.csv")
         b = pd.read_csv(f"{rec['fields']['iso']}-p2.csv")
